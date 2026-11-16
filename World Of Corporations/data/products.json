@@ -1,0 +1,441 @@
+{
+  "source": "DATA.PRODUCTS in the supplied index.html",
+  "description": "Product and product-family names grouped by company. The source does not define individual product prices or sales volumes here.",
+  "companies": [
+    {
+      "company": "Apple",
+      "products": [
+        "iPhone",
+        "MacBook",
+        "iMac",
+        "Mac mini",
+        "iPad",
+        "Apple Watch",
+        "AirPods",
+        "Apple TV",
+        "Vision Pro"
+      ]
+    },
+    {
+      "company": "Samsung Electronics",
+      "products": [
+        "Galaxy S",
+        "Galaxy Z",
+        "Galaxy Tab",
+        "Galaxy Watch",
+        "Galaxy Buds",
+        "Neo QLED TVs",
+        "Odyssey monitors",
+        "Galaxy Book",
+        "SSD"
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "products": [
+        "Windows",
+        "Microsoft 365",
+        "Surface",
+        "Xbox",
+        "Azure",
+        "Copilot"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "products": [
+        "Kindle",
+        "Echo",
+        "Fire TV",
+        "Ring",
+        "eero",
+        "AWS"
+      ]
+    },
+    {
+      "company": "Alphabet",
+      "products": [
+        "Google Pixel",
+        "Pixel Watch",
+        "Pixel Buds",
+        "Nest",
+        "Chromecast"
+      ]
+    },
+    {
+      "company": "Sony",
+      "products": [
+        "PlayStation",
+        "Bravia TVs",
+        "Alpha cameras",
+        "WH headphones",
+        "Image sensors"
+      ]
+    },
+    {
+      "company": "NVIDIA",
+      "products": [
+        "GeForce RTX GPUs",
+        "RTX PRO GPUs",
+        "DGX systems",
+        "Jetson",
+        "Grace CPUs",
+        "Networking"
+      ]
+    },
+    {
+      "company": "AMD",
+      "products": [
+        "Ryzen CPUs",
+        "EPYC CPUs",
+        "Radeon GPUs",
+        "Instinct accelerators"
+      ]
+    },
+    {
+      "company": "Intel",
+      "products": [
+        "Core processors",
+        "Xeon processors",
+        "Arc GPUs",
+        "Gaudi accelerators"
+      ]
+    },
+    {
+      "company": "Tesla",
+      "products": [
+        "Model 3",
+        "Model Y",
+        "Model S",
+        "Model X",
+        "Cybertruck",
+        "Powerwall",
+        "Megapack",
+        "Supercharger"
+      ]
+    },
+    {
+      "company": "Toyota",
+      "products": [
+        "Corolla",
+        "Camry",
+        "RAV4",
+        "Prius",
+        "Land Cruiser",
+        "Hilux"
+      ]
+    },
+    {
+      "company": "Volkswagen",
+      "products": [
+        "Golf",
+        "Tiguan",
+        "ID.4",
+        "ID. Buzz",
+        "Passat"
+      ]
+    },
+    {
+      "company": "BMW",
+      "products": [
+        "3 Series",
+        "5 Series",
+        "7 Series",
+        "X3",
+        "X5",
+        "i4",
+        "iX"
+      ]
+    },
+    {
+      "company": "Mercedes-Benz",
+      "products": [
+        "C-Class",
+        "E-Class",
+        "S-Class",
+        "GLC",
+        "EQS",
+        "AMG models"
+      ]
+    },
+    {
+      "company": "Ford Motor Company",
+      "products": [
+        "F-150",
+        "Mustang",
+        "Explorer",
+        "Transit",
+        "Ranger"
+      ]
+    },
+    {
+      "company": "General Motors",
+      "products": [
+        "Chevrolet Silverado",
+        "Chevrolet Equinox",
+        "Cadillac Lyriq",
+        "GMC Sierra"
+      ]
+    },
+    {
+      "company": "Nike",
+      "products": [
+        "Air Max",
+        "Air Force 1",
+        "Dunk",
+        "Pegasus",
+        "Mercurial",
+        "Jordan"
+      ]
+    },
+    {
+      "company": "Adidas",
+      "products": [
+        "Ultraboost",
+        "Samba",
+        "Gazelle",
+        "Superstar",
+        "Predator",
+        "Adizero"
+      ]
+    },
+    {
+      "company": "Puma",
+      "products": [
+        "Suede",
+        "RS-X",
+        "Future",
+        "Deviate Nitro"
+      ]
+    },
+    {
+      "company": "Under Armour",
+      "products": [
+        "Curry",
+        "HOVR",
+        "HeatGear",
+        "ColdGear"
+      ]
+    },
+    {
+      "company": "GoPro",
+      "products": [
+        "HERO cameras",
+        "MAX 360",
+        "Media Mod",
+        "Enduro batteries"
+      ]
+    },
+    {
+      "company": "Crocs",
+      "products": [
+        "Classic Clog",
+        "Echo Clog",
+        "Jibbitz charms"
+      ]
+    },
+    {
+      "company": "Mattel",
+      "products": [
+        "Barbie",
+        "Hot Wheels",
+        "Fisher-Price",
+        "UNO"
+      ]
+    },
+    {
+      "company": "Hasbro",
+      "products": [
+        "Monopoly",
+        "Transformers",
+        "Play-Doh",
+        "Nerf"
+      ]
+    },
+    {
+      "company": "Nintendo",
+      "products": [
+        "Nintendo Switch",
+        "Joy-Con",
+        "Mario games",
+        "Zelda games",
+        "Pokémon games"
+      ]
+    },
+    {
+      "company": "Electronic Arts",
+      "products": [
+        "EA Sports FC",
+        "The Sims",
+        "Apex Legends",
+        "Battlefield"
+      ]
+    },
+    {
+      "company": "Take-Two Interactive",
+      "products": [
+        "Grand Theft Auto",
+        "NBA 2K",
+        "Red Dead Redemption",
+        "WWE 2K"
+      ]
+    },
+    {
+      "company": "Roblox",
+      "products": [
+        "Roblox platform",
+        "Roblox Studio",
+        "Robux"
+      ]
+    },
+    {
+      "company": "Roku",
+      "products": [
+        "Roku streaming players",
+        "Roku TVs",
+        "Roku smart home"
+      ]
+    },
+    {
+      "company": "Starbucks",
+      "products": [
+        "Coffee drinks",
+        "Tea drinks",
+        "Refreshers",
+        "Packaged coffee"
+      ]
+    },
+    {
+      "company": "McDonald’s",
+      "products": [
+        "Burgers",
+        "Chicken McNuggets",
+        "Fries",
+        "Breakfast menu"
+      ]
+    },
+    {
+      "company": "Coca-Cola",
+      "products": [
+        "Coca-Cola",
+        "Sprite",
+        "Fanta",
+        "Powerade",
+        "Minute Maid"
+      ]
+    },
+    {
+      "company": "PepsiCo",
+      "products": [
+        "Pepsi",
+        "Lay’s",
+        "Doritos",
+        "Gatorade",
+        "Quaker"
+      ]
+    },
+    {
+      "company": "Kraft Heinz",
+      "products": [
+        "Heinz ketchup",
+        "Kraft cheese",
+        "Philadelphia",
+        "Oscar Mayer"
+      ]
+    },
+    {
+      "company": "Hershey",
+      "products": [
+        "Hershey’s chocolate",
+        "Reese’s",
+        "Twizzlers"
+      ]
+    },
+    {
+      "company": "Ferrari",
+      "products": [
+        "296 GTB",
+        "SF90 Stradale",
+        "Purosangue",
+        "12Cilindri"
+      ]
+    },
+    {
+      "company": "Airbus",
+      "products": [
+        "A220",
+        "A320neo family",
+        "A330neo",
+        "A350",
+        "A380",
+        "H125 helicopters"
+      ]
+    },
+    {
+      "company": "Boeing",
+      "products": [
+        "737 MAX",
+        "787 Dreamliner",
+        "777X",
+        "767",
+        "P-8"
+      ]
+    },
+    {
+      "company": "Rolls-Royce",
+      "products": [
+        "Trent engines",
+        "Pearl engines",
+        "Power Systems",
+        "MTU engines"
+      ]
+    },
+    {
+      "company": "Caterpillar",
+      "products": [
+        "Excavators",
+        "Bulldozers",
+        "Mining trucks",
+        "Diesel engines"
+      ]
+    },
+    {
+      "company": "Home Depot",
+      "products": [
+        "Tools",
+        "Building materials",
+        "Lumber",
+        "Paint",
+        "Home appliances"
+      ]
+    },
+    {
+      "company": "Costco",
+      "products": [
+        "Kirkland Signature",
+        "Groceries",
+        "Electronics",
+        "Household goods"
+      ]
+    },
+    {
+      "company": "Walmart",
+      "products": [
+        "Groceries",
+        "Electronics",
+        "Home goods",
+        "Apparel"
+      ]
+    },
+    {
+      "company": "Marriott International",
+      "products": [
+        "Marriott Hotels",
+        "Ritz-Carlton",
+        "Westin",
+        "Sheraton",
+        "W Hotels"
+      ]
+    }
+  ]
+}

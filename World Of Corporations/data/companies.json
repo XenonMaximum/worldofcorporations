@@ -1,0 +1,5318 @@
+{
+  "schema_version": 1,
+  "source_game_version": "1.15 Tech Tree XI",
+  "currency": "USD",
+  "value_unit": "billion",
+  "companies": [
+    {
+      "name": "GoPro",
+      "business": "Electronics",
+      "initial_value_billion_usd": 0.3,
+      "technology_tags": [
+        "tech"
+      ],
+      "products": [
+        "HERO cameras",
+        "MAX 360",
+        "Media Mod",
+        "Enduro batteries"
+      ]
+    },
+    {
+      "name": "Crocs",
+      "business": "Footwear",
+      "initial_value_billion_usd": 6.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "products": [
+        "Classic Clog",
+        "Echo Clog",
+        "Jibbitz charms"
+      ]
+    },
+    {
+      "name": "Under Armour",
+      "business": "Apparel",
+      "initial_value_billion_usd": 2.5,
+      "technology_tags": [
+        "retail"
+      ],
+      "products": [
+        "Curry",
+        "HOVR",
+        "HeatGear",
+        "ColdGear"
+      ]
+    },
+    {
+      "name": "Mattel",
+      "business": "Toys",
+      "initial_value_billion_usd": 7.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "products": [
+        "Barbie",
+        "Hot Wheels",
+        "Fisher-Price",
+        "UNO"
+      ]
+    },
+    {
+      "name": "JetBlue Airways",
+      "business": "Aviation",
+      "initial_value_billion_usd": 2.0,
+      "technology_tags": [
+        "air"
+      ]
+    },
+    {
+      "name": "Lucid Group",
+      "business": "Electric vehicles",
+      "initial_value_billion_usd": 3.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Embraer",
+      "business": "Regional jets",
+      "initial_value_billion_usd": 8.0,
+      "technology_tags": [],
+      "founders": "Brazilian government (Ozires Silva)"
+    },
+    {
+      "name": "Peloton",
+      "business": "Fitness",
+      "initial_value_billion_usd": 3.0,
+      "technology_tags": [
+        "retail"
+      ]
+    },
+    {
+      "name": "IonQ",
+      "business": "Quantum computers",
+      "initial_value_billion_usd": 9.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Western Union",
+      "business": "Finance",
+      "initial_value_billion_usd": 10.0,
+      "technology_tags": [
+        "fin"
+      ]
+    },
+    {
+      "name": "Hasbro",
+      "business": "Toys",
+      "initial_value_billion_usd": 11.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "products": [
+        "Monopoly",
+        "Transformers",
+        "Play-Doh",
+        "Nerf"
+      ]
+    },
+    {
+      "name": "Wise",
+      "business": "Money transfers",
+      "initial_value_billion_usd": 11.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Rivian",
+      "business": "Electric cars",
+      "initial_value_billion_usd": 15.0,
+      "technology_tags": [
+        "auto",
+        "energy"
+      ],
+      "brands": [
+        "R1T",
+        "R1S",
+        "Commercial Van",
+        "Rivian Adventure Network"
+      ],
+      "competitors": [
+        "Tesla",
+        "Ford Motor Company",
+        "General Motors",
+        "Lucid Group"
+      ]
+    },
+    {
+      "name": "Unity Software",
+      "business": "Game engine",
+      "initial_value_billion_usd": 12.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Lufthansa",
+      "business": "Aviation",
+      "initial_value_billion_usd": 12.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Duolingo",
+      "business": "Language learning",
+      "initial_value_billion_usd": 13.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Lyft",
+      "business": "Transport",
+      "initial_value_billion_usd": 14.0,
+      "technology_tags": [
+        "tech",
+        "auto"
+      ]
+    },
+    {
+      "name": "Rocket Lab",
+      "business": "Small launch & space",
+      "initial_value_billion_usd": 35.0,
+      "technology_tags": [],
+      "competitors": [
+        "SpaceX"
+      ],
+      "founders": "Peter Beck"
+    },
+    {
+      "name": "Instacart",
+      "business": "Grocery delivery",
+      "initial_value_billion_usd": 15.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Etsy",
+      "business": "E-commerce",
+      "initial_value_billion_usd": 16.0,
+      "technology_tags": [
+        "retail",
+        "tech"
+      ]
+    },
+    {
+      "name": "Roku",
+      "business": "Streaming",
+      "initial_value_billion_usd": 18.0,
+      "technology_tags": [
+        "media",
+        "tech"
+      ],
+      "products": [
+        "Roku streaming players",
+        "Roku TVs",
+        "Roku smart home"
+      ]
+    },
+    {
+      "name": "Southwest Airlines",
+      "business": "Aviation",
+      "initial_value_billion_usd": 18.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Zalando",
+      "business": "Online retail",
+      "initial_value_billion_usd": 20.0,
+      "technology_tags": [
+        "retail"
+      ]
+    },
+    {
+      "name": "Carnival",
+      "business": "Cruises",
+      "initial_value_billion_usd": 20.0,
+      "technology_tags": [
+        "retail"
+      ]
+    },
+    {
+      "name": "Zoom Communications",
+      "business": "Video software",
+      "initial_value_billion_usd": 20.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Ørsted",
+      "business": "Offshore wind",
+      "initial_value_billion_usd": 20.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Illumina",
+      "business": "Genomics",
+      "initial_value_billion_usd": 20.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Klarna",
+      "business": "Pay later",
+      "initial_value_billion_usd": 20.0,
+      "technology_tags": [],
+      "brands": [
+        "Klarna Pay in 4",
+        "Klarna Card",
+        "Klarna Shopping",
+        "Klarna Checkout"
+      ]
+    },
+    {
+      "name": "Reddit",
+      "business": "Social platform",
+      "initial_value_billion_usd": 20.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Figma",
+      "business": "Design software",
+      "initial_value_billion_usd": 20.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Wizz Air",
+      "business": "Aviation",
+      "initial_value_billion_usd": 22.0,
+      "technology_tags": [
+        "air"
+      ],
+      "founders": "József Váradi"
+    },
+    {
+      "name": "Coinbase",
+      "business": "Crypto exchange",
+      "initial_value_billion_usd": 24.0,
+      "technology_tags": [
+        "fin",
+        "tech"
+      ],
+      "brands": [
+        "Coinbase Exchange",
+        "Coinbase Prime",
+        "Base",
+        "Coinbase Wallet"
+      ],
+      "competitors": [
+        "PayPal",
+        "Block"
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "business": "Social media",
+      "initial_value_billion_usd": 25.0,
+      "technology_tags": [
+        "media",
+        "tech"
+      ]
+    },
+    {
+      "name": "Vestas",
+      "business": "Wind turbines",
+      "initial_value_billion_usd": 25.0,
+      "technology_tags": []
+    },
+    {
+      "name": "United Airlines",
+      "business": "Aviation",
+      "initial_value_billion_usd": 25.0,
+      "technology_tags": []
+    },
+    {
+      "name": "GlobalFoundries",
+      "business": "Chip foundry",
+      "initial_value_billion_usd": 25.0,
+      "technology_tags": []
+    },
+    {
+      "name": "First Solar",
+      "business": "Solar",
+      "initial_value_billion_usd": 25.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Panasonic",
+      "business": "Electronics & batteries",
+      "initial_value_billion_usd": 25.0,
+      "technology_tags": [],
+      "brands": [
+        "Panasonic Energy",
+        "Technics",
+        "LUMIX",
+        "Toughbook",
+        "Panasonic Connect"
+      ]
+    },
+    {
+      "name": "Lululemon",
+      "business": "Apparel",
+      "initial_value_billion_usd": 26.0,
+      "technology_tags": [
+        "retail"
+      ]
+    },
+    {
+      "name": "Snap",
+      "business": "Social media",
+      "initial_value_billion_usd": 28.0,
+      "technology_tags": [
+        "media",
+        "tech"
+      ]
+    },
+    {
+      "name": "Take-Two Interactive",
+      "business": "Gaming",
+      "initial_value_billion_usd": 30.0,
+      "technology_tags": [
+        "game",
+        "media"
+      ],
+      "brands": [
+        "Rockstar Games",
+        "2K",
+        "Zynga",
+        "Grand Theft Auto",
+        "NBA 2K"
+      ],
+      "products": [
+        "Grand Theft Auto",
+        "NBA 2K",
+        "Red Dead Redemption",
+        "WWE 2K"
+      ],
+      "notable_acquisitions": [
+        "Zynga",
+        "Rockstar Games",
+        "Social Point"
+      ],
+      "competitors": [
+        "Electronic Arts",
+        "Nintendo",
+        "Roblox"
+      ]
+    },
+    {
+      "name": "Ryanair",
+      "business": "Aviation",
+      "initial_value_billion_usd": 30.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Robinhood",
+      "business": "Brokerage",
+      "initial_value_billion_usd": 30.0,
+      "technology_tags": []
+    },
+    {
+      "name": "BOE Technology",
+      "business": "Displays",
+      "initial_value_billion_usd": 30.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Electronic Arts",
+      "business": "Gaming",
+      "initial_value_billion_usd": 33.0,
+      "technology_tags": [
+        "game",
+        "media"
+      ],
+      "brands": [
+        "EA Sports FC",
+        "Madden NFL",
+        "The Sims",
+        "Apex Legends",
+        "Battlefield"
+      ],
+      "products": [
+        "EA Sports FC",
+        "The Sims",
+        "Apex Legends",
+        "Battlefield"
+      ],
+      "notable_acquisitions": [
+        "Codemasters",
+        "Respawn Entertainment",
+        "PopCap Games"
+      ],
+      "competitors": [
+        "Take-Two Interactive",
+        "Nintendo",
+        "Roblox"
+      ]
+    },
+    {
+      "name": "Royal Caribbean",
+      "business": "Cruises",
+      "initial_value_billion_usd": 35.0,
+      "technology_tags": [
+        "retail"
+      ]
+    },
+    {
+      "name": "Pernod Ricard",
+      "business": "Spirits",
+      "initial_value_billion_usd": 35.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Rheinmetall",
+      "business": "Defense",
+      "initial_value_billion_usd": 35.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Roblox",
+      "business": "Gaming",
+      "initial_value_billion_usd": 36.0,
+      "technology_tags": [
+        "game",
+        "tech"
+      ],
+      "brands": [
+        "Roblox Platform",
+        "Roblox Studio",
+        "Robux",
+        "Creator Marketplace"
+      ],
+      "products": [
+        "Roblox platform",
+        "Roblox Studio",
+        "Robux"
+      ],
+      "competitors": [
+        "Take-Two Interactive",
+        "Electronic Arts",
+        "Nintendo"
+      ]
+    },
+    {
+      "name": "Hershey",
+      "business": "Sweets",
+      "initial_value_billion_usd": 40.0,
+      "technology_tags": [
+        "food"
+      ],
+      "products": [
+        "Hershey’s chocolate",
+        "Reese’s",
+        "Twizzlers"
+      ]
+    },
+    {
+      "name": "Adidas",
+      "business": "Sportswear",
+      "initial_value_billion_usd": 40.0,
+      "technology_tags": [],
+      "brands": [
+        "Adidas",
+        "Adidas Originals",
+        "Five Ten",
+        "Runtastic"
+      ],
+      "products": [
+        "Ultraboost",
+        "Samba",
+        "Gazelle",
+        "Superstar",
+        "Predator",
+        "Adizero"
+      ],
+      "competitors": [
+        "Nike",
+        "Puma",
+        "Under Armour",
+        "Lululemon"
+      ]
+    },
+    {
+      "name": "Block",
+      "business": "Payments",
+      "initial_value_billion_usd": 40.0,
+      "technology_tags": [],
+      "brands": [
+        "Square",
+        "Cash App",
+        "Afterpay",
+        "TIDAL"
+      ]
+    },
+    {
+      "name": "Puma",
+      "business": "Sportswear",
+      "initial_value_billion_usd": 43.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "products": [
+        "Suede",
+        "RS-X",
+        "Future",
+        "Deviate Nitro"
+      ]
+    },
+    {
+      "name": "Moderna",
+      "business": "mRNA biotech",
+      "initial_value_billion_usd": 45.0,
+      "technology_tags": []
+    },
+    {
+      "name": "SMIC",
+      "business": "Chip foundry",
+      "initial_value_billion_usd": 45.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Infineon",
+      "business": "Power chips",
+      "initial_value_billion_usd": 45.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Honda",
+      "business": "Automotive",
+      "initial_value_billion_usd": 45.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Renault",
+      "business": "Automotive",
+      "initial_value_billion_usd": 46.0,
+      "technology_tags": [
+        "auto"
+      ],
+      "brands": [
+        "Renault",
+        "Dacia",
+        "Alpine",
+        "Mobilize"
+      ]
+    },
+    {
+      "name": "Nokia",
+      "business": "Telecom",
+      "initial_value_billion_usd": 50.0,
+      "technology_tags": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Hyundai",
+      "business": "Automotive",
+      "initial_value_billion_usd": 50.0,
+      "technology_tags": []
+    },
+    {
+      "name": "BAE Systems",
+      "business": "Defense",
+      "initial_value_billion_usd": 50.0,
+      "technology_tags": []
+    },
+    {
+      "name": "PayPal",
+      "business": "Payments",
+      "initial_value_billion_usd": 55.0,
+      "technology_tags": [
+        "fin",
+        "tech"
+      ],
+      "brands": [
+        "PayPal",
+        "Venmo",
+        "Braintree",
+        "Xoom"
+      ],
+      "notable_acquisitions": [
+        "Braintree",
+        "Venmo",
+        "Honey",
+        "Xoom"
+      ],
+      "competitors": [
+        "Visa",
+        "Mastercard",
+        "Block",
+        "Shopify"
+      ],
+      "former_names": "Confinity / X.com"
+    },
+    {
+      "name": "Vale",
+      "business": "Mining",
+      "initial_value_billion_usd": 55.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Stellantis",
+      "business": "Automotive",
+      "initial_value_billion_usd": 56.0,
+      "technology_tags": [
+        "auto"
+      ],
+      "brands": [
+        "Jeep",
+        "Ram",
+        "Peugeot",
+        "Fiat",
+        "Opel",
+        "Citroën",
+        "Maserati",
+        "Alfa Romeo"
+      ]
+    },
+    {
+      "name": "Volkswagen",
+      "business": "Automotive",
+      "initial_value_billion_usd": 58.0,
+      "technology_tags": [
+        "auto"
+      ],
+      "brands": [
+        "Volkswagen",
+        "Audi",
+        "Porsche",
+        "Škoda",
+        "SEAT/Cupra",
+        "Volkswagen Commercial Vehicles"
+      ],
+      "products": [
+        "Golf",
+        "Tiguan",
+        "ID.4",
+        "ID. Buzz",
+        "Passat"
+      ],
+      "competitors": [
+        "Toyota",
+        "Stellantis",
+        "BMW",
+        "Mercedes-Benz",
+        "Renault",
+        "Tesla"
+      ],
+      "real_world_reference": {
+        "founded": "1937",
+        "headquarters": "Wolfsburg, Germany",
+        "description": "Automobiles",
+        "website": "https://www.vw.com/"
+      }
+    },
+    {
+      "name": "Kraft Heinz",
+      "business": "Food",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": [
+        "food"
+      ],
+      "brands": [
+        "Heinz",
+        "Kraft",
+        "Philadelphia",
+        "Oscar Mayer",
+        "Capri Sun (US license)"
+      ],
+      "products": [
+        "Heinz ketchup",
+        "Kraft cheese",
+        "Philadelphia",
+        "Oscar Mayer"
+      ]
+    },
+    {
+      "name": "Rolls-Royce",
+      "business": "Aerospace",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": [
+        "air",
+        "ind"
+      ],
+      "products": [
+        "Trent engines",
+        "Pearl engines",
+        "Power Systems",
+        "MTU engines"
+      ]
+    },
+    {
+      "name": "Snowflake",
+      "business": "Cloud data",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": [],
+      "competitors": [
+        "Microsoft",
+        "Amazon",
+        "Alphabet",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "Target",
+      "business": "Retail",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": []
+    },
+    {
+      "name": "MediaTek",
+      "business": "Mobile chips",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Foxconn",
+      "business": "Electronics manufacturing",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": [],
+      "brands": [
+        "Foxconn Electronics",
+        "Foxtron",
+        "Industrial Internet",
+        "EV Contract Manufacturing"
+      ],
+      "founders": "Terry Gou"
+    },
+    {
+      "name": "LG Energy Solution",
+      "business": "Batteries",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": []
+    },
+    {
+      "name": "SABIC",
+      "business": "Chemicals",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Naspers",
+      "business": "Internet",
+      "initial_value_billion_usd": 60.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Western Digital",
+      "business": "Computer memory",
+      "initial_value_billion_usd": 65.0,
+      "technology_tags": [
+        "tech",
+        "semi"
+      ]
+    },
+    {
+      "name": "General Dynamics",
+      "business": "Defense",
+      "initial_value_billion_usd": 65.0,
+      "technology_tags": []
+    },
+    {
+      "name": "BMW",
+      "business": "Automotive",
+      "initial_value_billion_usd": 68.0,
+      "technology_tags": [
+        "auto"
+      ],
+      "brands": [
+        "BMW",
+        "MINI",
+        "Rolls-Royce Motor Cars",
+        "BMW Motorrad"
+      ],
+      "products": [
+        "3 Series",
+        "5 Series",
+        "7 Series",
+        "X3",
+        "X5",
+        "i4",
+        "iX"
+      ]
+    },
+    {
+      "name": "Kroger",
+      "business": "Supermarkets",
+      "initial_value_billion_usd": 70.0,
+      "technology_tags": [
+        "retail",
+        "food"
+      ],
+      "brands": [
+        "Kroger",
+        "Fred Meyer",
+        "Ralphs",
+        "King Soopers",
+        "Harris Teeter"
+      ]
+    },
+    {
+      "name": "Chipotle",
+      "business": "Restaurants",
+      "initial_value_billion_usd": 70.0,
+      "technology_tags": [
+        "food",
+        "retail"
+      ]
+    },
+    {
+      "name": "Nintendo",
+      "business": "Video games",
+      "initial_value_billion_usd": 70.0,
+      "technology_tags": [],
+      "brands": [
+        "Nintendo Switch",
+        "Super Mario",
+        "The Legend of Zelda",
+        "Pokémon (license)",
+        "Nintendo eShop"
+      ],
+      "products": [
+        "Nintendo Switch",
+        "Joy-Con",
+        "Mario games",
+        "Zelda games",
+        "Pokémon games"
+      ]
+    },
+    {
+      "name": "FedEx",
+      "business": "Logistics",
+      "initial_value_billion_usd": 70.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Delta Air Lines",
+      "business": "Aviation",
+      "initial_value_billion_usd": 75.0,
+      "technology_tags": [
+        "air"
+      ]
+    },
+    {
+      "name": "Northrop Grumman",
+      "business": "Defense & space",
+      "initial_value_billion_usd": 75.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Mercedes-Benz",
+      "business": "Automotive",
+      "initial_value_billion_usd": 78.0,
+      "technology_tags": [
+        "auto"
+      ],
+      "brands": [
+        "Mercedes-Benz",
+        "Mercedes-AMG",
+        "Mercedes-Maybach",
+        "Mercedes-Benz Vans"
+      ],
+      "products": [
+        "C-Class",
+        "E-Class",
+        "S-Class",
+        "GLC",
+        "EQS",
+        "AMG models"
+      ]
+    },
+    {
+      "name": "Colgate-Palmolive",
+      "business": "Consumer goods",
+      "initial_value_billion_usd": 80.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "brands": [
+        "Colgate",
+        "Palmolive",
+        "Hill’s Pet Nutrition",
+        "elmex"
+      ]
+    },
+    {
+      "name": "Airbnb",
+      "business": "Travel",
+      "initial_value_billion_usd": 84.0,
+      "technology_tags": [
+        "retail",
+        "tech"
+      ],
+      "brands": [
+        "Airbnb Homes",
+        "Airbnb Experiences",
+        "Airbnb Services"
+      ],
+      "notable_acquisitions": [
+        "HotelTonight",
+        "Luxury Retreats",
+        "Urbandoor"
+      ],
+      "competitors": [
+        "Booking Holdings",
+        "Marriott International"
+      ],
+      "real_world_reference": {
+        "founded": "2008",
+        "headquarters": "San Francisco, USA",
+        "description": "Short-term rentals",
+        "website": "https://www.airbnb.com/"
+      }
+    },
+    {
+      "name": "Marriott International",
+      "business": "Hotels",
+      "initial_value_billion_usd": 85.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "brands": [
+        "Marriott Hotels",
+        "The Ritz-Carlton",
+        "St. Regis",
+        "Sheraton",
+        "Westin",
+        "W Hotels"
+      ],
+      "products": [
+        "Marriott Hotels",
+        "Ritz-Carlton",
+        "Westin",
+        "Sheraton",
+        "W Hotels"
+      ]
+    },
+    {
+      "name": "Ferrari",
+      "business": "Luxury cars",
+      "initial_value_billion_usd": 85.0,
+      "technology_tags": [],
+      "products": [
+        "296 GTB",
+        "SF90 Stradale",
+        "Purosangue",
+        "12Cilindri"
+      ]
+    },
+    {
+      "name": "Dell Technologies",
+      "business": "Computers",
+      "initial_value_billion_usd": 85.0,
+      "technology_tags": [],
+      "brands": [
+        "Dell",
+        "Alienware",
+        "PowerEdge",
+        "PowerStore",
+        "VMware (legacy association)"
+      ]
+    },
+    {
+      "name": "General Motors",
+      "business": "Automotive",
+      "initial_value_billion_usd": 90.0,
+      "technology_tags": [
+        "auto"
+      ],
+      "brands": [
+        "Chevrolet",
+        "Cadillac",
+        "GMC",
+        "Buick",
+        "OnStar",
+        "Cruise"
+      ],
+      "products": [
+        "Chevrolet Silverado",
+        "Chevrolet Equinox",
+        "Cadillac Lyriq",
+        "GMC Sierra"
+      ],
+      "competitors": [
+        "Ford Motor Company",
+        "Toyota",
+        "Stellantis",
+        "Tesla",
+        "Rivian"
+      ]
+    },
+    {
+      "name": "BP",
+      "business": "Oil & gas",
+      "initial_value_billion_usd": 90.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Xiaomi",
+      "business": "Electronics & EVs",
+      "initial_value_billion_usd": 90.0,
+      "technology_tags": [],
+      "brands": [
+        "Xiaomi Phones",
+        "Redmi",
+        "POCO",
+        "Xiaomi EV",
+        "Mi Home"
+      ]
+    },
+    {
+      "name": "Petrobras",
+      "business": "Oil & gas",
+      "initial_value_billion_usd": 90.0,
+      "technology_tags": []
+    },
+    {
+      "name": "MercadoLibre",
+      "business": "E-commerce",
+      "initial_value_billion_usd": 90.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Ford Motor Company",
+      "business": "Automotive",
+      "initial_value_billion_usd": 95.0,
+      "technology_tags": [
+        "auto"
+      ],
+      "brands": [
+        "Ford",
+        "Lincoln",
+        "Ford Pro",
+        "Ford Credit"
+      ],
+      "products": [
+        "F-150",
+        "Mustang",
+        "Explorer",
+        "Transit",
+        "Ranger"
+      ],
+      "competitors": [
+        "General Motors",
+        "Stellantis",
+        "Toyota",
+        "Tesla",
+        "Rivian"
+      ]
+    },
+    {
+      "name": "CrowdStrike",
+      "business": "Cybersecurity",
+      "initial_value_billion_usd": 95.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Keurig Dr Pepper",
+      "business": "Beverages",
+      "initial_value_billion_usd": 100.0,
+      "technology_tags": [
+        "food"
+      ],
+      "brands": [
+        "Dr Pepper",
+        "7UP",
+        "Keurig",
+        "Green Mountain Coffee",
+        "Snapple"
+      ]
+    },
+    {
+      "name": "Rio Tinto",
+      "business": "Mining",
+      "initial_value_billion_usd": 100.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Starbucks",
+      "business": "Restaurants",
+      "initial_value_billion_usd": 102.0,
+      "technology_tags": [
+        "food",
+        "retail"
+      ],
+      "brands": [
+        "Starbucks",
+        "Starbucks Reserve",
+        "Teavana",
+        "Seattle’s Best Coffee"
+      ],
+      "products": [
+        "Coffee drinks",
+        "Tea drinks",
+        "Refreshers",
+        "Packaged coffee"
+      ],
+      "real_world_reference": {
+        "founded": "1971",
+        "headquarters": "Seattle, USA",
+        "description": "Coffeehouse chain",
+        "website": "https://www.starbucks.com/"
+      }
+    },
+    {
+      "name": "Medtronic",
+      "business": "Medical devices",
+      "initial_value_billion_usd": 110.0,
+      "technology_tags": []
+    },
+    {
+      "name": "BYD",
+      "business": "EVs & batteries",
+      "initial_value_billion_usd": 110.0,
+      "technology_tags": [],
+      "brands": [
+        "BYD Auto",
+        "Denza",
+        "Yangwang",
+        "Fangchengbao",
+        "FinDreams Battery"
+      ]
+    },
+    {
+      "name": "Lockheed Martin",
+      "business": "Defense",
+      "initial_value_billion_usd": 112.0,
+      "technology_tags": [
+        "air",
+        "space",
+        "ind"
+      ],
+      "brands": [
+        "F-35",
+        "C-130",
+        "Missiles & Fire Control",
+        "Rotary & Mission Systems",
+        "Space"
+      ]
+    },
+    {
+      "name": "Nike",
+      "business": "Apparel",
+      "initial_value_billion_usd": 118.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "brands": [
+        "Nike",
+        "Jordan Brand",
+        "Converse",
+        "Nike Training Club",
+        "Nike Run Club"
+      ],
+      "products": [
+        "Air Max",
+        "Air Force 1",
+        "Dunk",
+        "Pegasus",
+        "Mercurial",
+        "Jordan"
+      ],
+      "competitors": [
+        "Adidas",
+        "Puma",
+        "Under Armour",
+        "Lululemon"
+      ],
+      "founders": "Phil Knight, Bill Bowerman",
+      "former_names": "Blue Ribbon Sports (until 1971)",
+      "real_world_reference": {
+        "founded": "1964",
+        "headquarters": "Beaverton, USA",
+        "description": "Sportswear",
+        "website": "https://www.nike.com/"
+      }
+    },
+    {
+      "name": "Unilever",
+      "business": "FMCG",
+      "initial_value_billion_usd": 120.0,
+      "technology_tags": [
+        "food",
+        "retail"
+      ],
+      "brands": [
+        "Dove",
+        "Rexona",
+        "Axe",
+        "Hellmann’s",
+        "Knorr",
+        "Magnum"
+      ]
+    },
+    {
+      "name": "Palo Alto Networks",
+      "business": "Cybersecurity",
+      "initial_value_billion_usd": 120.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Analog Devices",
+      "business": "Analog chips",
+      "initial_value_billion_usd": 120.0,
+      "technology_tags": []
+    },
+    {
+      "name": "ConocoPhillips",
+      "business": "Oil & gas",
+      "initial_value_billion_usd": 130.0,
+      "technology_tags": []
+    },
+    {
+      "name": "KLA",
+      "business": "Chip equipment",
+      "initial_value_billion_usd": 130.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Deere & Company",
+      "business": "Machinery",
+      "initial_value_billion_usd": 130.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Boeing",
+      "business": "Aerospace",
+      "initial_value_billion_usd": 135.0,
+      "technology_tags": [
+        "air",
+        "space",
+        "ind"
+      ],
+      "brands": [
+        "737",
+        "777",
+        "787 Dreamliner",
+        "Defense",
+        "Global Services"
+      ],
+      "products": [
+        "737 MAX",
+        "787 Dreamliner",
+        "777X",
+        "767",
+        "P-8"
+      ],
+      "competitors": [
+        "Airbus",
+        "Embraer",
+        "Lockheed Martin"
+      ],
+      "founders": "William Boeing",
+      "real_world_reference": {
+        "founded": "1916",
+        "headquarters": "Arlington, USA",
+        "description": "Aircraft, defense & space",
+        "website": "https://www.boeing.com/"
+      }
+    },
+    {
+      "name": "TotalEnergies",
+      "business": "Oil & gas",
+      "initial_value_billion_usd": 138.0,
+      "technology_tags": [
+        "energy"
+      ],
+      "brands": [
+        "TotalEnergies Marketing",
+        "TotalEnergies Renewables",
+        "LNG",
+        "Lubricants"
+      ]
+    },
+    {
+      "name": "Qualcomm",
+      "business": "Semiconductors",
+      "initial_value_billion_usd": 140.0,
+      "technology_tags": [
+        "tech",
+        "semi"
+      ],
+      "brands": [
+        "Snapdragon",
+        "Adreno",
+        "FastConnect",
+        "Dragonwing",
+        "Qualcomm Automotive"
+      ],
+      "notable_acquisitions": [
+        "Nuvia",
+        "CSR",
+        "Atheros"
+      ],
+      "competitors": [
+        "Apple",
+        "Broadcom",
+        "Samsung Electronics",
+        "NVIDIA",
+        "Arm Holdings"
+      ],
+      "founders": "Irwin Jacobs and co-founders",
+      "former_names": "—"
+    },
+    {
+      "name": "Lowe's",
+      "business": "Home improvement",
+      "initial_value_billion_usd": 140.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Pfizer",
+      "business": "Pharma",
+      "initial_value_billion_usd": 142.0,
+      "technology_tags": [
+        "health"
+      ],
+      "brands": [
+        "Comirnaty",
+        "Prevnar",
+        "Eliquis (co-commercialized)",
+        "Oncology",
+        "Rare Disease"
+      ],
+      "competitors": [
+        "Merck",
+        "AstraZeneca",
+        "Eli Lilly",
+        "Novo Nordisk",
+        "AbbVie"
+      ],
+      "real_world_reference": {
+        "founded": "1849",
+        "headquarters": "New York, USA",
+        "description": "Pharmaceuticals",
+        "website": "https://www.pfizer.com/"
+      }
+    },
+    {
+      "name": "Honeywell",
+      "business": "Industrial",
+      "initial_value_billion_usd": 150.0,
+      "technology_tags": [
+        "ind",
+        "tech"
+      ]
+    },
+    {
+      "name": "Sony",
+      "business": "Electronics & gaming",
+      "initial_value_billion_usd": 150.0,
+      "technology_tags": [
+        "tech",
+        "game",
+        "media"
+      ],
+      "brands": [
+        "PlayStation",
+        "Sony Pictures",
+        "Sony Music",
+        "Alpha",
+        "Bravia",
+        "Sony Semiconductor"
+      ],
+      "products": [
+        "PlayStation",
+        "Bravia TVs",
+        "Alpha cameras",
+        "WH headphones",
+        "Image sensors"
+      ],
+      "founders": "Masaru Ibuka, Akio Morita",
+      "former_names": "Tokyo Tsushin Kogyo (until 1958)"
+    },
+    {
+      "name": "Arm Holdings",
+      "business": "Chip designs",
+      "initial_value_billion_usd": 150.0,
+      "technology_tags": []
+    },
+    {
+      "name": "NextEra Energy",
+      "business": "Utilities",
+      "initial_value_billion_usd": 150.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "business": "IT services",
+      "initial_value_billion_usd": 150.0,
+      "technology_tags": []
+    },
+    {
+      "name": "BHP",
+      "business": "Mining",
+      "initial_value_billion_usd": 150.0,
+      "technology_tags": []
+    },
+    {
+      "name": "HSBC",
+      "business": "Banking",
+      "initial_value_billion_usd": 150.0,
+      "technology_tags": [],
+      "brands": [
+        "HSBC Global Banking",
+        "HSBC Premier",
+        "HSBC Innovation Banking"
+      ]
+    },
+    {
+      "name": "Inditex",
+      "business": "Apparel retail",
+      "initial_value_billion_usd": 150.0,
+      "technology_tags": [],
+      "brands": [
+        "Zara",
+        "Pull&Bear",
+        "Massimo Dutti",
+        "Bershka",
+        "Stradivarius",
+        "Oysho"
+      ]
+    },
+    {
+      "name": "Shopify",
+      "business": "E-commerce",
+      "initial_value_billion_usd": 160.0,
+      "technology_tags": [
+        "tech",
+        "retail"
+      ],
+      "notable_acquisitions": [
+        "Deliverr",
+        "6 River Systems",
+        "Oberlo"
+      ],
+      "competitors": [
+        "Amazon",
+        "BigCommerce",
+        "Wix",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Danaher",
+      "business": "Life sciences",
+      "initial_value_billion_usd": 160.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Airbus",
+      "business": "Aerospace",
+      "initial_value_billion_usd": 165.0,
+      "technology_tags": [
+        "air",
+        "space",
+        "ind"
+      ],
+      "brands": [
+        "A220",
+        "A320 family",
+        "A330",
+        "A350",
+        "A380 support",
+        "Airbus Helicopters",
+        "Airbus Defence and Space"
+      ],
+      "products": [
+        "A220",
+        "A320neo family",
+        "A330neo",
+        "A350",
+        "A380",
+        "H125 helicopters"
+      ],
+      "competitors": [
+        "Boeing",
+        "Embraer",
+        "Lockheed Martin"
+      ],
+      "founders": "Franco-German-British-Spanish consortium",
+      "real_world_reference": {
+        "founded": "1970",
+        "headquarters": "Leiden, Netherlands",
+        "description": "Aircraft & defense",
+        "website": "https://www.airbus.com/"
+      }
+    },
+    {
+      "name": "BlackRock",
+      "business": "Investing",
+      "initial_value_billion_usd": 170.0,
+      "technology_tags": [
+        "fin"
+      ],
+      "brands": [
+        "iShares",
+        "Aladdin",
+        "BlackRock Private Markets"
+      ]
+    },
+    {
+      "name": "ServiceNow",
+      "business": "Workflow software",
+      "initial_value_billion_usd": 170.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Lam Research",
+      "business": "Chip equipment",
+      "initial_value_billion_usd": 170.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Siemens",
+      "business": "Industrial",
+      "initial_value_billion_usd": 178.0,
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "real_world_reference": {
+        "founded": "1847",
+        "headquarters": "Munich, Germany",
+        "description": "Industrial technology",
+        "website": "https://www.siemens.com/"
+      }
+    },
+    {
+      "name": "Uber",
+      "business": "Transport",
+      "initial_value_billion_usd": 180.0,
+      "technology_tags": [
+        "tech",
+        "auto"
+      ],
+      "brands": [
+        "Uber Rides",
+        "Uber Eats",
+        "Uber Freight",
+        "Uber for Business"
+      ],
+      "notable_acquisitions": [
+        "Postmates",
+        "Careem",
+        "Drizly"
+      ],
+      "competitors": [
+        "Lyft",
+        "Booking Holdings",
+        "Airbnb"
+      ],
+      "real_world_reference": {
+        "founded": "2009",
+        "headquarters": "San Francisco, USA",
+        "description": "Ride-hailing & delivery",
+        "website": "https://www.uber.com/"
+      }
+    },
+    {
+      "name": "Intuit",
+      "business": "Financial software",
+      "initial_value_billion_usd": 180.0,
+      "technology_tags": []
+    },
+    {
+      "name": "CATL",
+      "business": "Batteries",
+      "initial_value_billion_usd": 180.0,
+      "technology_tags": [],
+      "brands": [
+        "Qilin Battery",
+        "Shenxing Battery",
+        "Freevoy",
+        "Battery Recycling"
+      ]
+    },
+    {
+      "name": "Texas Instruments",
+      "business": "Semiconductors",
+      "initial_value_billion_usd": 185.0,
+      "technology_tags": [
+        "semi",
+        "tech"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "business": "Streaming",
+      "initial_value_billion_usd": 190.0,
+      "technology_tags": [
+        "media",
+        "tech"
+      ],
+      "brands": [
+        "Spotify Premium",
+        "Spotify Free",
+        "Spotify for Artists",
+        "Podcasting"
+      ],
+      "notable_acquisitions": [
+        "Anchor",
+        "Gimlet Media",
+        "Findaway"
+      ],
+      "competitors": [
+        "Apple",
+        "Amazon",
+        "Alphabet",
+        "Netflix",
+        "Tencent"
+      ],
+      "founders": "Daniel Ek, Martin Lorentzon",
+      "former_names": "—",
+      "real_world_reference": {
+        "founded": "2006",
+        "headquarters": "Stockholm, Sweden",
+        "description": "Audio streaming",
+        "website": "https://www.spotify.com/"
+      }
+    },
+    {
+      "name": "Goldman Sachs",
+      "business": "Banking",
+      "initial_value_billion_usd": 190.0,
+      "technology_tags": [
+        "fin"
+      ],
+      "brands": [
+        "Global Banking & Markets",
+        "Asset Management",
+        "Private Wealth Management"
+      ]
+    },
+    {
+      "name": "Adobe",
+      "business": "Software",
+      "initial_value_billion_usd": 192.0,
+      "technology_tags": [
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "Photoshop",
+        "Illustrator",
+        "Acrobat",
+        "Premiere Pro",
+        "After Effects",
+        "Firefly"
+      ],
+      "notable_acquisitions": [
+        "Magento",
+        "Marketo",
+        "Frame.io"
+      ],
+      "competitors": [
+        "Microsoft",
+        "Salesforce",
+        "Autodesk"
+      ]
+    },
+    {
+      "name": "Walt Disney",
+      "business": "Entertainment",
+      "initial_value_billion_usd": 198.0,
+      "technology_tags": [
+        "media"
+      ],
+      "brands": [
+        "Disney+",
+        "Marvel",
+        "Pixar",
+        "Lucasfilm",
+        "ESPN",
+        "Disney Parks",
+        "20th Century Studios"
+      ],
+      "founders": "Walt & Roy Disney"
+    },
+    {
+      "name": "Novo Nordisk",
+      "business": "Pharma",
+      "initial_value_billion_usd": 200.0,
+      "technology_tags": [
+        "health"
+      ],
+      "brands": [
+        "Ozempic",
+        "Wegovy",
+        "Rybelsus",
+        "NovoRapid",
+        "Rare Disease"
+      ]
+    },
+    {
+      "name": "Applied Materials",
+      "business": "Chip equipment",
+      "initial_value_billion_usd": 200.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Roche",
+      "business": "Pharma",
+      "initial_value_billion_usd": 200.0,
+      "technology_tags": [],
+      "brands": [
+        "Roche Pharmaceuticals",
+        "Genentech",
+        "Foundation Medicine",
+        "Roche Diagnostics"
+      ]
+    },
+    {
+      "name": "Shell",
+      "business": "Oil & gas",
+      "initial_value_billion_usd": 205.0,
+      "technology_tags": [
+        "energy"
+      ],
+      "brands": [
+        "Shell Energy",
+        "Shell Trading",
+        "Shell Chemicals",
+        "Shell Recharge",
+        "LNG"
+      ],
+      "competitors": [
+        "BP",
+        "TotalEnergies",
+        "ExxonMobil",
+        "Chevron",
+        "Saudi Aramco"
+      ]
+    },
+    {
+      "name": "Morgan Stanley",
+      "business": "Banking",
+      "initial_value_billion_usd": 205.0,
+      "technology_tags": [
+        "fin"
+      ],
+      "brands": [
+        "Morgan Stanley Wealth Management",
+        "E*TRADE",
+        "Investment Management"
+      ]
+    },
+    {
+      "name": "PepsiCo",
+      "business": "Food & beverages",
+      "initial_value_billion_usd": 210.0,
+      "technology_tags": [
+        "food"
+      ],
+      "brands": [
+        "Pepsi",
+        "Lay’s",
+        "Gatorade",
+        "Doritos",
+        "Quaker",
+        "Mountain Dew"
+      ],
+      "products": [
+        "Pepsi",
+        "Lay’s",
+        "Doritos",
+        "Gatorade",
+        "Quaker"
+      ],
+      "competitors": [
+        "Coca-Cola",
+        "Keurig Dr Pepper",
+        "Nestlé"
+      ]
+    },
+    {
+      "name": "Novartis",
+      "business": "Pharma",
+      "initial_value_billion_usd": 210.0,
+      "technology_tags": [],
+      "brands": [
+        "Entresto",
+        "Cosentyx",
+        "Kisqali",
+        "Sandoz (former division)"
+      ]
+    },
+    {
+      "name": "McDonald’s",
+      "business": "Restaurants",
+      "initial_value_billion_usd": 215.0,
+      "technology_tags": [
+        "food",
+        "retail"
+      ],
+      "brands": [
+        "McDonald’s",
+        "McCafé",
+        "McDelivery",
+        "CosMc’s"
+      ],
+      "products": [
+        "Burgers",
+        "Chicken McNuggets",
+        "Fries",
+        "Breakfast menu"
+      ],
+      "competitors": [
+        "Starbucks",
+        "Chipotle"
+      ]
+    },
+    {
+      "name": "Caterpillar",
+      "business": "Industrial machinery",
+      "initial_value_billion_usd": 220.0,
+      "technology_tags": [
+        "ind"
+      ],
+      "products": [
+        "Excavators",
+        "Bulldozers",
+        "Mining trucks",
+        "Diesel engines"
+      ]
+    },
+    {
+      "name": "Reliance Industries",
+      "business": "Conglomerate",
+      "initial_value_billion_usd": 220.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Salesforce",
+      "business": "Software",
+      "initial_value_billion_usd": 228.0,
+      "technology_tags": [
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "Sales Cloud",
+        "Service Cloud",
+        "Slack",
+        "Tableau",
+        "MuleSoft",
+        "Agentforce"
+      ],
+      "notable_acquisitions": [
+        "Slack",
+        "Tableau",
+        "MuleSoft",
+        "ExactTarget"
+      ],
+      "competitors": [
+        "Microsoft",
+        "Oracle",
+        "SAP",
+        "ServiceNow"
+      ]
+    },
+    {
+      "name": "Booking Holdings",
+      "business": "Travel",
+      "initial_value_billion_usd": 230.0,
+      "technology_tags": [
+        "retail",
+        "tech"
+      ],
+      "brands": [
+        "Booking.com",
+        "Priceline",
+        "Agoda",
+        "KAYAK",
+        "OpenTable"
+      ],
+      "notable_acquisitions": [
+        "KAYAK",
+        "OpenTable",
+        "Rentalcars.com"
+      ],
+      "competitors": [
+        "Airbnb",
+        "Marriott International"
+      ]
+    },
+    {
+      "name": "AstraZeneca",
+      "business": "Pharma",
+      "initial_value_billion_usd": 238.0,
+      "technology_tags": [
+        "health"
+      ]
+    },
+    {
+      "name": "Accenture",
+      "business": "IT services",
+      "initial_value_billion_usd": 240.0,
+      "technology_tags": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "IBM",
+      "business": "Technology",
+      "initial_value_billion_usd": 250.0,
+      "technology_tags": [
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "watsonx",
+        "Red Hat",
+        "IBM Z",
+        "Maximo",
+        "QRadar",
+        "Consulting"
+      ],
+      "notable_acquisitions": [
+        "Red Hat",
+        "HashiCorp",
+        "Apptio",
+        "Turbonomic"
+      ],
+      "competitors": [
+        "Microsoft",
+        "Amazon",
+        "Oracle",
+        "Accenture",
+        "Cisco",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Wells Fargo",
+      "business": "Banking",
+      "initial_value_billion_usd": 260.0,
+      "technology_tags": [
+        "fin"
+      ]
+    },
+    {
+      "name": "Hermès",
+      "business": "Luxury goods",
+      "initial_value_billion_usd": 260.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Merck",
+      "business": "Pharma",
+      "initial_value_billion_usd": 268.0,
+      "technology_tags": [
+        "health"
+      ]
+    },
+    {
+      "name": "Netflix",
+      "business": "Streaming",
+      "initial_value_billion_usd": 280.0,
+      "technology_tags": [
+        "media",
+        "tech"
+      ],
+      "brands": [
+        "Netflix",
+        "Netflix Games",
+        "Netflix Studios",
+        "Live Events"
+      ],
+      "competitors": [
+        "Walt Disney",
+        "Amazon",
+        "Spotify",
+        "Roku"
+      ],
+      "founders": "Reed Hastings, Marc Randolph",
+      "former_names": "—",
+      "real_world_reference": {
+        "founded": "1997",
+        "headquarters": "Los Gatos, USA",
+        "description": "Streaming",
+        "website": "https://www.netflix.com/"
+      }
+    },
+    {
+      "name": "Palantir",
+      "business": "Data analytics & AI",
+      "initial_value_billion_usd": 280.0,
+      "technology_tags": [],
+      "competitors": [
+        "Snowflake",
+        "Oracle",
+        "IBM",
+        "Microsoft"
+      ]
+    },
+    {
+      "name": "General Electric",
+      "business": "Aerospace & industry",
+      "initial_value_billion_usd": 280.0,
+      "technology_tags": []
+    },
+    {
+      "name": "Chevron",
+      "business": "Oil & gas",
+      "initial_value_billion_usd": 282.0,
+      "technology_tags": [
+        "energy"
+      ],
+      "real_world_reference": {
+        "founded": "1879",
+        "headquarters": "Houston, USA",
+        "description": "Oil & gas",
+        "website": "https://www.chevron.com/"
+      }
+    },
+    {
+      "name": "Nestlé",
+      "business": "Food",
+      "initial_value_billion_usd": 292.0,
+      "technology_tags": [
+        "food"
+      ],
+      "brands": [
+        "Nescafé",
+        "Nespresso",
+        "KitKat",
+        "Purina",
+        "Gerber",
+        "Maggi"
+      ],
+      "competitors": [
+        "Unilever",
+        "PepsiCo",
+        "Kraft Heinz"
+      ],
+      "real_world_reference": {
+        "founded": "1866",
+        "headquarters": "Vevey, Switzerland",
+        "description": "Food & beverages",
+        "website": "https://www.nestle.com/"
+      }
+    },
+    {
+      "name": "RTX",
+      "business": "Aerospace & defense",
+      "initial_value_billion_usd": 300.0,
+      "technology_tags": [
+        "air",
+        "space",
+        "ind"
+      ],
+      "brands": [
+        "Pratt & Whitney",
+        "Collins Aerospace",
+        "Raytheon",
+        "Goodrich"
+      ]
+    },
+    {
+      "name": "Coca-Cola",
+      "business": "Beverages",
+      "initial_value_billion_usd": 320.0,
+      "technology_tags": [
+        "food"
+      ],
+      "brands": [
+        "Coca-Cola",
+        "Sprite",
+        "Fanta",
+        "Minute Maid",
+        "Powerade",
+        "Costa Coffee"
+      ],
+      "products": [
+        "Coca-Cola",
+        "Sprite",
+        "Fanta",
+        "Powerade",
+        "Minute Maid"
+      ],
+      "competitors": [
+        "PepsiCo",
+        "Keurig Dr Pepper",
+        "Nestlé"
+      ],
+      "real_world_reference": {
+        "founded": "1892",
+        "headquarters": "Atlanta, USA",
+        "description": "Beverages",
+        "website": "https://www.coca-cola.com/"
+      }
+    },
+    {
+      "name": "Bank of America",
+      "business": "Banking",
+      "initial_value_billion_usd": 335.0,
+      "technology_tags": [
+        "fin"
+      ]
+    },
+    {
+      "name": "Cisco",
+      "business": "Networking",
+      "initial_value_billion_usd": 340.0,
+      "technology_tags": [
+        "tech"
+      ],
+      "brands": [
+        "Cisco Networking",
+        "Webex",
+        "Splunk",
+        "Meraki",
+        "Duo Security"
+      ],
+      "notable_acquisitions": [
+        "Splunk",
+        "Meraki",
+        "Duo Security",
+        "AppDynamics"
+      ],
+      "competitors": [
+        "Nokia",
+        "Broadcom",
+        "IBM",
+        "Qualcomm"
+      ]
+    },
+    {
+      "name": "Alibaba",
+      "business": "E-commerce",
+      "initial_value_billion_usd": 345.0,
+      "technology_tags": [
+        "retail",
+        "tech"
+      ]
+    },
+    {
+      "name": "Procter & Gamble",
+      "business": "Consumer goods",
+      "initial_value_billion_usd": 355.0,
+      "technology_tags": [
+        "retail",
+        "food"
+      ],
+      "brands": [
+        "Pampers",
+        "Gillette",
+        "Ariel",
+        "Tide",
+        "Head & Shoulders",
+        "Oral-B"
+      ]
+    },
+    {
+      "name": "LVMH",
+      "business": "Luxury goods",
+      "initial_value_billion_usd": 360.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "brands": [
+        "Louis Vuitton",
+        "Dior",
+        "Moët & Chandon",
+        "Hennessy",
+        "Sephora",
+        "TAG Heuer"
+      ]
+    },
+    {
+      "name": "SAP",
+      "business": "Software",
+      "initial_value_billion_usd": 380.0,
+      "technology_tags": [
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "SAP S/4HANA",
+        "SAP Business Technology Platform",
+        "SuccessFactors",
+        "Ariba",
+        "Concur"
+      ]
+    },
+    {
+      "name": "Home Depot",
+      "business": "Retail",
+      "initial_value_billion_usd": 385.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "brands": [
+        "The Home Depot",
+        "The Home Depot Pro",
+        "HD Supply"
+      ],
+      "products": [
+        "Tools",
+        "Building materials",
+        "Lumber",
+        "Paint",
+        "Home appliances"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "business": "Databases & cloud",
+      "initial_value_billion_usd": 400.0,
+      "technology_tags": [
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "Oracle Database",
+        "Oracle Cloud Infrastructure",
+        "NetSuite",
+        "Java",
+        "Cerner"
+      ],
+      "notable_acquisitions": [
+        "NetSuite",
+        "Cerner",
+        "Sun Microsystems",
+        "PeopleSoft"
+      ],
+      "competitors": [
+        "Microsoft",
+        "Amazon",
+        "Alphabet",
+        "IBM",
+        "SAP",
+        "Salesforce"
+      ],
+      "founders": "Larry Ellison, Bob Miner, Ed Oates",
+      "former_names": "Software Development Laboratories",
+      "real_world_reference": {
+        "founded": "1977",
+        "headquarters": "Austin, USA",
+        "description": "Software & cloud",
+        "website": "https://www.oracle.com/"
+      }
+    },
+    {
+      "name": "Toyota",
+      "business": "Automotive",
+      "initial_value_billion_usd": 412.0,
+      "technology_tags": [
+        "auto"
+      ],
+      "brands": [
+        "Toyota",
+        "Lexus",
+        "Daihatsu",
+        "Hino",
+        "Toyota Financial Services"
+      ],
+      "products": [
+        "Corolla",
+        "Camry",
+        "RAV4",
+        "Prius",
+        "Land Cruiser",
+        "Hilux"
+      ],
+      "competitors": [
+        "Volkswagen",
+        "Hyundai",
+        "Tesla",
+        "Honda",
+        "General Motors"
+      ],
+      "founders": "Kiichiro Toyoda",
+      "former_names": "Toyoda Automatic Loom Works (automotive dept.)",
+      "real_world_reference": {
+        "founded": "1937",
+        "headquarters": "Toyota City, Japan",
+        "description": "Automobiles",
+        "website": "https://www.toyota.com/"
+      }
+    },
+    {
+      "name": "Costco",
+      "business": "Retail",
+      "initial_value_billion_usd": 430.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "brands": [
+        "Costco Wholesale",
+        "Kirkland Signature",
+        "Costco Travel",
+        "Costco Optical"
+      ],
+      "products": [
+        "Kirkland Signature",
+        "Groceries",
+        "Electronics",
+        "Household goods"
+      ]
+    },
+    {
+      "name": "UnitedHealth",
+      "business": "Healthcare",
+      "initial_value_billion_usd": 470.0,
+      "technology_tags": [
+        "health",
+        "fin"
+      ],
+      "brands": [
+        "UnitedHealthcare",
+        "Optum Health",
+        "Optum Insight",
+        "Optum Rx"
+      ]
+    },
+    {
+      "name": "Intel",
+      "business": "Processors",
+      "initial_value_billion_usd": 250.0,
+      "technology_tags": [
+        "tech",
+        "semi"
+      ],
+      "brands": [
+        "Core",
+        "Xeon",
+        "Arc",
+        "Foundry Services",
+        "Gaudi"
+      ],
+      "products": [
+        "Core processors",
+        "Xeon processors",
+        "Arc GPUs",
+        "Gaudi accelerators"
+      ],
+      "competitors": [
+        "AMD",
+        "NVIDIA",
+        "Qualcomm",
+        "TSMC",
+        "Samsung Electronics",
+        "Arm Holdings"
+      ],
+      "founders": "Gordon Moore, Robert Noyce",
+      "former_names": "Integrated Electronics",
+      "real_world_reference": {
+        "founded": "1968",
+        "headquarters": "Santa Clara, USA",
+        "description": "Processors",
+        "website": "https://www.intel.com/"
+      }
+    },
+    {
+      "name": "AbbVie",
+      "business": "Pharma",
+      "initial_value_billion_usd": 505.0,
+      "technology_tags": [
+        "health"
+      ],
+      "brands": [
+        "Humira",
+        "Skyrizi",
+        "Rinvoq",
+        "Botox Therapeutic",
+        "Immunology"
+      ]
+    },
+    {
+      "name": "Mastercard",
+      "business": "Payments",
+      "initial_value_billion_usd": 564.0,
+      "technology_tags": [
+        "fin",
+        "tech"
+      ],
+      "brands": [
+        "Mastercard Network",
+        "Mastercard Send",
+        "Click to Pay",
+        "RiskRecon"
+      ],
+      "competitors": [
+        "Visa",
+        "PayPal",
+        "Block"
+      ]
+    },
+    {
+      "name": "ASML",
+      "business": "Chip equipment",
+      "initial_value_billion_usd": 598.0,
+      "technology_tags": [
+        "semi",
+        "tech"
+      ],
+      "brands": [
+        "EUV lithography",
+        "DUV lithography",
+        "High-NA EUV",
+        "Metrology"
+      ]
+    },
+    {
+      "name": "Tencent",
+      "business": "Internet & gaming",
+      "initial_value_billion_usd": 620.0,
+      "technology_tags": [
+        "tech",
+        "game",
+        "media"
+      ],
+      "brands": [
+        "WeChat",
+        "Tencent Games",
+        "Riot Games",
+        "Tencent Cloud",
+        "QQ",
+        "Tencent Music"
+      ]
+    },
+    {
+      "name": "Johnson & Johnson",
+      "business": "Healthcare",
+      "initial_value_billion_usd": 641.0,
+      "technology_tags": [
+        "health"
+      ],
+      "brands": [
+        "J&J Innovative Medicine",
+        "MedTech",
+        "Ethicon",
+        "DePuy Synthes",
+        "Janssen legacy portfolio"
+      ]
+    },
+    {
+      "name": "ExxonMobil",
+      "business": "Oil & gas",
+      "initial_value_billion_usd": 724.0,
+      "technology_tags": [
+        "energy"
+      ],
+      "brands": [
+        "Exxon",
+        "Mobil",
+        "Esso",
+        "ExxonMobil Chemical",
+        "Low Carbon Solutions"
+      ],
+      "competitors": [
+        "Chevron",
+        "Shell",
+        "BP",
+        "TotalEnergies",
+        "Saudi Aramco"
+      ]
+    },
+    {
+      "name": "Visa",
+      "business": "Payments",
+      "initial_value_billion_usd": 786.0,
+      "technology_tags": [
+        "fin",
+        "tech"
+      ],
+      "brands": [
+        "VisaNet",
+        "Visa Direct",
+        "Visa Commercial Solutions",
+        "CyberSource"
+      ],
+      "competitors": [
+        "Mastercard",
+        "PayPal",
+        "Block"
+      ],
+      "founders": "Dee Hock",
+      "real_world_reference": {
+        "founded": "1958",
+        "headquarters": "San Francisco, USA",
+        "description": "Payments",
+        "website": "https://www.visa.com/"
+      }
+    },
+    {
+      "name": "AMD",
+      "business": "CPUs & GPUs",
+      "initial_value_billion_usd": 790.0,
+      "technology_tags": [
+        "tech",
+        "semi",
+        "ai"
+      ],
+      "brands": [
+        "Ryzen",
+        "EPYC",
+        "Radeon",
+        "Instinct",
+        "Pensando"
+      ],
+      "products": [
+        "Ryzen CPUs",
+        "EPYC CPUs",
+        "Radeon GPUs",
+        "Instinct accelerators"
+      ],
+      "competitors": [
+        "NVIDIA",
+        "Intel",
+        "Qualcomm",
+        "Broadcom",
+        "Apple",
+        "Samsung Electronics"
+      ],
+      "founders": "Jerry Sanders and co-founders",
+      "real_world_reference": {
+        "founded": "1969",
+        "headquarters": "Santa Clara, USA",
+        "description": "CPUs & GPUs",
+        "website": "https://www.amd.com/"
+      }
+    },
+    {
+      "name": "Walmart",
+      "business": "Retail",
+      "initial_value_billion_usd": 990.0,
+      "technology_tags": [
+        "retail"
+      ],
+      "brands": [
+        "Walmart",
+        "Sam’s Club",
+        "Walmart+",
+        "Flipkart",
+        "PhonePe"
+      ],
+      "products": [
+        "Groceries",
+        "Electronics",
+        "Home goods",
+        "Apparel"
+      ],
+      "real_world_reference": {
+        "founded": "1962",
+        "headquarters": "Bentonville, USA",
+        "description": "Retail",
+        "website": "https://www.walmart.com/"
+      }
+    },
+    {
+      "name": "JPMorgan Chase",
+      "business": "Banking",
+      "initial_value_billion_usd": 898.0,
+      "technology_tags": [
+        "fin"
+      ],
+      "brands": [
+        "Chase",
+        "J.P. Morgan",
+        "Chase Paymentech",
+        "Asset & Wealth Management"
+      ]
+    },
+    {
+      "name": "Eli Lilly",
+      "business": "Pharma",
+      "initial_value_billion_usd": 1320.0,
+      "technology_tags": [
+        "health"
+      ],
+      "brands": [
+        "Mounjaro",
+        "Zepbound",
+        "Verzenio",
+        "Humalog",
+        "Lilly Oncology"
+      ],
+      "competitors": [
+        "Novo Nordisk",
+        "Pfizer",
+        "AstraZeneca",
+        "Merck"
+      ]
+    },
+    {
+      "name": "Micron Technology",
+      "business": "Memory & semis",
+      "initial_value_billion_usd": 967.0,
+      "technology_tags": [
+        "semi",
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "business": "Investment conglomerate",
+      "initial_value_billion_usd": 1190.0,
+      "technology_tags": [
+        "fin"
+      ],
+      "brands": [
+        "GEICO",
+        "BNSF Railway",
+        "Berkshire Hathaway Energy",
+        "Duracell",
+        "Dairy Queen",
+        "See’s Candies"
+      ]
+    },
+    {
+      "name": "SK Hynix",
+      "business": "Computer memory",
+      "initial_value_billion_usd": 830.0,
+      "technology_tags": [
+        "semi",
+        "tech"
+      ],
+      "founders": "Hyundai Group (as Hyundai Electronics)",
+      "former_names": "Hyundai Electronics (until 2001)"
+    },
+    {
+      "name": "Samsung Electronics",
+      "business": "Electronics & semis",
+      "initial_value_billion_usd": 1070.0,
+      "technology_tags": [
+        "tech",
+        "semi"
+      ],
+      "brands": [
+        "Galaxy",
+        "Samsung Display",
+        "Samsung Semiconductor",
+        "Samsung Foundry",
+        "Harman",
+        "SmartThings"
+      ],
+      "products": [
+        "Galaxy S",
+        "Galaxy Z",
+        "Galaxy Tab",
+        "Galaxy Watch",
+        "Galaxy Buds",
+        "Neo QLED TVs",
+        "Odyssey monitors",
+        "Galaxy Book",
+        "SSD"
+      ],
+      "competitors": [
+        "Apple",
+        "TSMC",
+        "Sony",
+        "Intel",
+        "SK Hynix",
+        "Xiaomi"
+      ],
+      "founders": "Lee Byung-chul",
+      "real_world_reference": {
+        "founded": "1969",
+        "headquarters": "Suwon, South Korea",
+        "description": "Electronics & semiconductors",
+        "website": "https://www.samsung.com/"
+      }
+    },
+    {
+      "name": "Saudi Aramco",
+      "business": "Oil & gas",
+      "initial_value_billion_usd": 1690.0,
+      "technology_tags": [
+        "energy"
+      ]
+    },
+    {
+      "name": "Tesla",
+      "business": "Automotive & energy",
+      "initial_value_billion_usd": 1580.0,
+      "technology_tags": [
+        "auto",
+        "energy",
+        "ai",
+        "tech"
+      ],
+      "brands": [
+        "Model S/3/X/Y",
+        "Cybertruck",
+        "Tesla Energy",
+        "Supercharger",
+        "Optimus",
+        "FSD"
+      ],
+      "products": [
+        "Model 3",
+        "Model Y",
+        "Model S",
+        "Model X",
+        "Cybertruck",
+        "Powerwall",
+        "Megapack",
+        "Supercharger"
+      ],
+      "notable_acquisitions": [
+        "SolarCity",
+        "Maxwell Technologies",
+        "Grohmann Engineering"
+      ],
+      "competitors": [
+        "Toyota",
+        "Volkswagen",
+        "Ford Motor Company",
+        "General Motors",
+        "Rivian",
+        "Renault",
+        "Stellantis"
+      ],
+      "founders": "Martin Eberhard, Marc Tarpenning (Elon Musk joined 2004)",
+      "former_names": "Tesla Motors (until 2017)",
+      "real_world_reference": {
+        "founded": "2003",
+        "headquarters": "Austin, USA",
+        "description": "Electric vehicles & energy",
+        "website": "https://www.tesla.com/"
+      }
+    },
+    {
+      "name": "Meta Platforms",
+      "business": "Social media & AI",
+      "initial_value_billion_usd": 1590.0,
+      "technology_tags": [
+        "media",
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "Facebook",
+        "Instagram",
+        "WhatsApp",
+        "Threads",
+        "Quest",
+        "Reality Labs",
+        "Llama"
+      ],
+      "notable_acquisitions": [
+        "Instagram",
+        "WhatsApp",
+        "Oculus VR",
+        "CTRL-labs",
+        "Within"
+      ],
+      "competitors": [
+        "Alphabet",
+        "Snap",
+        "Pinterest",
+        "Tencent",
+        "Amazon",
+        "Microsoft"
+      ],
+      "founders": "Mark Zuckerberg and co-founders",
+      "former_names": "Facebook (until 2021)",
+      "real_world_reference": {
+        "founded": "2004",
+        "headquarters": "Menlo Park, USA",
+        "description": "Social media & VR",
+        "website": "https://www.about.meta.com/"
+      }
+    },
+    {
+      "name": "Broadcom",
+      "business": "Semiconductors",
+      "initial_value_billion_usd": 1590.0,
+      "technology_tags": [
+        "semi",
+        "tech"
+      ],
+      "brands": [
+        "VMware",
+        "Tomahawk",
+        "Jericho",
+        "Brocade",
+        "Symantec Enterprise"
+      ],
+      "notable_acquisitions": [
+        "VMware",
+        "CA Technologies",
+        "Symantec Enterprise",
+        "Brocade"
+      ],
+      "competitors": [
+        "Qualcomm",
+        "NVIDIA",
+        "Cisco",
+        "AMD",
+        "Intel"
+      ]
+    },
+    {
+      "name": "SpaceX",
+      "business": "Space & satellites",
+      "initial_value_billion_usd": 1920.0,
+      "technology_tags": [
+        "space",
+        "tech"
+      ],
+      "brands": [
+        "Falcon 9",
+        "Falcon Heavy",
+        "Starship",
+        "Dragon",
+        "Starlink"
+      ],
+      "competitors": [
+        "Rocket Lab"
+      ],
+      "founders": "Elon Musk",
+      "real_world_reference": {
+        "founded": "2002",
+        "headquarters": "Starbase, USA",
+        "description": "Space launch & satellites",
+        "website": "https://www.spacex.com/"
+      }
+    },
+    {
+      "name": "TSMC",
+      "business": "Chip manufacturing",
+      "initial_value_billion_usd": 2100.0,
+      "technology_tags": [
+        "semi",
+        "tech"
+      ],
+      "brands": [
+        "N3 process",
+        "N2 process",
+        "CoWoS",
+        "SoIC",
+        "InFO"
+      ],
+      "competitors": [
+        "Samsung Electronics",
+        "Intel",
+        "Micron Technology",
+        "SK Hynix",
+        "Qualcomm",
+        "AMD"
+      ],
+      "founders": "Morris Chang",
+      "real_world_reference": {
+        "founded": "1987",
+        "headquarters": "Hsinchu, Taiwan",
+        "description": "Semiconductor manufacturing",
+        "website": "https://www.tsmc.com/"
+      }
+    },
+    {
+      "name": "Amazon",
+      "business": "Commerce & cloud",
+      "initial_value_billion_usd": 2710.0,
+      "technology_tags": [
+        "retail",
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "Amazon Marketplace",
+        "AWS",
+        "Prime Video",
+        "Prime",
+        "Kindle",
+        "Alexa",
+        "Zoox"
+      ],
+      "products": [
+        "Kindle",
+        "Echo",
+        "Fire TV",
+        "Ring",
+        "eero",
+        "AWS"
+      ],
+      "notable_acquisitions": [
+        "Whole Foods",
+        "Twitch",
+        "MGM",
+        "Ring",
+        "Zoox",
+        "One Medical",
+        "Kiva Systems"
+      ],
+      "competitors": [
+        "Walmart",
+        "Alibaba",
+        "Microsoft",
+        "Alphabet",
+        "Shopify",
+        "Oracle",
+        "Booking Holdings"
+      ],
+      "founders": "Jeff Bezos",
+      "former_names": "Cadabra (1994)",
+      "real_world_reference": {
+        "founded": "1994",
+        "headquarters": "Seattle, USA",
+        "description": "E-commerce & cloud",
+        "website": "https://www.amazon.com/"
+      }
+    },
+    {
+      "name": "Microsoft",
+      "business": "Software & cloud",
+      "initial_value_billion_usd": 3870.0,
+      "technology_tags": [
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "Windows",
+        "Microsoft 365",
+        "Azure",
+        "Copilot",
+        "Xbox",
+        "LinkedIn",
+        "GitHub",
+        "Teams"
+      ],
+      "products": [
+        "Windows",
+        "Microsoft 365",
+        "Surface",
+        "Xbox",
+        "Azure",
+        "Copilot"
+      ],
+      "notable_acquisitions": [
+        "LinkedIn",
+        "GitHub",
+        "Activision Blizzard",
+        "Mojang",
+        "Nuance",
+        "ZeniMax"
+      ],
+      "competitors": [
+        "Apple",
+        "Alphabet",
+        "Amazon",
+        "Oracle",
+        "Salesforce",
+        "IBM",
+        "SAP",
+        "ServiceNow"
+      ],
+      "founders": "Bill Gates, Paul Allen",
+      "real_world_reference": {
+        "founded": "1975",
+        "headquarters": "Redmond, USA",
+        "description": "Software & cloud",
+        "website": "https://www.microsoft.com/"
+      }
+    },
+    {
+      "name": "Alphabet",
+      "business": "Google, ads & AI",
+      "initial_value_billion_usd": 3440.0,
+      "technology_tags": [
+        "tech",
+        "ai"
+      ],
+      "brands": [
+        "Google Search",
+        "Android",
+        "YouTube",
+        "Google Cloud",
+        "Gemini",
+        "Waymo",
+        "Google Maps",
+        "Chrome"
+      ],
+      "products": [
+        "Google Pixel",
+        "Pixel Watch",
+        "Pixel Buds",
+        "Nest",
+        "Chromecast"
+      ],
+      "notable_acquisitions": [
+        "YouTube",
+        "Android Inc.",
+        "DoubleClick",
+        "Fitbit",
+        "Waze",
+        "Nest",
+        "DeepMind",
+        "Mandiant"
+      ],
+      "competitors": [
+        "Microsoft",
+        "Meta Platforms",
+        "Amazon",
+        "Apple",
+        "Tencent",
+        "Snap",
+        "Pinterest"
+      ],
+      "founders": "Larry Page, Sergey Brin",
+      "former_names": "Google (parent from 2015)",
+      "real_world_reference": {
+        "founded": "2015",
+        "headquarters": "Mountain View, USA",
+        "description": "Internet, advertising & AI",
+        "website": "https://www.abc.xyz/"
+      }
+    },
+    {
+      "name": "Apple",
+      "business": "Electronics & services",
+      "initial_value_billion_usd": 4850.0,
+      "technology_tags": [
+        "tech"
+      ],
+      "brands": [
+        "iPhone",
+        "iPad",
+        "Mac",
+        "Apple Watch",
+        "AirPods",
+        "Apple TV+",
+        "iCloud",
+        "Apple Intelligence"
+      ],
+      "products": [
+        "iPhone",
+        "MacBook",
+        "iMac",
+        "Mac mini",
+        "iPad",
+        "Apple Watch",
+        "AirPods",
+        "Apple TV",
+        "Vision Pro"
+      ],
+      "notable_acquisitions": [
+        "Beats Electronics",
+        "Shazam",
+        "PrimeSense",
+        "AuthenTec",
+        "Dark Sky",
+        "Texture"
+      ],
+      "competitors": [
+        "Samsung Electronics",
+        "Alphabet",
+        "Microsoft",
+        "Sony",
+        "Dell",
+        "HP",
+        "Tesla"
+      ],
+      "founders": "Steve Jobs, Steve Wozniak, Ronald Wayne",
+      "real_world_reference": {
+        "founded": "1976",
+        "headquarters": "Cupertino, USA",
+        "description": "Consumer electronics & services",
+        "website": "https://www.apple.com/"
+      }
+    },
+    {
+      "name": "NVIDIA",
+      "business": "GPUs & AI",
+      "initial_value_billion_usd": 5000.0,
+      "technology_tags": [
+        "tech",
+        "ai",
+        "semi"
+      ],
+      "brands": [
+        "GeForce",
+        "RTX",
+        "CUDA",
+        "DGX",
+        "NVIDIA DRIVE",
+        "Nemotron"
+      ],
+      "products": [
+        "GeForce RTX GPUs",
+        "RTX PRO GPUs",
+        "DGX systems",
+        "Jetson",
+        "Grace CPUs",
+        "Networking"
+      ],
+      "notable_acquisitions": [
+        "Mellanox",
+        "Cumulus Networks",
+        "SwiftStack",
+        "Bright Computing",
+        "Run:ai",
+        "Deci"
+      ],
+      "competitors": [
+        "AMD",
+        "Intel",
+        "Qualcomm",
+        "Broadcom",
+        "TSMC",
+        "Samsung Electronics",
+        "Amazon",
+        "Microsoft",
+        "Alphabet"
+      ],
+      "founders": "Jensen Huang, Chris Malachowsky, Curtis Priem",
+      "real_world_reference": {
+        "founded": "1993",
+        "headquarters": "Santa Clara, USA",
+        "description": "GPUs & AI computing",
+        "website": "https://www.nvidia.com/"
+      }
+    }
+  ],
+  "owner_profiles": [
+    {
+      "name": "Elon Musk",
+      "holdings": [
+        {
+          "company": "Tesla",
+          "ownership_fraction": 0.13
+        },
+        {
+          "company": "SpaceX",
+          "ownership_fraction": 0.42
+        }
+      ],
+      "private_assets": [
+        {
+          "name": "xAI",
+          "value_billion_usd": 250,
+          "ownership_fraction": 0.5
+        }
+      ]
+    },
+    {
+      "name": "Jeff Bezos",
+      "holdings": [
+        {
+          "company": "Amazon",
+          "ownership_fraction": 0.09
+        }
+      ],
+      "private_assets": [
+        {
+          "name": "Blue Origin",
+          "value_billion_usd": 70,
+          "ownership_fraction": 1
+        }
+      ]
+    },
+    {
+      "name": "Warren Buffett",
+      "holdings": [
+        {
+          "company": "Berkshire Hathaway",
+          "ownership_fraction": 0.14
+        },
+        {
+          "company": "Coca-Cola",
+          "ownership_fraction": 0.09
+        }
+      ],
+      "private_assets": []
+    },
+    {
+      "name": "Larry Ellison",
+      "holdings": [
+        {
+          "company": "Oracle",
+          "ownership_fraction": 0.41
+        },
+        {
+          "company": "Tesla",
+          "ownership_fraction": 0.01
+        }
+      ],
+      "private_assets": []
+    },
+    {
+      "name": "Bernard Arnault",
+      "holdings": [
+        {
+          "company": "LVMH",
+          "ownership_fraction": 0.48
+        }
+      ],
+      "private_assets": [
+        {
+          "name": "Family Office",
+          "value_billion_usd": 60,
+          "ownership_fraction": 1
+        }
+      ]
+    },
+    {
+      "name": "Jensen Huang",
+      "holdings": [
+        {
+          "company": "NVIDIA",
+          "ownership_fraction": 0.035
+        }
+      ],
+      "private_assets": []
+    }
+  ],
+  "ipo_candidates": [
+    {
+      "name": "1X Technologies",
+      "industry": "Przemysł",
+      "initial_value_billion_usd": 0.82,
+      "description": "Develops humanoid robots for logistics and industrial work.",
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "website_domain": "1x.tech"
+    },
+    {
+      "name": "TrueLayer",
+      "industry": "Finanse",
+      "initial_value_billion_usd": 2,
+      "description": "Open-banking and payment infrastructure.",
+      "technology_tags": [
+        "fin",
+        "tech"
+      ],
+      "website_domain": "truelayer.com"
+    },
+    {
+      "name": "KoBold Metals",
+      "industry": "Przemysł",
+      "initial_value_billion_usd": 4.17,
+      "description": "Uses AI and geological data to explore mineral deposits.",
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "website_domain": "koboldmetals.com"
+    },
+    {
+      "name": "Decart",
+      "industry": "AI",
+      "initial_value_billion_usd": 3.96,
+      "description": "Builds real-time generative video and world-model technology.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "decart.ai"
+    },
+    {
+      "name": "MasterClass",
+      "industry": "Media",
+      "initial_value_billion_usd": 2.75,
+      "description": "Online learning platform with expert-led courses.",
+      "technology_tags": [
+        "media",
+        "tech"
+      ],
+      "website_domain": "masterclass.com"
+    },
+    {
+      "name": "Radiant Nuclear",
+      "industry": "Energia",
+      "initial_value_billion_usd": 1.81,
+      "description": "Develops portable microreactors for distributed power.",
+      "technology_tags": [
+        "energy",
+        "ind"
+      ],
+      "website_domain": "radiantnuclear.com"
+    },
+    {
+      "name": "Dexterity",
+      "industry": "Przemysł",
+      "initial_value_billion_usd": 1.66,
+      "description": "Builds AI-powered robots for warehouse operations.",
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "website_domain": "dexterity.ai"
+    },
+    {
+      "name": "Eight Sleep",
+      "industry": "Elektronika",
+      "initial_value_billion_usd": 1.5,
+      "description": "Makes connected sleep systems and temperature-controlled beds.",
+      "technology_tags": [
+        "tech"
+      ],
+      "website_domain": "eightsleep.com"
+    },
+    {
+      "name": "Harmattan AI",
+      "industry": "AI",
+      "initial_value_billion_usd": 1.4,
+      "description": "Develops autonomous systems and aerospace AI software.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "harmattan.ai"
+    },
+    {
+      "name": "Synchron",
+      "industry": "Zdrowie",
+      "initial_value_billion_usd": 0.82,
+      "description": "Develops minimally invasive brain-computer interface technology.",
+      "technology_tags": [
+        "health",
+        "tech"
+      ],
+      "website_domain": "synchron.com"
+    },
+    {
+      "name": "Firestorm",
+      "industry": "Przemysł",
+      "initial_value_billion_usd": 0.62,
+      "description": "Builds modular manufacturing and aerospace systems.",
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "website_domain": "firestorm.com"
+    },
+    {
+      "name": "Paradromics",
+      "industry": "Zdrowie",
+      "initial_value_billion_usd": 0.5,
+      "description": "Develops high-bandwidth brain-computer interfaces.",
+      "technology_tags": [
+        "health",
+        "tech"
+      ],
+      "website_domain": "paradromics.com"
+    },
+    {
+      "name": "CHAOS Industries",
+      "industry": "Przemysł",
+      "initial_value_billion_usd": 4.5,
+      "description": "Builds radar and sensing systems.",
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "website_domain": "chaosinc.com"
+    },
+    {
+      "name": "DeepL",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 4.8,
+      "description": "Develops AI translation and writing tools.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "deepl.com"
+    },
+    {
+      "name": "Motel One",
+      "industry": "Hotelarstwo",
+      "initial_value_billion_usd": 4.3,
+      "description": "Operates an international design-focused hotel chain.",
+      "technology_tags": [
+        "retail"
+      ],
+      "website_domain": "motel-one.com"
+    },
+    {
+      "name": "BestSecret",
+      "industry": "Handel",
+      "initial_value_billion_usd": 4.4,
+      "description": "Runs a members-only fashion marketplace.",
+      "technology_tags": [
+        "retail",
+        "tech"
+      ],
+      "website_domain": "bestsecret.com"
+    },
+    {
+      "name": "XAG",
+      "industry": "Robotyka",
+      "initial_value_billion_usd": 2,
+      "description": "Develops agricultural drones and autonomous farming equipment.",
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "website_domain": "xa.com"
+    },
+    {
+      "name": "Semitech",
+      "industry": "Półprzewodniki",
+      "initial_value_billion_usd": 2,
+      "description": "Develops semiconductor components.",
+      "technology_tags": [
+        "semi",
+        "tech"
+      ],
+      "website_domain": "semitech.com"
+    },
+    {
+      "name": "DeepWay",
+      "industry": "Motoryzacja",
+      "initial_value_billion_usd": 2,
+      "description": "Develops electric heavy-duty trucks.",
+      "technology_tags": [
+        "auto",
+        "ind"
+      ],
+      "website_domain": "deepway.com"
+    },
+    {
+      "name": "Moda Operandi",
+      "industry": "Handel",
+      "initial_value_billion_usd": 2,
+      "description": "Luxury fashion e-commerce platform.",
+      "technology_tags": [
+        "retail",
+        "tech"
+      ],
+      "website_domain": "modaoperandi.com"
+    },
+    {
+      "name": "Weishi Energy",
+      "industry": "Energia",
+      "initial_value_billion_usd": 2,
+      "description": "Develops industrial energy solutions.",
+      "technology_tags": [
+        "energy",
+        "ind"
+      ],
+      "website_domain": "weishienergy.com"
+    },
+    {
+      "name": "Redaptive",
+      "industry": "Energia",
+      "initial_value_billion_usd": 2,
+      "description": "Manages energy-efficiency upgrades for commercial buildings.",
+      "technology_tags": [
+        "energy",
+        "ind"
+      ],
+      "website_domain": "redaptive.com"
+    },
+    {
+      "name": "Delos",
+      "industry": "Zdrowie",
+      "initial_value_billion_usd": 2,
+      "description": "Develops building-health and indoor-environment technology.",
+      "technology_tags": [
+        "health",
+        "ind"
+      ],
+      "website_domain": "delos.com"
+    },
+    {
+      "name": "AISpeech",
+      "industry": "AI",
+      "initial_value_billion_usd": 2,
+      "description": "Develops conversational AI and speech-recognition software.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "aispeech.com"
+    },
+    {
+      "name": "Xona Space",
+      "industry": "Kosmos",
+      "initial_value_billion_usd": 1.2,
+      "description": "Builds a satellite navigation network.",
+      "technology_tags": [
+        "space",
+        "tech"
+      ],
+      "website_domain": "xonaspace.com"
+    },
+    {
+      "name": "Multiverse Computing",
+      "industry": "AI",
+      "initial_value_billion_usd": 1.1,
+      "description": "Develops compact AI models and computing software.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "multiversecomputing.com"
+    },
+    {
+      "name": "Astribot",
+      "industry": "Robotyka",
+      "initial_value_billion_usd": 1,
+      "description": "Develops humanoid robots.",
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "website_domain": "astribot.com"
+    },
+    {
+      "name": "Enveda",
+      "industry": "Biotechnologia",
+      "initial_value_billion_usd": 1.8,
+      "description": "Uses machine learning to discover medicines.",
+      "technology_tags": [
+        "health",
+        "ai"
+      ],
+      "website_domain": "enveda.com"
+    },
+    {
+      "name": "Wispr",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 0.8,
+      "description": "Develops voice-first productivity software.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "wisprflow.ai"
+    },
+    {
+      "name": "Profound",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 1,
+      "description": "Builds analytics for AI-driven search.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "tryprofound.com"
+    },
+    {
+      "name": "Applied Compute",
+      "industry": "AI",
+      "initial_value_billion_usd": 2.5,
+      "description": "Develops AI infrastructure and enterprise software.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "appliedcompute.com"
+    },
+    {
+      "name": "Gimlet Labs",
+      "industry": "AI",
+      "initial_value_billion_usd": 2,
+      "description": "Builds infrastructure software for AI workloads.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "gimletlabs.ai"
+    },
+    {
+      "name": "Neros",
+      "industry": "Robotyka",
+      "initial_value_billion_usd": 1.5,
+      "description": "Develops autonomous robotics and industrial technology.",
+      "technology_tags": [
+        "ind",
+        "tech"
+      ],
+      "website_domain": "neros.tech"
+    },
+    {
+      "name": "Armadin",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 1,
+      "description": "Develops enterprise technology services.",
+      "technology_tags": [
+        "tech"
+      ],
+      "website_domain": "armadin.com"
+    },
+    {
+      "name": "Leya",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 0.15,
+      "description": "Develops AI tools for legal research.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "leya.law"
+    },
+    {
+      "name": "11x",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 0.35,
+      "description": "Builds AI agents for sales automation.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "11x.ai"
+    },
+    {
+      "name": "Suno",
+      "industry": "Media",
+      "initial_value_billion_usd": 2.45,
+      "description": "Creates AI tools for generating music.",
+      "technology_tags": [
+        "media",
+        "ai"
+      ],
+      "website_domain": "suno.com"
+    },
+    {
+      "name": "Clay",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 3,
+      "description": "Provides data enrichment and sales workflow tools.",
+      "technology_tags": [
+        "tech",
+        "ai"
+      ],
+      "website_domain": "clay.com"
+    },
+    {
+      "name": "Synthesia",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 4,
+      "description": "Creates AI video tools for business communication.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "synthesia.io"
+    },
+    {
+      "name": "Decagon",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 4.5,
+      "description": "Builds AI agents for customer support.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "decagon.ai"
+    },
+    {
+      "name": "Lovable",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 1.8,
+      "description": "Helps users build web applications with AI prompts.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "lovable.dev"
+    },
+    {
+      "name": "Gamma",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 2.1,
+      "description": "Creates AI-powered presentations and documents.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "gamma.app"
+    },
+    {
+      "name": "Granola",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 1.4,
+      "description": "Develops AI meeting notes and productivity software.",
+      "technology_tags": [
+        "ai",
+        "tech"
+      ],
+      "website_domain": "granola.ai"
+    },
+    {
+      "name": "Pika",
+      "industry": "Media",
+      "initial_value_billion_usd": 0.47,
+      "description": "Builds generative AI tools for video creation.",
+      "technology_tags": [
+        "media",
+        "ai"
+      ],
+      "website_domain": "pika.art"
+    },
+    {
+      "name": "Runway",
+      "industry": "Media",
+      "initial_value_billion_usd": 3,
+      "description": "Develops generative AI tools for video production.",
+      "technology_tags": [
+        "media",
+        "ai"
+      ],
+      "website_domain": "runwayml.com"
+    },
+    {
+      "name": "Olo",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 0.5,
+      "description": "Provides digital ordering software for restaurants.",
+      "technology_tags": [
+        "tech"
+      ],
+      "website_domain": "olo.com"
+    },
+    {
+      "name": "BigCommerce",
+      "industry": "Oprogramowanie",
+      "initial_value_billion_usd": 0.5,
+      "description": "Provides e-commerce software for online retailers.",
+      "technology_tags": [
+        "tech",
+        "retail"
+      ],
+      "website_domain": "bigcommerce.com"
+    },
+    {
+      "name": "Vimeo",
+      "industry": "Media",
+      "initial_value_billion_usd": 0.5,
+      "description": "Provides video hosting and collaboration tools.",
+      "technology_tags": [
+        "media",
+        "tech"
+      ],
+      "website_domain": "vimeo.com"
+    },
+    {
+      "name": "Warby Parker",
+      "industry": "Handel",
+      "initial_value_billion_usd": 2,
+      "description": "Designs and sells prescription glasses and sunglasses.",
+      "technology_tags": [
+        "retail"
+      ],
+      "website_domain": "warbyparker.com"
+    },
+    {
+      "name": "Planet Labs",
+      "industry": "Kosmos",
+      "initial_value_billion_usd": 3,
+      "description": "Operates Earth-imaging satellites and sells geospatial data.",
+      "technology_tags": [
+        "space",
+        "tech"
+      ],
+      "website_domain": "planet.com"
+    }
+  ],
+  "brand_portfolios": {
+    "NVIDIA": [
+      "GeForce",
+      "RTX",
+      "CUDA",
+      "DGX",
+      "NVIDIA DRIVE",
+      "Nemotron"
+    ],
+    "Apple": [
+      "iPhone",
+      "iPad",
+      "Mac",
+      "Apple Watch",
+      "AirPods",
+      "Apple TV+",
+      "iCloud",
+      "Apple Intelligence"
+    ],
+    "Alphabet": [
+      "Google Search",
+      "Android",
+      "YouTube",
+      "Google Cloud",
+      "Gemini",
+      "Waymo",
+      "Google Maps",
+      "Chrome"
+    ],
+    "Microsoft": [
+      "Windows",
+      "Microsoft 365",
+      "Azure",
+      "Copilot",
+      "Xbox",
+      "LinkedIn",
+      "GitHub",
+      "Teams"
+    ],
+    "Amazon": [
+      "Amazon Marketplace",
+      "AWS",
+      "Prime Video",
+      "Prime",
+      "Kindle",
+      "Alexa",
+      "Zoox"
+    ],
+    "Meta Platforms": [
+      "Facebook",
+      "Instagram",
+      "WhatsApp",
+      "Threads",
+      "Quest",
+      "Reality Labs",
+      "Llama"
+    ],
+    "Tesla": [
+      "Model S/3/X/Y",
+      "Cybertruck",
+      "Tesla Energy",
+      "Supercharger",
+      "Optimus",
+      "FSD"
+    ],
+    "Samsung Electronics": [
+      "Galaxy",
+      "Samsung Display",
+      "Samsung Semiconductor",
+      "Samsung Foundry",
+      "Harman",
+      "SmartThings"
+    ],
+    "Sony": [
+      "PlayStation",
+      "Sony Pictures",
+      "Sony Music",
+      "Alpha",
+      "Bravia",
+      "Sony Semiconductor"
+    ],
+    "Tencent": [
+      "WeChat",
+      "Tencent Games",
+      "Riot Games",
+      "Tencent Cloud",
+      "QQ",
+      "Tencent Music"
+    ],
+    "Walt Disney": [
+      "Disney+",
+      "Marvel",
+      "Pixar",
+      "Lucasfilm",
+      "ESPN",
+      "Disney Parks",
+      "20th Century Studios"
+    ],
+    "Berkshire Hathaway": [
+      "GEICO",
+      "BNSF Railway",
+      "Berkshire Hathaway Energy",
+      "Duracell",
+      "Dairy Queen",
+      "See’s Candies"
+    ],
+    "JPMorgan Chase": [
+      "Chase",
+      "J.P. Morgan",
+      "Chase Paymentech",
+      "Asset & Wealth Management"
+    ],
+    "Visa": [
+      "VisaNet",
+      "Visa Direct",
+      "Visa Commercial Solutions",
+      "CyberSource"
+    ],
+    "Mastercard": [
+      "Mastercard Network",
+      "Mastercard Send",
+      "Click to Pay",
+      "RiskRecon"
+    ],
+    "Walmart": [
+      "Walmart",
+      "Sam’s Club",
+      "Walmart+",
+      "Flipkart",
+      "PhonePe"
+    ],
+    "Costco": [
+      "Costco Wholesale",
+      "Kirkland Signature",
+      "Costco Travel",
+      "Costco Optical"
+    ],
+    "Coca-Cola": [
+      "Coca-Cola",
+      "Sprite",
+      "Fanta",
+      "Minute Maid",
+      "Powerade",
+      "Costa Coffee"
+    ],
+    "PepsiCo": [
+      "Pepsi",
+      "Lay’s",
+      "Gatorade",
+      "Doritos",
+      "Quaker",
+      "Mountain Dew"
+    ],
+    "Nestlé": [
+      "Nescafé",
+      "Nespresso",
+      "KitKat",
+      "Purina",
+      "Gerber",
+      "Maggi"
+    ],
+    "Procter & Gamble": [
+      "Pampers",
+      "Gillette",
+      "Ariel",
+      "Tide",
+      "Head & Shoulders",
+      "Oral-B"
+    ],
+    "Unilever": [
+      "Dove",
+      "Rexona",
+      "Axe",
+      "Hellmann’s",
+      "Knorr",
+      "Magnum"
+    ],
+    "LVMH": [
+      "Louis Vuitton",
+      "Dior",
+      "Moët & Chandon",
+      "Hennessy",
+      "Sephora",
+      "TAG Heuer"
+    ],
+    "Nike": [
+      "Nike",
+      "Jordan Brand",
+      "Converse",
+      "Nike Training Club",
+      "Nike Run Club"
+    ],
+    "Adidas": [
+      "Adidas",
+      "Adidas Originals",
+      "Five Ten",
+      "Runtastic"
+    ],
+    "McDonald’s": [
+      "McDonald’s",
+      "McCafé",
+      "McDelivery",
+      "CosMc’s"
+    ],
+    "Starbucks": [
+      "Starbucks",
+      "Starbucks Reserve",
+      "Teavana",
+      "Seattle’s Best Coffee"
+    ],
+    "Toyota": [
+      "Toyota",
+      "Lexus",
+      "Daihatsu",
+      "Hino",
+      "Toyota Financial Services"
+    ],
+    "Volkswagen": [
+      "Volkswagen",
+      "Audi",
+      "Porsche",
+      "Škoda",
+      "SEAT/Cupra",
+      "Volkswagen Commercial Vehicles"
+    ],
+    "BMW": [
+      "BMW",
+      "MINI",
+      "Rolls-Royce Motor Cars",
+      "BMW Motorrad"
+    ],
+    "Mercedes-Benz": [
+      "Mercedes-Benz",
+      "Mercedes-AMG",
+      "Mercedes-Maybach",
+      "Mercedes-Benz Vans"
+    ],
+    "General Motors": [
+      "Chevrolet",
+      "Cadillac",
+      "GMC",
+      "Buick",
+      "OnStar",
+      "Cruise"
+    ],
+    "Ford Motor Company": [
+      "Ford",
+      "Lincoln",
+      "Ford Pro",
+      "Ford Credit"
+    ],
+    "Stellantis": [
+      "Jeep",
+      "Ram",
+      "Peugeot",
+      "Fiat",
+      "Opel",
+      "Citroën",
+      "Maserati",
+      "Alfa Romeo"
+    ],
+    "Renault": [
+      "Renault",
+      "Dacia",
+      "Alpine",
+      "Mobilize"
+    ],
+    "TSMC": [
+      "N3 process",
+      "N2 process",
+      "CoWoS",
+      "SoIC",
+      "InFO"
+    ],
+    "AMD": [
+      "Ryzen",
+      "EPYC",
+      "Radeon",
+      "Instinct",
+      "Pensando"
+    ],
+    "Intel": [
+      "Core",
+      "Xeon",
+      "Arc",
+      "Foundry Services",
+      "Gaudi"
+    ],
+    "Qualcomm": [
+      "Snapdragon",
+      "Adreno",
+      "FastConnect",
+      "Dragonwing",
+      "Qualcomm Automotive"
+    ],
+    "Broadcom": [
+      "VMware",
+      "Tomahawk",
+      "Jericho",
+      "Brocade",
+      "Symantec Enterprise"
+    ],
+    "ASML": [
+      "EUV lithography",
+      "DUV lithography",
+      "High-NA EUV",
+      "Metrology"
+    ],
+    "Adobe": [
+      "Photoshop",
+      "Illustrator",
+      "Acrobat",
+      "Premiere Pro",
+      "After Effects",
+      "Firefly"
+    ],
+    "Salesforce": [
+      "Sales Cloud",
+      "Service Cloud",
+      "Slack",
+      "Tableau",
+      "MuleSoft",
+      "Agentforce"
+    ],
+    "SAP": [
+      "SAP S/4HANA",
+      "SAP Business Technology Platform",
+      "SuccessFactors",
+      "Ariba",
+      "Concur"
+    ],
+    "Oracle": [
+      "Oracle Database",
+      "Oracle Cloud Infrastructure",
+      "NetSuite",
+      "Java",
+      "Cerner"
+    ],
+    "IBM": [
+      "watsonx",
+      "Red Hat",
+      "IBM Z",
+      "Maximo",
+      "QRadar",
+      "Consulting"
+    ],
+    "Cisco": [
+      "Cisco Networking",
+      "Webex",
+      "Splunk",
+      "Meraki",
+      "Duo Security"
+    ],
+    "Netflix": [
+      "Netflix",
+      "Netflix Games",
+      "Netflix Studios",
+      "Live Events"
+    ],
+    "Spotify": [
+      "Spotify Premium",
+      "Spotify Free",
+      "Spotify for Artists",
+      "Podcasting"
+    ],
+    "Electronic Arts": [
+      "EA Sports FC",
+      "Madden NFL",
+      "The Sims",
+      "Apex Legends",
+      "Battlefield"
+    ],
+    "Take-Two Interactive": [
+      "Rockstar Games",
+      "2K",
+      "Zynga",
+      "Grand Theft Auto",
+      "NBA 2K"
+    ],
+    "Nintendo": [
+      "Nintendo Switch",
+      "Super Mario",
+      "The Legend of Zelda",
+      "Pokémon (license)",
+      "Nintendo eShop"
+    ],
+    "Roblox": [
+      "Roblox Platform",
+      "Roblox Studio",
+      "Robux",
+      "Creator Marketplace"
+    ],
+    "Airbus": [
+      "A220",
+      "A320 family",
+      "A330",
+      "A350",
+      "A380 support",
+      "Airbus Helicopters",
+      "Airbus Defence and Space"
+    ],
+    "Boeing": [
+      "737",
+      "777",
+      "787 Dreamliner",
+      "Defense",
+      "Global Services"
+    ],
+    "SpaceX": [
+      "Falcon 9",
+      "Falcon Heavy",
+      "Starship",
+      "Dragon",
+      "Starlink"
+    ],
+    "Lockheed Martin": [
+      "F-35",
+      "C-130",
+      "Missiles & Fire Control",
+      "Rotary & Mission Systems",
+      "Space"
+    ],
+    "RTX": [
+      "Pratt & Whitney",
+      "Collins Aerospace",
+      "Raytheon",
+      "Goodrich"
+    ],
+    "ExxonMobil": [
+      "Exxon",
+      "Mobil",
+      "Esso",
+      "ExxonMobil Chemical",
+      "Low Carbon Solutions"
+    ],
+    "Shell": [
+      "Shell Energy",
+      "Shell Trading",
+      "Shell Chemicals",
+      "Shell Recharge",
+      "LNG"
+    ],
+    "TotalEnergies": [
+      "TotalEnergies Marketing",
+      "TotalEnergies Renewables",
+      "LNG",
+      "Lubricants"
+    ],
+    "Pfizer": [
+      "Comirnaty",
+      "Prevnar",
+      "Eliquis (co-commercialized)",
+      "Oncology",
+      "Rare Disease"
+    ],
+    "Eli Lilly": [
+      "Mounjaro",
+      "Zepbound",
+      "Verzenio",
+      "Humalog",
+      "Lilly Oncology"
+    ],
+    "Johnson & Johnson": [
+      "J&J Innovative Medicine",
+      "MedTech",
+      "Ethicon",
+      "DePuy Synthes",
+      "Janssen legacy portfolio"
+    ],
+    "AbbVie": [
+      "Humira",
+      "Skyrizi",
+      "Rinvoq",
+      "Botox Therapeutic",
+      "Immunology"
+    ],
+    "Novo Nordisk": [
+      "Ozempic",
+      "Wegovy",
+      "Rybelsus",
+      "NovoRapid",
+      "Rare Disease"
+    ],
+    "UnitedHealth": [
+      "UnitedHealthcare",
+      "Optum Health",
+      "Optum Insight",
+      "Optum Rx"
+    ],
+    "Booking Holdings": [
+      "Booking.com",
+      "Priceline",
+      "Agoda",
+      "KAYAK",
+      "OpenTable"
+    ],
+    "Uber": [
+      "Uber Rides",
+      "Uber Eats",
+      "Uber Freight",
+      "Uber for Business"
+    ],
+    "Airbnb": [
+      "Airbnb Homes",
+      "Airbnb Experiences",
+      "Airbnb Services"
+    ],
+    "PayPal": [
+      "PayPal",
+      "Venmo",
+      "Braintree",
+      "Xoom"
+    ],
+    "Block": [
+      "Square",
+      "Cash App",
+      "Afterpay",
+      "TIDAL"
+    ],
+    "Coinbase": [
+      "Coinbase Exchange",
+      "Coinbase Prime",
+      "Base",
+      "Coinbase Wallet"
+    ],
+    "BlackRock": [
+      "iShares",
+      "Aladdin",
+      "BlackRock Private Markets"
+    ],
+    "Goldman Sachs": [
+      "Global Banking & Markets",
+      "Asset Management",
+      "Private Wealth Management"
+    ],
+    "Morgan Stanley": [
+      "Morgan Stanley Wealth Management",
+      "E*TRADE",
+      "Investment Management"
+    ],
+    "Home Depot": [
+      "The Home Depot",
+      "The Home Depot Pro",
+      "HD Supply"
+    ],
+    "Kroger": [
+      "Kroger",
+      "Fred Meyer",
+      "Ralphs",
+      "King Soopers",
+      "Harris Teeter"
+    ],
+    "Colgate-Palmolive": [
+      "Colgate",
+      "Palmolive",
+      "Hill’s Pet Nutrition",
+      "elmex"
+    ],
+    "Keurig Dr Pepper": [
+      "Dr Pepper",
+      "7UP",
+      "Keurig",
+      "Green Mountain Coffee",
+      "Snapple"
+    ],
+    "Kraft Heinz": [
+      "Heinz",
+      "Kraft",
+      "Philadelphia",
+      "Oscar Mayer",
+      "Capri Sun (US license)"
+    ],
+    "Marriott International": [
+      "Marriott Hotels",
+      "The Ritz-Carlton",
+      "St. Regis",
+      "Sheraton",
+      "Westin",
+      "W Hotels"
+    ],
+    "Roche": [
+      "Roche Pharmaceuticals",
+      "Genentech",
+      "Foundation Medicine",
+      "Roche Diagnostics"
+    ],
+    "Novartis": [
+      "Entresto",
+      "Cosentyx",
+      "Kisqali",
+      "Sandoz (former division)"
+    ],
+    "HSBC": [
+      "HSBC Global Banking",
+      "HSBC Premier",
+      "HSBC Innovation Banking"
+    ],
+    "Inditex": [
+      "Zara",
+      "Pull&Bear",
+      "Massimo Dutti",
+      "Bershka",
+      "Stradivarius",
+      "Oysho"
+    ],
+    "BYD": [
+      "BYD Auto",
+      "Denza",
+      "Yangwang",
+      "Fangchengbao",
+      "FinDreams Battery"
+    ],
+    "Xiaomi": [
+      "Xiaomi Phones",
+      "Redmi",
+      "POCO",
+      "Xiaomi EV",
+      "Mi Home"
+    ],
+    "CATL": [
+      "Qilin Battery",
+      "Shenxing Battery",
+      "Freevoy",
+      "Battery Recycling"
+    ],
+    "Panasonic": [
+      "Panasonic Energy",
+      "Technics",
+      "LUMIX",
+      "Toughbook",
+      "Panasonic Connect"
+    ],
+    "Dell Technologies": [
+      "Dell",
+      "Alienware",
+      "PowerEdge",
+      "PowerStore",
+      "VMware (legacy association)"
+    ],
+    "Foxconn": [
+      "Foxconn Electronics",
+      "Foxtron",
+      "Industrial Internet",
+      "EV Contract Manufacturing"
+    ],
+    "OpenAI": [
+      "ChatGPT",
+      "GPT models",
+      "Sora",
+      "API Platform",
+      "Codex"
+    ],
+    "Anthropic": [
+      "Claude",
+      "Claude Code",
+      "Claude API",
+      "Constitutional AI research"
+    ],
+    "xAI": [
+      "Grok",
+      "Grok API",
+      "Colossus",
+      "X integration"
+    ],
+    "ByteDance": [
+      "TikTok",
+      "Douyin",
+      "CapCut",
+      "Lark",
+      "Toutiao"
+    ],
+    "Stripe": [
+      "Stripe Payments",
+      "Stripe Billing",
+      "Connect",
+      "Radar",
+      "Terminal"
+    ],
+    "Revolut": [
+      "Revolut Retail",
+      "Revolut Business",
+      "Revolut Payments",
+      "Revolut Trading"
+    ],
+    "Klarna": [
+      "Klarna Pay in 4",
+      "Klarna Card",
+      "Klarna Shopping",
+      "Klarna Checkout"
+    ],
+    "Canva": [
+      "Canva Design",
+      "Canva Docs",
+      "Canva Presentations",
+      "Magic Studio"
+    ],
+    "Databricks": [
+      "Lakehouse",
+      "Mosaic AI",
+      "Delta Lake",
+      "Unity Catalog"
+    ],
+    "Rivian": [
+      "R1T",
+      "R1S",
+      "Commercial Van",
+      "Rivian Adventure Network"
+    ],
+    "Waymo": [
+      "Waymo One",
+      "Waymo Driver",
+      "Waymo Via"
+    ],
+    "LEGO": [
+      "LEGO System",
+      "LEGO Technic",
+      "LEGO DUPLO",
+      "LEGO Education"
+    ],
+    "Dyson": [
+      "Dyson Vacuum",
+      "Airwrap",
+      "Supersonic",
+      "Purifier"
+    ]
+  },
+  "products_by_company": {
+    "Apple": [
+      "iPhone",
+      "MacBook",
+      "iMac",
+      "Mac mini",
+      "iPad",
+      "Apple Watch",
+      "AirPods",
+      "Apple TV",
+      "Vision Pro"
+    ],
+    "Samsung Electronics": [
+      "Galaxy S",
+      "Galaxy Z",
+      "Galaxy Tab",
+      "Galaxy Watch",
+      "Galaxy Buds",
+      "Neo QLED TVs",
+      "Odyssey monitors",
+      "Galaxy Book",
+      "SSD"
+    ],
+    "Microsoft": [
+      "Windows",
+      "Microsoft 365",
+      "Surface",
+      "Xbox",
+      "Azure",
+      "Copilot"
+    ],
+    "Amazon": [
+      "Kindle",
+      "Echo",
+      "Fire TV",
+      "Ring",
+      "eero",
+      "AWS"
+    ],
+    "Alphabet": [
+      "Google Pixel",
+      "Pixel Watch",
+      "Pixel Buds",
+      "Nest",
+      "Chromecast"
+    ],
+    "Sony": [
+      "PlayStation",
+      "Bravia TVs",
+      "Alpha cameras",
+      "WH headphones",
+      "Image sensors"
+    ],
+    "NVIDIA": [
+      "GeForce RTX GPUs",
+      "RTX PRO GPUs",
+      "DGX systems",
+      "Jetson",
+      "Grace CPUs",
+      "Networking"
+    ],
+    "AMD": [
+      "Ryzen CPUs",
+      "EPYC CPUs",
+      "Radeon GPUs",
+      "Instinct accelerators"
+    ],
+    "Intel": [
+      "Core processors",
+      "Xeon processors",
+      "Arc GPUs",
+      "Gaudi accelerators"
+    ],
+    "Tesla": [
+      "Model 3",
+      "Model Y",
+      "Model S",
+      "Model X",
+      "Cybertruck",
+      "Powerwall",
+      "Megapack",
+      "Supercharger"
+    ],
+    "Toyota": [
+      "Corolla",
+      "Camry",
+      "RAV4",
+      "Prius",
+      "Land Cruiser",
+      "Hilux"
+    ],
+    "Volkswagen": [
+      "Golf",
+      "Tiguan",
+      "ID.4",
+      "ID. Buzz",
+      "Passat"
+    ],
+    "BMW": [
+      "3 Series",
+      "5 Series",
+      "7 Series",
+      "X3",
+      "X5",
+      "i4",
+      "iX"
+    ],
+    "Mercedes-Benz": [
+      "C-Class",
+      "E-Class",
+      "S-Class",
+      "GLC",
+      "EQS",
+      "AMG models"
+    ],
+    "Ford Motor Company": [
+      "F-150",
+      "Mustang",
+      "Explorer",
+      "Transit",
+      "Ranger"
+    ],
+    "General Motors": [
+      "Chevrolet Silverado",
+      "Chevrolet Equinox",
+      "Cadillac Lyriq",
+      "GMC Sierra"
+    ],
+    "Nike": [
+      "Air Max",
+      "Air Force 1",
+      "Dunk",
+      "Pegasus",
+      "Mercurial",
+      "Jordan"
+    ],
+    "Adidas": [
+      "Ultraboost",
+      "Samba",
+      "Gazelle",
+      "Superstar",
+      "Predator",
+      "Adizero"
+    ],
+    "Puma": [
+      "Suede",
+      "RS-X",
+      "Future",
+      "Deviate Nitro"
+    ],
+    "Under Armour": [
+      "Curry",
+      "HOVR",
+      "HeatGear",
+      "ColdGear"
+    ],
+    "GoPro": [
+      "HERO cameras",
+      "MAX 360",
+      "Media Mod",
+      "Enduro batteries"
+    ],
+    "Crocs": [
+      "Classic Clog",
+      "Echo Clog",
+      "Jibbitz charms"
+    ],
+    "Mattel": [
+      "Barbie",
+      "Hot Wheels",
+      "Fisher-Price",
+      "UNO"
+    ],
+    "Hasbro": [
+      "Monopoly",
+      "Transformers",
+      "Play-Doh",
+      "Nerf"
+    ],
+    "Nintendo": [
+      "Nintendo Switch",
+      "Joy-Con",
+      "Mario games",
+      "Zelda games",
+      "Pokémon games"
+    ],
+    "Electronic Arts": [
+      "EA Sports FC",
+      "The Sims",
+      "Apex Legends",
+      "Battlefield"
+    ],
+    "Take-Two Interactive": [
+      "Grand Theft Auto",
+      "NBA 2K",
+      "Red Dead Redemption",
+      "WWE 2K"
+    ],
+    "Roblox": [
+      "Roblox platform",
+      "Roblox Studio",
+      "Robux"
+    ],
+    "Roku": [
+      "Roku streaming players",
+      "Roku TVs",
+      "Roku smart home"
+    ],
+    "Starbucks": [
+      "Coffee drinks",
+      "Tea drinks",
+      "Refreshers",
+      "Packaged coffee"
+    ],
+    "McDonald’s": [
+      "Burgers",
+      "Chicken McNuggets",
+      "Fries",
+      "Breakfast menu"
+    ],
+    "Coca-Cola": [
+      "Coca-Cola",
+      "Sprite",
+      "Fanta",
+      "Powerade",
+      "Minute Maid"
+    ],
+    "PepsiCo": [
+      "Pepsi",
+      "Lay’s",
+      "Doritos",
+      "Gatorade",
+      "Quaker"
+    ],
+    "Kraft Heinz": [
+      "Heinz ketchup",
+      "Kraft cheese",
+      "Philadelphia",
+      "Oscar Mayer"
+    ],
+    "Hershey": [
+      "Hershey’s chocolate",
+      "Reese’s",
+      "Twizzlers"
+    ],
+    "Ferrari": [
+      "296 GTB",
+      "SF90 Stradale",
+      "Purosangue",
+      "12Cilindri"
+    ],
+    "Airbus": [
+      "A220",
+      "A320neo family",
+      "A330neo",
+      "A350",
+      "A380",
+      "H125 helicopters"
+    ],
+    "Boeing": [
+      "737 MAX",
+      "787 Dreamliner",
+      "777X",
+      "767",
+      "P-8"
+    ],
+    "Rolls-Royce": [
+      "Trent engines",
+      "Pearl engines",
+      "Power Systems",
+      "MTU engines"
+    ],
+    "Caterpillar": [
+      "Excavators",
+      "Bulldozers",
+      "Mining trucks",
+      "Diesel engines"
+    ],
+    "Home Depot": [
+      "Tools",
+      "Building materials",
+      "Lumber",
+      "Paint",
+      "Home appliances"
+    ],
+    "Costco": [
+      "Kirkland Signature",
+      "Groceries",
+      "Electronics",
+      "Household goods"
+    ],
+    "Walmart": [
+      "Groceries",
+      "Electronics",
+      "Home goods",
+      "Apparel"
+    ],
+    "Marriott International": [
+      "Marriott Hotels",
+      "Ritz-Carlton",
+      "Westin",
+      "Sheraton",
+      "W Hotels"
+    ]
+  },
+  "notable_acquisitions_by_company": {
+    "NVIDIA": [
+      "Mellanox",
+      "Cumulus Networks",
+      "SwiftStack",
+      "Bright Computing",
+      "Run:ai",
+      "Deci"
+    ],
+    "Apple": [
+      "Beats Electronics",
+      "Shazam",
+      "PrimeSense",
+      "AuthenTec",
+      "Dark Sky",
+      "Texture"
+    ],
+    "Microsoft": [
+      "LinkedIn",
+      "GitHub",
+      "Activision Blizzard",
+      "Mojang",
+      "Nuance",
+      "ZeniMax"
+    ],
+    "Alphabet": [
+      "YouTube",
+      "Android Inc.",
+      "DoubleClick",
+      "Fitbit",
+      "Waze",
+      "Nest",
+      "DeepMind",
+      "Mandiant"
+    ],
+    "Amazon": [
+      "Whole Foods",
+      "Twitch",
+      "MGM",
+      "Ring",
+      "Zoox",
+      "One Medical",
+      "Kiva Systems"
+    ],
+    "Meta Platforms": [
+      "Instagram",
+      "WhatsApp",
+      "Oculus VR",
+      "CTRL-labs",
+      "Within"
+    ],
+    "Tesla": [
+      "SolarCity",
+      "Maxwell Technologies",
+      "Grohmann Engineering"
+    ],
+    "Salesforce": [
+      "Slack",
+      "Tableau",
+      "MuleSoft",
+      "ExactTarget"
+    ],
+    "Cisco": [
+      "Splunk",
+      "Meraki",
+      "Duo Security",
+      "AppDynamics"
+    ],
+    "Broadcom": [
+      "VMware",
+      "CA Technologies",
+      "Symantec Enterprise",
+      "Brocade"
+    ],
+    "Oracle": [
+      "NetSuite",
+      "Cerner",
+      "Sun Microsystems",
+      "PeopleSoft"
+    ],
+    "Adobe": [
+      "Magento",
+      "Marketo",
+      "Frame.io"
+    ],
+    "Uber": [
+      "Postmates",
+      "Careem",
+      "Drizly"
+    ],
+    "Booking Holdings": [
+      "KAYAK",
+      "OpenTable",
+      "Rentalcars.com"
+    ],
+    "PayPal": [
+      "Braintree",
+      "Venmo",
+      "Honey",
+      "Xoom"
+    ],
+    "IBM": [
+      "Red Hat",
+      "HashiCorp",
+      "Apptio",
+      "Turbonomic"
+    ],
+    "Spotify": [
+      "Anchor",
+      "Gimlet Media",
+      "Findaway"
+    ],
+    "Airbnb": [
+      "HotelTonight",
+      "Luxury Retreats",
+      "Urbandoor"
+    ],
+    "Take-Two Interactive": [
+      "Zynga",
+      "Rockstar Games",
+      "Social Point"
+    ],
+    "Electronic Arts": [
+      "Codemasters",
+      "Respawn Entertainment",
+      "PopCap Games"
+    ],
+    "Qualcomm": [
+      "Nuvia",
+      "CSR",
+      "Atheros"
+    ],
+    "Shopify": [
+      "Deliverr",
+      "6 River Systems",
+      "Oberlo"
+    ]
+  },
+  "competitors_by_company": {
+    "NVIDIA": [
+      "AMD",
+      "Intel",
+      "Qualcomm",
+      "Broadcom",
+      "TSMC",
+      "Samsung Electronics",
+      "Amazon",
+      "Microsoft",
+      "Alphabet"
+    ],
+    "Apple": [
+      "Samsung Electronics",
+      "Alphabet",
+      "Microsoft",
+      "Sony",
+      "Dell",
+      "HP",
+      "Tesla"
+    ],
+    "Microsoft": [
+      "Apple",
+      "Alphabet",
+      "Amazon",
+      "Oracle",
+      "Salesforce",
+      "IBM",
+      "SAP",
+      "ServiceNow"
+    ],
+    "Alphabet": [
+      "Microsoft",
+      "Meta Platforms",
+      "Amazon",
+      "Apple",
+      "Tencent",
+      "Snap",
+      "Pinterest"
+    ],
+    "Amazon": [
+      "Walmart",
+      "Alibaba",
+      "Microsoft",
+      "Alphabet",
+      "Shopify",
+      "Oracle",
+      "Booking Holdings"
+    ],
+    "Meta Platforms": [
+      "Alphabet",
+      "Snap",
+      "Pinterest",
+      "Tencent",
+      "Amazon",
+      "Microsoft"
+    ],
+    "Tesla": [
+      "Toyota",
+      "Volkswagen",
+      "Ford Motor Company",
+      "General Motors",
+      "Rivian",
+      "Renault",
+      "Stellantis"
+    ],
+    "TSMC": [
+      "Samsung Electronics",
+      "Intel",
+      "Micron Technology",
+      "SK Hynix",
+      "Qualcomm",
+      "AMD"
+    ],
+    "AMD": [
+      "NVIDIA",
+      "Intel",
+      "Qualcomm",
+      "Broadcom",
+      "Apple",
+      "Samsung Electronics"
+    ],
+    "Intel": [
+      "AMD",
+      "NVIDIA",
+      "Qualcomm",
+      "TSMC",
+      "Samsung Electronics",
+      "Arm Holdings"
+    ],
+    "Samsung Electronics": [
+      "Apple",
+      "TSMC",
+      "Sony",
+      "Intel",
+      "SK Hynix",
+      "Xiaomi"
+    ],
+    "Broadcom": [
+      "Qualcomm",
+      "NVIDIA",
+      "Cisco",
+      "AMD",
+      "Intel"
+    ],
+    "Qualcomm": [
+      "Apple",
+      "Broadcom",
+      "Samsung Electronics",
+      "NVIDIA",
+      "Arm Holdings"
+    ],
+    "Netflix": [
+      "Walt Disney",
+      "Amazon",
+      "Spotify",
+      "Roku"
+    ],
+    "Spotify": [
+      "Apple",
+      "Amazon",
+      "Alphabet",
+      "Netflix",
+      "Tencent"
+    ],
+    "Uber": [
+      "Lyft",
+      "Booking Holdings",
+      "Airbnb"
+    ],
+    "Visa": [
+      "Mastercard",
+      "PayPal",
+      "Block"
+    ],
+    "Mastercard": [
+      "Visa",
+      "PayPal",
+      "Block"
+    ],
+    "PayPal": [
+      "Visa",
+      "Mastercard",
+      "Block",
+      "Shopify"
+    ],
+    "Shopify": [
+      "Amazon",
+      "BigCommerce",
+      "Wix",
+      "Salesforce"
+    ],
+    "Adobe": [
+      "Microsoft",
+      "Salesforce",
+      "Autodesk"
+    ],
+    "Salesforce": [
+      "Microsoft",
+      "Oracle",
+      "SAP",
+      "ServiceNow"
+    ],
+    "Oracle": [
+      "Microsoft",
+      "Amazon",
+      "Alphabet",
+      "IBM",
+      "SAP",
+      "Salesforce"
+    ],
+    "IBM": [
+      "Microsoft",
+      "Amazon",
+      "Oracle",
+      "Accenture",
+      "Cisco",
+      "SAP"
+    ],
+    "Cisco": [
+      "Nokia",
+      "Broadcom",
+      "IBM",
+      "Qualcomm"
+    ],
+    "Airbus": [
+      "Boeing",
+      "Embraer",
+      "Lockheed Martin"
+    ],
+    "Boeing": [
+      "Airbus",
+      "Embraer",
+      "Lockheed Martin"
+    ],
+    "Toyota": [
+      "Volkswagen",
+      "Hyundai",
+      "Tesla",
+      "Honda",
+      "General Motors"
+    ],
+    "Volkswagen": [
+      "Toyota",
+      "Stellantis",
+      "BMW",
+      "Mercedes-Benz",
+      "Renault",
+      "Tesla"
+    ],
+    "Ford Motor Company": [
+      "General Motors",
+      "Stellantis",
+      "Toyota",
+      "Tesla",
+      "Rivian"
+    ],
+    "General Motors": [
+      "Ford Motor Company",
+      "Toyota",
+      "Stellantis",
+      "Tesla",
+      "Rivian"
+    ],
+    "Rivian": [
+      "Tesla",
+      "Ford Motor Company",
+      "General Motors",
+      "Lucid Group"
+    ],
+    "Airbnb": [
+      "Booking Holdings",
+      "Marriott International"
+    ],
+    "Booking Holdings": [
+      "Airbnb",
+      "Marriott International"
+    ],
+    "Nike": [
+      "Adidas",
+      "Puma",
+      "Under Armour",
+      "Lululemon"
+    ],
+    "Adidas": [
+      "Nike",
+      "Puma",
+      "Under Armour",
+      "Lululemon"
+    ],
+    "McDonald’s": [
+      "Starbucks",
+      "Chipotle"
+    ],
+    "PepsiCo": [
+      "Coca-Cola",
+      "Keurig Dr Pepper",
+      "Nestlé"
+    ],
+    "Coca-Cola": [
+      "PepsiCo",
+      "Keurig Dr Pepper",
+      "Nestlé"
+    ],
+    "Nestlé": [
+      "Unilever",
+      "PepsiCo",
+      "Kraft Heinz"
+    ],
+    "Shell": [
+      "BP",
+      "TotalEnergies",
+      "ExxonMobil",
+      "Chevron",
+      "Saudi Aramco"
+    ],
+    "ExxonMobil": [
+      "Chevron",
+      "Shell",
+      "BP",
+      "TotalEnergies",
+      "Saudi Aramco"
+    ],
+    "Pfizer": [
+      "Merck",
+      "AstraZeneca",
+      "Eli Lilly",
+      "Novo Nordisk",
+      "AbbVie"
+    ],
+    "Eli Lilly": [
+      "Novo Nordisk",
+      "Pfizer",
+      "AstraZeneca",
+      "Merck"
+    ],
+    "Palantir": [
+      "Snowflake",
+      "Oracle",
+      "IBM",
+      "Microsoft"
+    ],
+    "Snowflake": [
+      "Microsoft",
+      "Amazon",
+      "Alphabet",
+      "Oracle"
+    ],
+    "Rocket Lab": [
+      "SpaceX"
+    ],
+    "SpaceX": [
+      "Rocket Lab"
+    ],
+    "Coinbase": [
+      "PayPal",
+      "Block"
+    ],
+    "Roblox": [
+      "Take-Two Interactive",
+      "Electronic Arts",
+      "Nintendo"
+    ],
+    "Electronic Arts": [
+      "Take-Two Interactive",
+      "Nintendo",
+      "Roblox"
+    ],
+    "Take-Two Interactive": [
+      "Electronic Arts",
+      "Nintendo",
+      "Roblox"
+    ]
+  },
+  "notes": [
+    "Initial companies and values are copied from the RAW list in the supplied index.html.",
+    "Initial values are game starting values in USD billions, not live market prices.",
+    "Brand portfolios are the game's existing business/brand lists.",
+    "IPO candidates are kept separate from the 200 companies present at a new game's start."
+  ]
+}

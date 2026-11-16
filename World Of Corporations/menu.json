@@ -1,0 +1,33 @@
+{
+  "title": "WORLD OF CORPORATIONS",
+  "subtitle": "GLOBAL MARKET SIMULATOR",
+  "version": "BUILD YOUR BUSINESS EMPIRE",
+  "description": "Build a business empire in a living global market. Acquire companies, manage your portfolio, invest in research, compete with rivals and shape the future of entire industries. Every run creates a different economic story.",
+  "discordLabel": "Discord (SOON)",
+  "footer": "A fictional business simulation · Your decisions shape the market",
+  "about": {
+    "title": "About World of Corporations",
+    "paragraphs": [
+      "World of Corporations is a single-player business and market simulation. Start with limited capital, acquire companies and grow your influence across a changing global economy.",
+      "The simulation includes company valuations, industries, technologies, products, rivals, macroeconomic events and long-term market trends. All in-game outcomes are fictional.",
+      "Company names and trademarks belong to their respective owners. World of Corporations is not affiliated with or endorsed by the companies shown."
+    ]
+  },
+  "howToPlay": {
+    "title": "How to Play",
+    "items": [
+      "Choose your player name, starting capital and difficulty.",
+      "Use Next Day or Auto to advance the simulation. Change speed whenever you want.",
+      "Acquire companies, monitor your portfolio and diversify across industries.",
+      "Use company management, research, products and strategic actions to build long-term value.",
+      "Your objective is to own the three largest companies in the market at the same time."
+    ]
+  },
+  "credits": {
+    "title": "Credits",
+    "paragraphs": [
+      "World of Corporations — an independent simulation project.",
+      "Company names and trademarks belong to their respective owners. This game is not affiliated with or endorsed by any company shown."
+    ]
+  }
+}

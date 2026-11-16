@@ -1,0 +1,1734 @@
+{
+  "schema_version": 1,
+  "source_game_version": "1.15 Tech Tree XI",
+  "industries": [
+    {
+      "id": "semi",
+      "name": {
+        "pl": "Produkcja układów",
+        "en": "Chip manufacturing"
+      },
+      "growth_parameter": 8.0,
+      "market_size_billion_usd": 600.0,
+      "initial_market_shares": [
+        {
+          "company": "TSMC",
+          "share_percent": 58.0
+        },
+        {
+          "company": "Samsung Electronics",
+          "share_percent": 13.0
+        },
+        {
+          "company": "Intel",
+          "share_percent": 8.0
+        },
+        {
+          "company": "GlobalFoundries",
+          "share_percent": 5.0
+        },
+        {
+          "company": "SMIC",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 10.0
+        }
+      ]
+    },
+    {
+      "id": "gpu",
+      "name": {
+        "pl": "Karty graficzne i akceleratory",
+        "en": "GPUs & accelerators"
+      },
+      "growth_parameter": 20.0,
+      "market_size_billion_usd": 150.0,
+      "initial_market_shares": [
+        {
+          "company": "NVIDIA",
+          "share_percent": 80.0
+        },
+        {
+          "company": "AMD",
+          "share_percent": 13.0
+        },
+        {
+          "company": "Intel",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Cerebras",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 2.0
+        }
+      ]
+    },
+    {
+      "id": "chipeq",
+      "name": {
+        "pl": "Maszyny do chipów",
+        "en": "Chip equipment"
+      },
+      "growth_parameter": 9.0,
+      "market_size_billion_usd": 100.0,
+      "initial_market_shares": [
+        {
+          "company": "ASML",
+          "share_percent": 60.0
+        },
+        {
+          "company": "Applied Materials",
+          "share_percent": 17.0
+        },
+        {
+          "company": "Lam Research",
+          "share_percent": 11.0
+        },
+        {
+          "company": "KLA",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 4.0
+        }
+      ]
+    },
+    {
+      "id": "mem",
+      "name": {
+        "pl": "Pamięci i dyski",
+        "en": "Memory & storage"
+      },
+      "growth_parameter": 9.0,
+      "market_size_billion_usd": 200.0,
+      "initial_market_shares": [
+        {
+          "company": "Samsung Electronics",
+          "share_percent": 30.0
+        },
+        {
+          "company": "SK Hynix",
+          "share_percent": 25.0
+        },
+        {
+          "company": "Micron Technology",
+          "share_percent": 22.0
+        },
+        {
+          "company": "Western Digital",
+          "share_percent": 8.0
+        },
+        {
+          "company": "YMTC",
+          "share_percent": 4.0
+        },
+        {
+          "company": "CXMT",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 7.0
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": {
+        "pl": "Modele AI",
+        "en": "AI models"
+      },
+      "growth_parameter": 25.0,
+      "market_size_billion_usd": 250.0,
+      "initial_market_shares": [
+        {
+          "company": "OpenAI",
+          "share_percent": 24.0
+        },
+        {
+          "company": "Alphabet",
+          "share_percent": 21.0
+        },
+        {
+          "company": "Anthropic",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Meta Platforms",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Microsoft",
+          "share_percent": 9.0
+        },
+        {
+          "company": "Amazon",
+          "share_percent": 6.0
+        },
+        {
+          "company": "xAI",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Apple",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Tencent",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 5.0
+        }
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": {
+        "pl": "Chmura",
+        "en": "Cloud"
+      },
+      "growth_parameter": 15.0,
+      "market_size_billion_usd": 400.0,
+      "initial_market_shares": [
+        {
+          "company": "Amazon",
+          "share_percent": 31.0
+        },
+        {
+          "company": "Microsoft",
+          "share_percent": 24.0
+        },
+        {
+          "company": "Alphabet",
+          "share_percent": 11.0
+        },
+        {
+          "company": "Alibaba",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Oracle",
+          "share_percent": 3.0
+        },
+        {
+          "company": "IBM",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Tencent",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 23.0
+        }
+      ]
+    },
+    {
+      "id": "soft",
+      "name": {
+        "pl": "Oprogramowanie firmowe",
+        "en": "Enterprise software"
+      },
+      "growth_parameter": 9.0,
+      "market_size_billion_usd": 500.0,
+      "initial_market_shares": [
+        {
+          "company": "Microsoft",
+          "share_percent": 20.0
+        },
+        {
+          "company": "SAP",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Salesforce",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Oracle",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Adobe",
+          "share_percent": 8.0
+        },
+        {
+          "company": "ServiceNow",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Intuit",
+          "share_percent": 4.0
+        },
+        {
+          "company": "IBM",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 31.0
+        }
+      ]
+    },
+    {
+      "id": "cyber",
+      "name": {
+        "pl": "Cyberbezpieczeństwo",
+        "en": "Cybersecurity"
+      },
+      "growth_parameter": 14.0,
+      "market_size_billion_usd": 120.0,
+      "initial_market_shares": [
+        {
+          "company": "Microsoft",
+          "share_percent": 15.0
+        },
+        {
+          "company": "Palo Alto Networks",
+          "share_percent": 14.0
+        },
+        {
+          "company": "CrowdStrike",
+          "share_percent": 12.0
+        },
+        {
+          "company": "Cisco",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Palantir",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 46.0
+        }
+      ]
+    },
+    {
+      "id": "phone",
+      "name": {
+        "pl": "Smartfony",
+        "en": "Smartphones"
+      },
+      "growth_parameter": 3.0,
+      "market_size_billion_usd": 800.0,
+      "initial_market_shares": [
+        {
+          "company": "Apple",
+          "share_percent": 24.0
+        },
+        {
+          "company": "Samsung Electronics",
+          "share_percent": 20.0
+        },
+        {
+          "company": "Xiaomi",
+          "share_percent": 12.0
+        },
+        {
+          "company": "Huawei",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Sony",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 35.0
+        }
+      ]
+    },
+    {
+      "id": "elec",
+      "name": {
+        "pl": "Elektronika użytkowa",
+        "en": "Consumer electronics"
+      },
+      "growth_parameter": 5.0,
+      "market_size_billion_usd": 900.0,
+      "initial_market_shares": [
+        {
+          "company": "Apple",
+          "share_percent": 12.0
+        },
+        {
+          "company": "Samsung Electronics",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Sony",
+          "share_percent": 9.0
+        },
+        {
+          "company": "Xiaomi",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Huawei",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Alphabet",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Amazon",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Nintendo",
+          "share_percent": 2.0
+        },
+        {
+          "company": "GoPro",
+          "share_percent": 0.4
+        },
+        {
+          "company": "Others",
+          "share_percent": 45.6
+        }
+      ]
+    },
+    {
+      "id": "svc",
+      "name": {
+        "pl": "Usługi internetowe",
+        "en": "Internet services"
+      },
+      "growth_parameter": 10.0,
+      "market_size_billion_usd": 1500.0,
+      "initial_market_shares": [
+        {
+          "company": "Alphabet",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Apple",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Microsoft",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Amazon",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Tencent",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Meta Platforms",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Alibaba",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Netflix",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Spotify",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 51.0
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "name": {
+        "pl": "Reklama i social media",
+        "en": "Advertising & social media"
+      },
+      "growth_parameter": 8.0,
+      "market_size_billion_usd": 900.0,
+      "initial_market_shares": [
+        {
+          "company": "Meta Platforms",
+          "share_percent": 32.0
+        },
+        {
+          "company": "Alphabet",
+          "share_percent": 30.0
+        },
+        {
+          "company": "ByteDance",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Tencent",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Snap",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Pinterest",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Reddit",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 14.0
+        }
+      ]
+    },
+    {
+      "id": "stream",
+      "name": {
+        "pl": "Streaming wideo",
+        "en": "Video streaming"
+      },
+      "growth_parameter": 7.0,
+      "market_size_billion_usd": 250.0,
+      "initial_market_shares": [
+        {
+          "company": "Netflix",
+          "share_percent": 24.0
+        },
+        {
+          "company": "Walt Disney",
+          "share_percent": 18.0
+        },
+        {
+          "company": "Amazon",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Roku",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 40.0
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": {
+        "pl": "Gry",
+        "en": "Video games"
+      },
+      "growth_parameter": 8.0,
+      "market_size_billion_usd": 300.0,
+      "initial_market_shares": [
+        {
+          "company": "Tencent",
+          "share_percent": 18.0
+        },
+        {
+          "company": "Sony",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Microsoft",
+          "share_percent": 11.0
+        },
+        {
+          "company": "Nintendo",
+          "share_percent": 9.0
+        },
+        {
+          "company": "Electronic Arts",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Take-Two Interactive",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Roblox",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Epic Games",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Unity Software",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 28.0
+        }
+      ]
+    },
+    {
+      "id": "cars",
+      "name": {
+        "pl": "Samochody (wszystkie)",
+        "en": "Cars (all)"
+      },
+      "growth_parameter": 3.0,
+      "market_size_billion_usd": 2500.0,
+      "initial_market_shares": [
+        {
+          "company": "Toyota",
+          "share_percent": 11.0
+        },
+        {
+          "company": "Volkswagen",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Hyundai",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Stellantis",
+          "share_percent": 6.0
+        },
+        {
+          "company": "General Motors",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Ford Motor Company",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Honda",
+          "share_percent": 4.0
+        },
+        {
+          "company": "BMW",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Mercedes-Benz",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Renault",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Tesla",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 40.0
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": {
+        "pl": "Samochody elektryczne",
+        "en": "Electric vehicles"
+      },
+      "growth_parameter": 16.0,
+      "market_size_billion_usd": 700.0,
+      "initial_market_shares": [
+        {
+          "company": "Tesla",
+          "share_percent": 20.0
+        },
+        {
+          "company": "BYD",
+          "share_percent": 22.0
+        },
+        {
+          "company": "Volkswagen",
+          "share_percent": 7.0
+        },
+        {
+          "company": "BMW",
+          "share_percent": 4.0
+        },
+        {
+          "company": "General Motors",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Mercedes-Benz",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Ford Motor Company",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Rivian",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Lucid Group",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 34.0
+        }
+      ]
+    },
+    {
+      "id": "plane",
+      "name": {
+        "pl": "Samoloty pasażerskie",
+        "en": "Airliners"
+      },
+      "growth_parameter": 4.0,
+      "market_size_billion_usd": 300.0,
+      "initial_market_shares": [
+        {
+          "company": "Airbus",
+          "share_percent": 50.0
+        },
+        {
+          "company": "Boeing",
+          "share_percent": 43.0
+        },
+        {
+          "company": "Embraer",
+          "share_percent": 3.0
+        },
+        {
+          "company": "COMAC",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 2.0
+        }
+      ]
+    },
+    {
+      "id": "jet",
+      "name": {
+        "pl": "Silniki lotnicze",
+        "en": "Jet engines"
+      },
+      "growth_parameter": 5.0,
+      "market_size_billion_usd": 120.0,
+      "initial_market_shares": [
+        {
+          "company": "General Electric",
+          "share_percent": 32.0
+        },
+        {
+          "company": "RTX",
+          "share_percent": 30.0
+        },
+        {
+          "company": "Rolls-Royce",
+          "share_percent": 20.0
+        },
+        {
+          "company": "Honeywell",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 14.0
+        }
+      ]
+    },
+    {
+      "id": "airl",
+      "name": {
+        "pl": "Linie lotnicze",
+        "en": "Airlines"
+      },
+      "growth_parameter": 4.0,
+      "market_size_billion_usd": 800.0,
+      "initial_market_shares": [
+        {
+          "company": "Delta Air Lines",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Ryanair",
+          "share_percent": 8.0
+        },
+        {
+          "company": "United Airlines",
+          "share_percent": 12.0
+        },
+        {
+          "company": "Lufthansa",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Southwest Airlines",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Wizz Air",
+          "share_percent": 3.0
+        },
+        {
+          "company": "JetBlue Airways",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 48.0
+        }
+      ]
+    },
+    {
+      "id": "def",
+      "name": {
+        "pl": "Zbrojeniówka",
+        "en": "Defense"
+      },
+      "growth_parameter": 6.0,
+      "market_size_billion_usd": 700.0,
+      "initial_market_shares": [
+        {
+          "company": "Lockheed Martin",
+          "share_percent": 20.0
+        },
+        {
+          "company": "RTX",
+          "share_percent": 18.0
+        },
+        {
+          "company": "Northrop Grumman",
+          "share_percent": 14.0
+        },
+        {
+          "company": "General Dynamics",
+          "share_percent": 12.0
+        },
+        {
+          "company": "BAE Systems",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Boeing",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Rheinmetall",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Anduril",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 16.0
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": {
+        "pl": "Kosmos: starty, satelity i Starlink",
+        "en": "Space: launch, satellites & Starlink"
+      },
+      "growth_parameter": 12.0,
+      "market_size_billion_usd": 420.0,
+      "initial_market_shares": [
+        {
+          "company": "SpaceX",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Lockheed Martin",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Boeing",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Northrop Grumman",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Airbus",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Blue Origin",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Rocket Lab",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 69.0
+        }
+      ]
+    },
+    {
+      "id": "oil",
+      "name": {
+        "pl": "Ropa i gaz",
+        "en": "Oil & gas"
+      },
+      "growth_parameter": 2.0,
+      "market_size_billion_usd": 4000.0,
+      "initial_market_shares": [
+        {
+          "company": "Saudi Aramco",
+          "share_percent": 15.0
+        },
+        {
+          "company": "ExxonMobil",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Chevron",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Shell",
+          "share_percent": 7.0
+        },
+        {
+          "company": "TotalEnergies",
+          "share_percent": 5.0
+        },
+        {
+          "company": "BP",
+          "share_percent": 5.0
+        },
+        {
+          "company": "ConocoPhillips",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Petrobras",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Reliance Industries",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 42.0
+        }
+      ]
+    },
+    {
+      "id": "pharma",
+      "name": {
+        "pl": "Farmaceutyki",
+        "en": "Pharmaceuticals"
+      },
+      "growth_parameter": 5.0,
+      "market_size_billion_usd": 1500.0,
+      "initial_market_shares": [
+        {
+          "company": "Eli Lilly",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Johnson & Johnson",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Merck",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Novo Nordisk",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Pfizer",
+          "share_percent": 6.0
+        },
+        {
+          "company": "AstraZeneca",
+          "share_percent": 6.0
+        },
+        {
+          "company": "AbbVie",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Roche",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Novartis",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Moderna",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 38.0
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": {
+        "pl": "Opieka i sprzęt medyczny",
+        "en": "Healthcare & devices"
+      },
+      "growth_parameter": 5.0,
+      "market_size_billion_usd": 2500.0,
+      "initial_market_shares": [
+        {
+          "company": "UnitedHealth",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Johnson & Johnson",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Medtronic",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Danaher",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Illumina",
+          "share_percent": 0.5
+        },
+        {
+          "company": "Others",
+          "share_percent": 82.5
+        }
+      ]
+    },
+    {
+      "id": "pay",
+      "name": {
+        "pl": "Płatności",
+        "en": "Payments"
+      },
+      "growth_parameter": 8.0,
+      "market_size_billion_usd": 800.0,
+      "initial_market_shares": [
+        {
+          "company": "Visa",
+          "share_percent": 45.0
+        },
+        {
+          "company": "Mastercard",
+          "share_percent": 30.0
+        },
+        {
+          "company": "PayPal",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Block",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Stripe",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Wise",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 9.0
+        }
+      ]
+    },
+    {
+      "id": "bank",
+      "name": {
+        "pl": "Bankowość i inwestycje",
+        "en": "Banking & investing"
+      },
+      "growth_parameter": 4.0,
+      "market_size_billion_usd": 3000.0,
+      "initial_market_shares": [
+        {
+          "company": "JPMorgan Chase",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Bank of America",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Wells Fargo",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Goldman Sachs",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Morgan Stanley",
+          "share_percent": 4.0
+        },
+        {
+          "company": "BlackRock",
+          "share_percent": 3.0
+        },
+        {
+          "company": "HSBC",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Berkshire Hathaway",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Revolut",
+          "share_percent": 0.3
+        },
+        {
+          "company": "Coinbase",
+          "share_percent": 0.3
+        },
+        {
+          "company": "Others",
+          "share_percent": 63.4
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "name": {
+        "pl": "E-commerce",
+        "en": "E-commerce"
+      },
+      "growth_parameter": 8.0,
+      "market_size_billion_usd": 3000.0,
+      "initial_market_shares": [
+        {
+          "company": "Amazon",
+          "share_percent": 37.0
+        },
+        {
+          "company": "Alibaba",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Walmart",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Shopify",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Shein",
+          "share_percent": 4.0
+        },
+        {
+          "company": "MercadoLibre",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Target",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Costco",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Etsy",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Zalando",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 30.0
+        }
+      ]
+    },
+    {
+      "id": "retail",
+      "name": {
+        "pl": "Handel stacjonarny",
+        "en": "Stores & supermarkets"
+      },
+      "growth_parameter": 3.0,
+      "market_size_billion_usd": 6000.0,
+      "initial_market_shares": [
+        {
+          "company": "Walmart",
+          "share_percent": 9.0
+        },
+        {
+          "company": "Costco",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Home Depot",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Lowe's",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Target",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Kroger",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 77.0
+        }
+      ]
+    },
+    {
+      "id": "luxury",
+      "name": {
+        "pl": "Luksus",
+        "en": "Luxury goods"
+      },
+      "growth_parameter": 6.0,
+      "market_size_billion_usd": 400.0,
+      "initial_market_shares": [
+        {
+          "company": "LVMH",
+          "share_percent": 25.0
+        },
+        {
+          "company": "Hermès",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Ferrari",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 58.0
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "name": {
+        "pl": "Odzież sportowa",
+        "en": "Sportswear"
+      },
+      "growth_parameter": 5.0,
+      "market_size_billion_usd": 200.0,
+      "initial_market_shares": [
+        {
+          "company": "Nike",
+          "share_percent": 38.0
+        },
+        {
+          "company": "Adidas",
+          "share_percent": 18.0
+        },
+        {
+          "company": "Puma",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Lululemon",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Under Armour",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 29.0
+        }
+      ]
+    },
+    {
+      "id": "soda",
+      "name": {
+        "pl": "Napoje gazowane",
+        "en": "Soft drinks"
+      },
+      "growth_parameter": 2.0,
+      "market_size_billion_usd": 400.0,
+      "initial_market_shares": [
+        {
+          "company": "Coca-Cola",
+          "share_percent": 45.0
+        },
+        {
+          "company": "PepsiCo",
+          "share_percent": 30.0
+        },
+        {
+          "company": "Keurig Dr Pepper",
+          "share_percent": 7.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 18.0
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "name": {
+        "pl": "Żywność pakowana",
+        "en": "Packaged food"
+      },
+      "growth_parameter": 3.0,
+      "market_size_billion_usd": 2500.0,
+      "initial_market_shares": [
+        {
+          "company": "Nestlé",
+          "share_percent": 7.0
+        },
+        {
+          "company": "PepsiCo",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Unilever",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Kraft Heinz",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Hershey",
+          "share_percent": 1.5
+        },
+        {
+          "company": "Pernod Ricard",
+          "share_percent": 1.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 79.5
+        }
+      ]
+    },
+    {
+      "id": "consum",
+      "name": {
+        "pl": "Dobra gospodarstwa domowego",
+        "en": "Household goods"
+      },
+      "growth_parameter": 2.0,
+      "market_size_billion_usd": 1800.0,
+      "initial_market_shares": [
+        {
+          "company": "Procter & Gamble",
+          "share_percent": 12.0
+        },
+        {
+          "company": "Unilever",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Colgate-Palmolive",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Mattel",
+          "share_percent": 0.5
+        },
+        {
+          "company": "Hasbro",
+          "share_percent": 0.5
+        },
+        {
+          "company": "Others",
+          "share_percent": 78.0
+        }
+      ]
+    },
+    {
+      "id": "trav",
+      "name": {
+        "pl": "Podróże i gastronomia",
+        "en": "Travel & restaurants"
+      },
+      "growth_parameter": 5.0,
+      "market_size_billion_usd": 1500.0,
+      "initial_market_shares": [
+        {
+          "company": "McDonald’s",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Booking Holdings",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Marriott International",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Starbucks",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Airbnb",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Chipotle",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Carnival",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Royal Caribbean",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 71.0
+        }
+      ]
+    },
+    {
+      "id": "ind",
+      "name": {
+        "pl": "Przemysł i automatyka",
+        "en": "Industrial & automation"
+      },
+      "growth_parameter": 4.0,
+      "market_size_billion_usd": 3000.0,
+      "initial_market_shares": [
+        {
+          "company": "Siemens",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Honeywell",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Caterpillar",
+          "share_percent": 3.0
+        },
+        {
+          "company": "General Electric",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Deere & Company",
+          "share_percent": 2.0
+        },
+        {
+          "company": "SABIC",
+          "share_percent": 2.0
+        },
+        {
+          "company": "FedEx",
+          "share_percent": 2.0
+        },
+        {
+          "company": "Boston Dynamics",
+          "share_percent": 0.1
+        },
+        {
+          "company": "Others",
+          "share_percent": 81.9
+        }
+      ]
+    },
+    {
+      "id": "telco",
+      "name": {
+        "pl": "Sieci i telekomunikacja",
+        "en": "Networking & telecom"
+      },
+      "growth_parameter": 2.0,
+      "market_size_billion_usd": 900.0,
+      "initial_market_shares": [
+        {
+          "company": "Cisco",
+          "share_percent": 12.0
+        },
+        {
+          "company": "Qualcomm",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Huawei",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Nokia",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Reliance Industries",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 61.0
+        }
+      ]
+    },
+    {
+      "id": "ride",
+      "name": {
+        "pl": "Przewozy na żądanie",
+        "en": "Ride hailing"
+      },
+      "growth_parameter": 6.0,
+      "market_size_billion_usd": 150.0,
+      "initial_market_shares": [
+        {
+          "company": "Uber",
+          "share_percent": 68.0
+        },
+        {
+          "company": "Lyft",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 18.0
+        }
+      ]
+    },
+    {
+      "id": "green",
+      "name": {
+        "pl": "Energia odnawialna",
+        "en": "Clean energy"
+      },
+      "growth_parameter": 14.0,
+      "market_size_billion_usd": 600.0,
+      "initial_market_shares": [
+        {
+          "company": "NextEra Energy",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Vestas",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Siemens",
+          "share_percent": 9.0
+        },
+        {
+          "company": "First Solar",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Ørsted",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Tesla",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 57.0
+        }
+      ]
+    },
+    {
+      "id": "chipdes",
+      "name": {
+        "pl": "Projektowanie układów",
+        "en": "Chip design & analog"
+      },
+      "growth_parameter": 11.0,
+      "market_size_billion_usd": 450.0,
+      "initial_market_shares": [
+        {
+          "company": "Apple",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Qualcomm",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Broadcom",
+          "share_percent": 14.0
+        },
+        {
+          "company": "AMD",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Intel",
+          "share_percent": 8.0
+        },
+        {
+          "company": "MediaTek",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Arm Holdings",
+          "share_percent": 6.0
+        },
+        {
+          "company": "Texas Instruments",
+          "share_percent": 5.0
+        },
+        {
+          "company": "Analog Devices",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Infineon",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 14.0
+        }
+      ]
+    },
+    {
+      "id": "disp",
+      "name": {
+        "pl": "Wyświetlacze",
+        "en": "Displays"
+      },
+      "growth_parameter": 4.0,
+      "market_size_billion_usd": 180.0,
+      "initial_market_shares": [
+        {
+          "company": "BOE Technology",
+          "share_percent": 32.0
+        },
+        {
+          "company": "Samsung Electronics",
+          "share_percent": 30.0
+        },
+        {
+          "company": "Sony",
+          "share_percent": 4.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 34.0
+        }
+      ]
+    },
+    {
+      "id": "batt",
+      "name": {
+        "pl": "Baterie",
+        "en": "Batteries"
+      },
+      "growth_parameter": 20.0,
+      "market_size_billion_usd": 200.0,
+      "initial_market_shares": [
+        {
+          "company": "CATL",
+          "share_percent": 36.0
+        },
+        {
+          "company": "BYD",
+          "share_percent": 16.0
+        },
+        {
+          "company": "LG Energy Solution",
+          "share_percent": 14.0
+        },
+        {
+          "company": "Panasonic",
+          "share_percent": 9.0
+        },
+        {
+          "company": "Tesla",
+          "share_percent": 3.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 22.0
+        }
+      ]
+    },
+    {
+      "id": "mine",
+      "name": {
+        "pl": "Górnictwo i metale",
+        "en": "Mining & metals"
+      },
+      "growth_parameter": 4.0,
+      "market_size_billion_usd": 1500.0,
+      "initial_market_shares": [
+        {
+          "company": "BHP",
+          "share_percent": 12.0
+        },
+        {
+          "company": "Rio Tinto",
+          "share_percent": 10.0
+        },
+        {
+          "company": "Vale",
+          "share_percent": 8.0
+        },
+        {
+          "company": "Others",
+          "share_percent": 70.0
+        }
+      ]
+    }
+  ],
+  "company_category_tags": {
+    "tech": "Technology",
+    "ai": "AI",
+    "energy": "Energy",
+    "space": "Space",
+    "plane": "Aircraft makers",
+    "air": "Airlines",
+    "auto": "Automotive",
+    "fin": "Finance",
+    "retail": "Retail",
+    "food": "Food",
+    "health": "Healthcare",
+    "media": "Media",
+    "game": "Gaming",
+    "semi": "Semiconductors",
+    "ind": "Industry"
+  },
+  "notes": [
+    "Market sizes are expressed in USD billions.",
+    "Initial market-share percentages are the source values from the game's SEG table.",
+    "The 'Others' entry is retained where present; it is not a company."
+  ]
+}

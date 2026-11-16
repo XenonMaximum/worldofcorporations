@@ -1,0 +1,2066 @@
+{
+  "schema_version": 1,
+  "source_game_version": "1.15 Tech Tree XI",
+  "categories": [
+    {
+      "id": "ai",
+      "name": "Artificial Intelligence",
+      "emoji": "🧠",
+      "base": "Advanced AI Models",
+      "paths": [
+        [
+          "Reasoning Models and Autonomous Science Systems",
+          "Autonomous Digital Enterprises",
+          "Scientific AI and Automated Discovery",
+          "Multimodal Models",
+          "Universal AI Agents"
+        ],
+        [
+          "Autonomous Science Systems",
+          "Civilizational Collective Intelligence",
+          "Small Local Models",
+          "Offline AI",
+          "Personal AI Systems"
+        ],
+        [
+          "Digital Cognitive Partners",
+          "Energy-Efficient Models",
+          "Intelligence Embedded in Every Device",
+          "Agent Teams",
+          "AI Science Teams"
+        ],
+        [
+          "Automated Scientific Discovery",
+          "Infrastructure Management Agents",
+          "Autonomous Cities",
+          "Adaptive Architectures",
+          "Controlled AI Self-Improvement"
+        ],
+        [
+          "AI Safety and Alignment Research",
+          "Interpretable Neural Systems",
+          "Verified AI Reasoning",
+          "Human–AI Governance Frameworks",
+          "Provably Aligned Superintelligence"
+        ]
+      ],
+      "base_description": "Frontier large models that reason, plan and write code at expert level.",
+      "path_descriptions": [
+        [
+          "Models that chain reasoning steps and run research loops on their own.",
+          "Companies run end to end by software with minimal human staff.",
+          "AI that forms hypotheses, runs analyses and proposes new discoveries.",
+          "Single models that fluently handle text, images, audio, video and action.",
+          "General-purpose agents that can take on almost any digital task."
+        ],
+        [
+          "Self-directed AI labs that design, run and interpret experiments.",
+          "Networks of AI and humans pooling knowledge at civilization scale.",
+          "Compact models that run well on local hardware.",
+          "Capable assistants that work fully offline and keep data private.",
+          "Lifelong personal AI that knows your goals and context."
+        ],
+        [
+          "AI companions that extend human thinking and memory.",
+          "Models that deliver strong results on a fraction of the power.",
+          "Every appliance, vehicle and tool ships with built-in intelligence.",
+          "Coordinated groups of specialized agents tackling big projects.",
+          "AI research groups running whole scientific programs in parallel."
+        ],
+        [
+          "Pipelines that turn raw data into validated scientific findings.",
+          "Agents that run power grids, networks and logistics.",
+          "Urban systems managed autonomously for efficiency and safety.",
+          "Models that reshape their own structure for each task.",
+          "AI that improves itself within strict, verifiable limits."
+        ],
+        [
+          "Methods for keeping powerful models honest, steerable and robust.",
+          "Tools that reveal how a model reaches its decisions.",
+          "Formal checks that guarantee a model's conclusions hold up.",
+          "Rules, audits and institutions for deploying advanced AI.",
+          "Superhuman AI whose goals are mathematically bound to human values."
+        ]
+      ]
+    },
+    {
+      "id": "robot",
+      "name": "Robotics and Automation",
+      "emoji": "🤖",
+      "base": "Early Humanoid Robotics",
+      "paths": [
+        [
+          "Humanoids and General-Purpose Robots",
+          "Autonomous Factories",
+          "Advanced Robotics",
+          "Advanced Balance Systems",
+          "General-Purpose Humanoids"
+        ],
+        [
+          "Next-Generation Home Robots",
+          "Universal Personal Robots",
+          "Precision Manipulators",
+          "Universal Manipulation Systems",
+          "Collaborative Industrial Robots"
+        ],
+        [
+          "Robot Teams",
+          "Integrated Production Networks",
+          "Autonomous Plants",
+          "Self-Configuring Factories",
+          "Self-Expanding Plants"
+        ],
+        [
+          "Lights-Out Manufacturing",
+          "Mobile Robots",
+          "Autonomous Field Robots",
+          "Exploration Robots",
+          "Environment-Adaptive Robots"
+        ],
+        [
+          "Soft Robotics",
+          "Swarm Robotics",
+          "Micro-Scale Surgical Robots",
+          "Self-Repairing Robot Bodies",
+          "Robot Colonies"
+        ]
+      ],
+      "base_description": "First walking, grasping humanoids doing simple jobs.",
+      "path_descriptions": [
+        [
+          "Versatile bipedal robots built to work in human spaces.",
+          "Factories that run themselves with minimal supervision.",
+          "Next-level mechanics, sensing and control for complex machines.",
+          "Stabilization systems for stable movement on any terrain.",
+          "Humanoids that switch between wildly different tasks."
+        ],
+        [
+          "Household robots that cook, clean and tidy reliably.",
+          "One robot platform that adapts to many personal needs.",
+          "Fine-motion arms with human-like dexterity.",
+          "Manipulation skills that transfer across objects and tasks.",
+          "Robots built to work safely alongside people."
+        ],
+        [
+          "Fleets of robots coordinating on shared goals.",
+          "Production lines linked into a single smart network.",
+          "Plants running with almost no human presence.",
+          "Factories that reorganize their own layout and tools.",
+          "Facilities that add new capacity by building themselves."
+        ],
+        [
+          "Production that runs around the clock without a staffed floor.",
+          "Wheeled and legged robots for logistics and inspection.",
+          "Off-road machines that work in farms, mines and forests.",
+          "Robots built to map and survey unknown places.",
+          "Machines that adjust their body and behavior to the environment."
+        ],
+        [
+          "Flexible, compliant bodies that handle fragile objects safely.",
+          "Large groups of simple robots achieving complex goals together.",
+          "Tiny machines that operate inside the body.",
+          "Robots that detect damage and fix themselves.",
+          "Self-sustaining robot communities that expand on their own."
+        ]
+      ]
+    },
+    {
+      "id": "compute",
+      "name": "Computers and Processors",
+      "emoji": "💻",
+      "base": "Next-Generation Processors",
+      "paths": [
+        [
+          "Advanced Semiconductor Chips",
+          "Next-Generation Computing Architectures",
+          "Planetary-Scale Computing Systems",
+          "Sub-2 nm Processors",
+          "Sub-1 nm Chips"
+        ],
+        [
+          "Post-Silicon Processors",
+          "Molecular Circuits",
+          "Three-Dimensional Integrated Circuits",
+          "Multilayer Processors",
+          "Neuromorphic Processors"
+        ],
+        [
+          "Adaptive Neuromorphic Computers",
+          "Bio-Inspired Computing Systems",
+          "Photonic Processors",
+          "Optical Computing",
+          "Photonic Supercomputers"
+        ],
+        [
+          "Distributed Optical Systems",
+          "Exascale Supercomputers",
+          "Post-Exascale Supercomputers",
+          "Integrated Computing Infrastructure",
+          "Global Computing Grid"
+        ],
+        [
+          "Reversible Computing",
+          "Cryogenic Computing",
+          "Memristive In-Memory Computing",
+          "DNA Data Storage",
+          "Atomic-Scale Memory"
+        ]
+      ],
+      "base_description": "Chips at the leading edge of today's manufacturing.",
+      "path_descriptions": [
+        [
+          "High-density chips with improved efficiency and speed.",
+          "New design principles beyond classic CPU and GPU layouts.",
+          "Computing power organized across a whole planet.",
+          "Chip manufacturing nodes below two nanometers.",
+          "Chips with features around a single nanometer."
+        ],
+        [
+          "Processors built from materials that replace silicon.",
+          "Circuits assembled from individual molecules.",
+          "Chips stacked in 3D to shorten signal paths.",
+          "Dozens of active layers in one processor.",
+          "Chips that mimic how neurons compute."
+        ],
+        [
+          "Neuromorphic machines that learn and adapt in real time.",
+          "Computing that borrows tricks from living systems.",
+          "Processors that compute with light instead of electrons.",
+          "Calculation performed directly by optical components.",
+          "Supercomputers built around photonics."
+        ],
+        [
+          "Optical links tying many machines into one system.",
+          "Machines performing a quintillion operations per second.",
+          "Systems beyond the exascale barrier.",
+          "Compute, storage and networking designed as one fabric.",
+          "One worldwide pool of shared computing resources."
+        ],
+        [
+          "Logic that wastes almost no energy as heat.",
+          "Ultra-cold circuits with superconducting speed.",
+          "Processing done right where data is stored.",
+          "Archives of data encoded in synthetic DNA.",
+          "Bits stored in individual atoms."
+        ]
+      ]
+    },
+    {
+      "id": "quantum",
+      "name": "Quantum Computing",
+      "emoji": "⚛️",
+      "base": "Early Quantum Computers",
+      "paths": [
+        [
+          "Error Correction and Qubit Scaling",
+          "Universal Quantum Systems",
+          "Quantum Internet",
+          "Quantum Error Correction",
+          "Logical Qubits"
+        ],
+        [
+          "Fault-Tolerant Quantum Processors",
+          "Large-Scale Quantum Computers",
+          "Stable Quantum Registers",
+          "Long-Lived Coherence",
+          "Stable Quantum Environments"
+        ],
+        [
+          "New Qubit Materials",
+          "Scalable Quantum Circuits",
+          "Multi-Qubit Processors",
+          "Modular Quantum Computers",
+          "Distributed Quantum Computing"
+        ],
+        [
+          "Global Quantum Infrastructure",
+          "Molecular Simulations",
+          "Quantum Drug Design",
+          "Simulating Complex Biological Processes",
+          "Quantum Optimization"
+        ],
+        [
+          "Quantum Sensors",
+          "Quantum Cryptography Networks",
+          "Quantum Machine Learning",
+          "Quantum Gravimetry and Navigation",
+          "Quantum-Enhanced Planetary Modeling"
+        ]
+      ],
+      "base_description": "First small quantum machines with a few dozen qubits.",
+      "path_descriptions": [
+        [
+          "Techniques that keep qubits reliable as their number grows.",
+          "General-purpose quantum machines for many problem types.",
+          "Quantum links that connect machines across distances.",
+          "Detecting and fixing errors during a quantum computation.",
+          "Error-protected qubits built from many physical ones."
+        ],
+        [
+          "Quantum processors that keep working despite hardware errors.",
+          "Quantum machines with huge qubit counts.",
+          "Quantum memory that holds states reliably.",
+          "Quantum states that survive for long periods.",
+          "Environments engineered to shield fragile quantum states."
+        ],
+        [
+          "Novel materials that make better qubits.",
+          "Chip designs that grow qubit counts without losing quality.",
+          "Processors with thousands of connected qubits.",
+          "Quantum computers built from linked modules.",
+          "Quantum workloads spread across many machines."
+        ],
+        [
+          "Quantum computing available worldwide as infrastructure.",
+          "Simulating how molecules behave with quantum accuracy.",
+          "Designing drugs by quantum simulation of targets.",
+          "Modeling living processes at the quantum level.",
+          "Solving huge optimization problems with quantum algorithms."
+        ],
+        [
+          "Instruments that measure fields and motion with extreme precision.",
+          "Communication whose security is guaranteed by physics.",
+          "Learning algorithms accelerated by quantum hardware.",
+          "Navigation without GPS using ultra-sensitive quantum sensors.",
+          "High-fidelity models of climate and geology run on quantum computers."
+        ]
+      ]
+    },
+    {
+      "id": "energy",
+      "name": "Energy",
+      "emoji": "⚡",
+      "base": "Modern Storage and Power Generation",
+      "paths": [
+        [
+          "High-Performance Energy Storage",
+          "Advanced Nuclear Power",
+          "Commercial Fusion Power",
+          "Next-Generation Batteries",
+          "Solid-State Batteries"
+        ],
+        [
+          "Ultra-High Energy Density Batteries",
+          "Universal Energy Storage",
+          "Sodium Batteries",
+          "Cheap Large-Scale Storage",
+          "Thermal Energy Storage"
+        ],
+        [
+          "Large-Scale Seasonal Storage",
+          "Small Modular Reactors",
+          "Generation IV Reactors",
+          "High-Temperature Reactors",
+          "Advanced Energy Systems"
+        ],
+        [
+          "Stable Plasma",
+          "Fusion Demonstration Plants",
+          "Commercial Fusion Power",
+          "Global Fusion Infrastructure",
+          "Tandem Photovoltaic Cells"
+        ],
+        [
+          "Smart Grids",
+          "Advanced Geothermal Power",
+          "Space-Based Solar Power",
+          "Wireless Power Transmission",
+          "Antimatter Energy Research"
+        ]
+      ],
+      "base_description": "Grid batteries, safer nuclear designs and solid renewables.",
+      "path_descriptions": [
+        [
+          "Storage systems with high capacity and efficiency.",
+          "Improved reactor safety, fuel use and waste handling.",
+          "Fusion plants selling power into the grid.",
+          "Better chemistries for cars, grids and devices.",
+          "Batteries with solid electrolytes for safety and range."
+        ],
+        [
+          "Cells packing far more energy per kilogram.",
+          "Storage flexible enough for any grid or device.",
+          "Cheap, abundant batteries without scarce metals.",
+          "Affordable bulk storage for renewable surpluses.",
+          "Storing energy as heat for later use."
+        ],
+        [
+          "Storing summer energy for use in winter.",
+          "Factory-built reactors with compact, safer designs.",
+          "Next-generation reactors with passive safety and efficient fuel.",
+          "Reactors running hot for industrial heat and hydrogen.",
+          "Integrated systems balancing supply, storage and demand."
+        ],
+        [
+          "Plasma held steady long enough for sustained fusion.",
+          "Experimental plants proving net energy gain.",
+          "Fusion plants running as a standard commercial business.",
+          "Worldwide network of fusion-powered grids.",
+          "Solar cells stacked in layers for record efficiency."
+        ],
+        [
+          "Power networks that balance supply and demand in real time.",
+          "Drilling deep enough to tap heat almost anywhere.",
+          "Orbital panels beaming steady energy to Earth.",
+          "Delivering energy over distance without cables.",
+          "Exploring the densest energy source known."
+        ]
+      ]
+    },
+    {
+      "id": "bio",
+      "name": "Biotechnology",
+      "emoji": "🧬",
+      "base": "Advanced Genetic Engineering",
+      "paths": [
+        [
+          "Programmable Biology and Bioproduction",
+          "Biological Factories",
+          "Programmable Biological Systems",
+          "Precision DNA Editing",
+          "Multigene Gene Therapies"
+        ],
+        [
+          "Personalized Biotechnology",
+          "Individually Designed Medicine",
+          "Gene Expression Regulation",
+          "Programmable Cellular Processes",
+          "Synthetic Biology"
+        ],
+        [
+          "Artificial Metabolic Pathways",
+          "Cells Producing Complex Compounds",
+          "Next-Generation Bioreactors",
+          "Autonomous Bioreactors",
+          "Automated Biological Factories"
+        ],
+        [
+          "Artificial Proteins",
+          "Programmable Biomaterials",
+          "Cell-Cultured Meat",
+          "Large-Scale Cellular Food Production",
+          "Digital Cells"
+        ],
+        [
+          "Microbiome Engineering",
+          "Synthetic Genomes",
+          "Engineered Photosynthesis",
+          "Bio-Computing",
+          "Designer Ecosystems"
+        ]
+      ],
+      "base_description": "Reliable gene editing for plants, microbes and animals.",
+      "path_descriptions": [
+        [
+          "Treating cells like software that can be written and compiled.",
+          "Engineered organisms producing materials and chemicals.",
+          "Genetic circuits that sense and respond.",
+          "Edits at the single-letter level with minimal errors.",
+          "Treatments targeting several genes at once."
+        ],
+        [
+          "Biotech tailored to each person's genome.",
+          "Treatments and products designed for one individual.",
+          "Fine control over which genes switch on and off.",
+          "Cells redirected to do custom tasks.",
+          "Designing entire biological systems from scratch."
+        ],
+        [
+          "Custom chemical routes built inside living cells.",
+          "Cells acting as miniature chemical plants.",
+          "Reactors that scale up biological production.",
+          "Reactors running with minimal human control.",
+          "Bio-production plants that run themselves."
+        ],
+        [
+          "Proteins designed to do jobs nature never made.",
+          "Biomaterials with built-in behavior.",
+          "Meat grown from animal cells without slaughter.",
+          "Food made from cell cultures at industrial volume.",
+          "Fully simulated cells predicting biology on a computer."
+        ],
+        [
+          "Designing gut and soil bacteria for health and fertility.",
+          "Whole genomes written from scratch.",
+          "Plants and microbes that capture light far more efficiently.",
+          "Living cells performing computation.",
+          "Custom biological communities built for specific purposes."
+        ]
+      ]
+    },
+    {
+      "id": "med",
+      "name": "Medicine",
+      "emoji": "🧪",
+      "base": "Precision Medicine",
+      "paths": [
+        [
+          "Predictive Diagnostics and Personalized Therapies",
+          "Organ Regeneration",
+          "Advanced Regenerative Medicine",
+          "AI-Assisted Diagnostics",
+          "Early Disease Detection"
+        ],
+        [
+          "Continuous Body Monitoring",
+          "Predictive Medicine",
+          "Digital Patient Models",
+          "Whole-Body Functional Imaging",
+          "Personalized Therapies"
+        ],
+        [
+          "Treating Hereditary Diseases",
+          "Advanced Genetic Disorder Correction",
+          "Cell Therapies",
+          "Regenerative Cells",
+          "Damaged Tissue Regeneration"
+        ],
+        [
+          "3D Tissue Printing",
+          "Artificial Organs",
+          "Organs Grown to Order",
+          "Advanced Organ Regeneration",
+          "Smart Implants"
+        ],
+        [
+          "Personalized Vaccines",
+          "AI-Designed Drugs",
+          "Programmable Cancer Immunotherapy",
+          "Neural Repair Therapies",
+          "Universal Disease Prevention"
+        ]
+      ],
+      "base_description": "Treatments tuned to each patient's genes and biomarkers.",
+      "path_descriptions": [
+        [
+          "Spotting disease risk before symptoms and tailoring therapy.",
+          "Repairing or regrowing damaged organs.",
+          "Medicine that restores tissue and function.",
+          "Algorithms that read scans and tests with expert accuracy.",
+          "Catching illness in its earliest, most treatable stage."
+        ],
+        [
+          "Constant tracking of vital signs and biomarkers.",
+          "Forecasting illness before it happens.",
+          "Virtual replicas of patients to test treatments safely.",
+          "Imaging that shows function across the entire body.",
+          "Treatment plans matched to each individual."
+        ],
+        [
+          "Curing disease caused by inherited faults.",
+          "Precise repair of complex genetic problems.",
+          "Using living cells as medicine.",
+          "Cells that rebuild what the body lost.",
+          "Rebuilding damaged tissue to full function."
+        ],
+        [
+          "Printing living tissue layer by layer.",
+          "Lab-made organs ready for transplant.",
+          "Organs grown from a patient's own cells on demand.",
+          "Regrowing failing organs inside the body.",
+          "Implants that monitor and adapt automatically."
+        ],
+        [
+          "Vaccines designed around each patient's disease.",
+          "Molecules invented and tested largely by AI.",
+          "Training immune cells to hunt specific tumors.",
+          "Rebuilding damaged brain and nerve tissue.",
+          "Preventive care that stops illness before it starts."
+        ]
+      ]
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "emoji": "🚄",
+      "base": "Transport Electrification and Automation",
+      "paths": [
+        [
+          "Autonomous Road Transport",
+          "Integrated Transport Networks",
+          "Transport of the Future",
+          "Autonomous Driving",
+          "Full Transport Automation"
+        ],
+        [
+          "Autonomous Road Networks",
+          "Integrated Urban Transport",
+          "Next-Generation Batteries in Transport",
+          "Ultralight Vehicle Structures",
+          "Autonomous Buses"
+        ],
+        [
+          "Smart Railways",
+          "Ultra-High-Speed Rail",
+          "Integrated Transport Networks",
+          "On-Demand Transport",
+          "Electric Aircraft"
+        ],
+        [
+          "Hydrogen Aircraft",
+          "Advanced Aviation Propulsion",
+          "Autonomous Aviation Systems",
+          "Vacuum Transport Systems",
+          "Long-Distance Ultra-Fast Transport Networks"
+        ],
+        [
+          "Smart Traffic Orchestration",
+          "Autonomous Freight Fleets",
+          "Maglev Networks",
+          "Supersonic Passenger Flight",
+          "Hypersonic Point-to-Point Travel"
+        ]
+      ],
+      "base_description": "Mass-market EVs, charging networks and driver assistance.",
+      "path_descriptions": [
+        [
+          "Self-driving vehicles on public roads.",
+          "Road, rail and air systems working as one network.",
+          "New vehicles, fuels and layouts for faster travel.",
+          "Cars that drive themselves in most conditions.",
+          "Entire transport systems running without human operators."
+        ],
+        [
+          "Roads that talk to vehicles to cut congestion.",
+          "City transit connecting every mode smoothly.",
+          "Longer range with lighter, faster-charging cells.",
+          "Structures that cut weight without losing strength.",
+          "Driverless buses for everyday service."
+        ],
+        [
+          "Rail networks managed by AI for punctuality.",
+          "Trains reaching speeds well above current records.",
+          "Seamless networks linking all travel options.",
+          "Vehicles that arrive when and where you need them.",
+          "Aircraft powered by batteries and electric motors."
+        ],
+        [
+          "Aircraft that burn hydrogen with zero carbon.",
+          "Better engines for efficient flight.",
+          "Aircraft that navigate and fly with little oversight.",
+          "Tube transport that removes air resistance.",
+          "Networks connecting cities in a matter of minutes."
+        ],
+        [
+          "City-wide AI that coordinates every vehicle.",
+          "Driverless trucks and ships moving goods nonstop.",
+          "Magnetic levitation trains linking regions.",
+          "Commercial flights faster than sound.",
+          "Crossing the globe in a couple of hours."
+        ]
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Aviation and Space",
+      "emoji": "🚀",
+      "base": "Modern Space Systems",
+      "paths": [
+        [
+          "Reusable Space Transport",
+          "Orbital and Lunar Infrastructure",
+          "Space Civilization",
+          "Reusable Launch Systems",
+          "Heavy Transport Systems"
+        ],
+        [
+          "Industrial Transport to Orbit",
+          "Regular Space Infrastructure",
+          "Ion Drives",
+          "Advanced Electric Propulsion",
+          "Interplanetary Transport Systems"
+        ],
+        [
+          "Nuclear Thermal Propulsion",
+          "Nuclear Electric Propulsion",
+          "Orbital Stations",
+          "Large Orbital Complexes",
+          "Orbital Industrial Centers"
+        ],
+        [
+          "Microgravity Manufacturing",
+          "Lunar Bases",
+          "Permanent Lunar Settlements",
+          "Self-Sufficient Off-World Settlements",
+          "Asteroid Industry"
+        ],
+        [
+          "Space Situational Awareness",
+          "Orbital Debris Removal",
+          "Asteroid Prospecting",
+          "Orbital Tether Systems",
+          "Space Elevator"
+        ]
+      ],
+      "base_description": "Reusable rockets and routine satellite deployment.",
+      "path_descriptions": [
+        [
+          "Rockets that fly again and again at lower cost.",
+          "Stations and outposts around Earth and the Moon.",
+          "Humanity as a lasting presence beyond Earth.",
+          "Launchers designed for rapid turnaround.",
+          "Rockets carrying very large cargoes."
+        ],
+        [
+          "Moving industrial cargo to orbit at scale.",
+          "Dependable orbital services for many users.",
+          "Efficient engines accelerating ions to high speed.",
+          "High-power electric thrusters for deep space.",
+          "Transports linking planets."
+        ],
+        [
+          "Heating propellant with a nuclear reactor for strong thrust.",
+          "Using a reactor to power electric propulsion.",
+          "Permanently crewed platforms in orbit.",
+          "Larger multi-module space complexes.",
+          "Factories and labs working in orbit."
+        ],
+        [
+          "Manufacturing where weight disappears.",
+          "Permanent outposts on the lunar surface.",
+          "Settlements where people live long-term.",
+          "Colonies that make their own air, water and food.",
+          "Mining asteroids for metals and water."
+        ],
+        [
+          "Tracking everything that moves in orbit.",
+          "Cleaning up dangerous space junk.",
+          "Surveying space rocks for valuable resources.",
+          "Cables for moving cargo and changing orbits cheaply.",
+          "A fixed link from the ground to orbit."
+        ]
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "Future Materials",
+      "emoji": "🧱",
+      "base": "Advanced Functional Materials",
+      "paths": [
+        [
+          "2D and Smart Materials",
+          "Materials with Programmable Properties",
+          "Precision Matter Engineering",
+          "Graphene and Related Materials",
+          "Multilayer 2D Materials"
+        ],
+        [
+          "Programmable Materials",
+          "Variable-Property Materials",
+          "Self-Healing Materials",
+          "Autonomous Structural Regeneration",
+          "Self-Healing Infrastructure"
+        ],
+        [
+          "Shape-Shifting Materials",
+          "Environment-Responsive Materials",
+          "High-Temperature Superconductors",
+          "Ambient-Condition Superconductors",
+          "Widespread Superconducting Infrastructure"
+        ],
+        [
+          "Ultralight Composites",
+          "Extreme-Temperature-Resistant Materials",
+          "Materials for the Space Industry",
+          "Programmable Molecular Structures",
+          "Atomically Designed Materials"
+        ],
+        [
+          "Metamaterials",
+          "Advanced Aerogels",
+          "Bio-Inspired Materials",
+          "Electromagnetic Cloaking",
+          "Topological Quantum Materials"
+        ]
+      ],
+      "base_description": "Advanced composites, coatings and early smart materials.",
+      "path_descriptions": [
+        [
+          "Ultra-thin materials with surprising properties.",
+          "Materials whose behavior can be set by design.",
+          "Building materials atom by atom.",
+          "Carbon sheets with extreme strength and conductivity.",
+          "Stacks of 2D layers combined for new traits."
+        ],
+        [
+          "Materials whose behavior can be reprogrammed.",
+          "Materials that adjust to heat, light or load.",
+          "Materials that fix their own damage.",
+          "Structures that repair themselves automatically.",
+          "Bridges, roads and pipelines that heal on their own."
+        ],
+        [
+          "Materials that morph into new forms on command.",
+          "Surfaces that sense and react to conditions.",
+          "Superconductors working at higher temperatures.",
+          "Zero-resistance conductors at room conditions.",
+          "Superconducting systems throughout the power grid."
+        ],
+        [
+          "Very strong, very light structural materials.",
+          "Materials that survive extreme heat and cold.",
+          "Materials built for rockets and spacecraft.",
+          "Molecular architectures designed for function.",
+          "Materials built by placing each atom deliberately."
+        ],
+        [
+          "Engineered structures with properties not found in nature.",
+          "Lightweight, superb insulators.",
+          "Materials copying the strength of shells, silk and bone.",
+          "Materials that steer waves around objects.",
+          "Exotic materials enabling new electronics."
+        ]
+      ]
+    },
+    {
+      "id": "telecom",
+      "name": "Telecommunications",
+      "emoji": "📡",
+      "base": "5G Networks and Early 6G",
+      "paths": [
+        [
+          "6G Networks and Integrated Communication",
+          "Autonomous Communication Infrastructure",
+          "Solar System Network",
+          "6G Networks",
+          "Intelligent Networks"
+        ],
+        [
+          "Autonomous Networks",
+          "Planetary Communication Infrastructure",
+          "Sensor-Integrated Communication",
+          "Satellite Communication",
+          "Global Network Access"
+        ],
+        [
+          "Smart IoT Devices",
+          "Integrated Device Environments",
+          "Autonomous Urban Environments",
+          "Device-to-Device Communication",
+          "Photonic Transmission Networks"
+        ],
+        [
+          "Optical Data Centers",
+          "Global Ultra-High-Bandwidth Networks",
+          "Quantum Communication Nodes",
+          "Global Quantum Network",
+          "Interplanetary Communication"
+        ],
+        [
+          "LEO Mega-Constellations",
+          "Laser Inter-Satellite Links",
+          "Terahertz Communication",
+          "Self-Healing Mesh Networks",
+          "Deep-Space Relay Network"
+        ]
+      ],
+      "base_description": "Wide 5G coverage and the first 6G experiments.",
+      "path_descriptions": [
+        [
+          "Fast, low-latency networks with sensing built in.",
+          "Networks that run and repair themselves.",
+          "Network reaching across the solar system.",
+          "Terabit-class wireless networks.",
+          "Networks that adapt to what users and devices need."
+        ],
+        [
+          "Self-managing networks with little human involvement.",
+          "A communications layer covering the whole planet.",
+          "Networks that double as sensors.",
+          "Broadband delivered from orbit.",
+          "Affordable internet everywhere on Earth."
+        ],
+        [
+          "Billions of low-power connected devices.",
+          "Devices that cooperate smoothly in one environment.",
+          "City systems that run on connected data.",
+          "Devices talking directly without towers.",
+          "Networks that send data as light."
+        ],
+        [
+          "Data centers linked by optical networks.",
+          "High-capacity backbones around the world.",
+          "Nodes that relay quantum information.",
+          "A worldwide network for quantum communication.",
+          "Reliable communication between planets."
+        ],
+        [
+          "Thousands of low-orbit satellites providing coverage.",
+          "Light-speed connections between satellites.",
+          "Ultra-fast wireless in the terahertz band.",
+          "Networks that reroute around any failure.",
+          "Relay stations for far-reaching communication."
+        ]
+      ]
+    },
+    {
+      "id": "nano",
+      "name": "Nanotechnology",
+      "emoji": "🔬",
+      "base": "Early Industrial Nanotechnology",
+      "paths": [
+        [
+          "Functional Nanostructures",
+          "Programmable Nanomaterials",
+          "Advanced Molecular Manufacturing",
+          "Functional Nanostructures",
+          "Programmable Nanomaterials"
+        ],
+        [
+          "Atomically Designed Materials",
+          "Precision Matter Engineering",
+          "Nanocomposites",
+          "Smart Drug Delivery Systems",
+          "Precision Molecular Therapy"
+        ],
+        [
+          "Biological Nanosensors",
+          "Precision Nanostructure Manufacturing",
+          "Automated Nanofabrication",
+          "Advanced Molecular Manufacturing",
+          "Industrial Nanomachines"
+        ],
+        [
+          "Self-Assembling Nanostructures",
+          "Adaptive Surfaces",
+          "Advanced Molecular Systems",
+          "Programmable Molecular Systems",
+          "Molecular Production Lines"
+        ],
+        [
+          "Nanoscale Coatings",
+          "Nanofiltration Membranes",
+          "Molecular Electronics",
+          "Molecular Motors",
+          "Programmable Nanobot Swarms"
+        ]
+      ],
+      "base_description": "Nanoscale coatings and particles used in industry.",
+      "path_descriptions": [
+        [
+          "Structures at nanometer scale that perform useful tasks.",
+          "Nanomaterials whose properties are set by software.",
+          "Building products molecule by molecule.",
+          "Refined functional nanostructures with improved performance.",
+          "Nanomaterials whose properties can be tuned on demand."
+        ],
+        [
+          "Materials built atom by atom.",
+          "Control of matter at atomic scale.",
+          "Composites reinforced with nanoparticles.",
+          "Carriers that deliver medicine exactly where needed.",
+          "Treatments acting on single molecules."
+        ],
+        [
+          "Tiny sensors detecting biological signals.",
+          "Making nanostructures with exact precision.",
+          "Automated nanoscale production lines.",
+          "Controlled assembly of molecular products.",
+          "Nanoscale machines doing industrial work."
+        ],
+        [
+          "Structures that assemble themselves.",
+          "Surfaces that change with conditions.",
+          "Complex molecular machines for many uses.",
+          "Systems that can be reprogrammed on demand.",
+          "Production lines at the molecular scale."
+        ],
+        [
+          "Ultra-thin layers that repel, protect and conduct.",
+          "Filters that clean water and air at molecular level.",
+          "Circuits built from single molecules.",
+          "Tiny engines driving machines at nanoscale.",
+          "Swarms of nanomachines following software instructions."
+        ]
+      ]
+    },
+    {
+      "id": "industry",
+      "name": "Industry and Manufacturing",
+      "emoji": "🏭",
+      "base": "Smart Industry",
+      "paths": [
+        [
+          "Digital Factories and Flexible Manufacturing",
+          "Autonomous Industrial Complexes",
+          "Integrated Production Economy",
+          "Digital Twins",
+          "Digital Factories"
+        ],
+        [
+          "Autonomous Industrial Complexes",
+          "Self-Organizing Production Economy",
+          "Full Supply Chain Simulations",
+          "AI in Production Management",
+          "Metal Printing"
+        ],
+        [
+          "Large-Scale Industrial Printing",
+          "Autonomous Construction Systems",
+          "Multi-Material Printing",
+          "Bioprinting",
+          "Autonomous Plants"
+        ],
+        [
+          "Robotic Warehouses",
+          "Autonomous Quality Control Systems",
+          "Molecular Manufacturing",
+          "Off-World Factories",
+          "Planetary-Scale Integrated Production Systems"
+        ],
+        [
+          "Predictive Maintenance",
+          "Circular Manufacturing",
+          "Zero-Waste Production",
+          "Closed-Loop Resource Recycling",
+          "Self-Sustaining Industrial Ecosystems"
+        ]
+      ],
+      "base_description": "Sensors, robots and software tying factories together.",
+      "path_descriptions": [
+        [
+          "Flexible, data-driven plants that adapt output quickly.",
+          "Industrial sites operating on their own.",
+          "Production planned as one connected economy.",
+          "Live virtual models of plants and products.",
+          "Factories managed through software."
+        ],
+        [
+          "Complexes running without people on the floor.",
+          "Production economies that organize themselves.",
+          "Simulating every step of global supply chains.",
+          "Algorithms directing machines and processes.",
+          "Industrial printing of metal parts."
+        ],
+        [
+          "Printing very large structures and components.",
+          "Machines that construct buildings independently.",
+          "Printing parts from several materials at once.",
+          "Printing living and biological structures.",
+          "Plants that run themselves."
+        ],
+        [
+          "Warehouses run entirely by robots.",
+          "Quality inspection performed by machines.",
+          "Making products with molecular precision.",
+          "Production plants away from Earth.",
+          "Production networks spanning a whole planet."
+        ],
+        [
+          "Fixing machines before they break.",
+          "Designing products to be reused and remade.",
+          "Plants that discard nothing.",
+          "Recovering and reusing nearly all materials.",
+          "Industries that feed on each other's outputs."
+        ]
+      ]
+    },
+    {
+      "id": "defense",
+      "name": "Military and Defense Technologies",
+      "emoji": "🛡️",
+      "base": "Modern Defense Systems",
+      "paths": [
+        [
+          "Autonomous Security Systems",
+          "Integrated Situational Awareness",
+          "Global Early Warning Infrastructure",
+          "Unmanned Surveillance Systems",
+          "Autonomous Logistics Systems"
+        ],
+        [
+          "Integrated Command Systems",
+          "Multi-Domain Defense Coordination",
+          "Advanced Threat Detection Systems",
+          "Multilayer Protection Systems",
+          "Smart Defense Infrastructure"
+        ],
+        [
+          "Cybersecurity",
+          "Resilient IT Systems",
+          "Autonomous Incident Detection",
+          "Lightweight Protective Materials",
+          "Smart Sensor Systems"
+        ],
+        [
+          "Advanced Battlefield Medicine",
+          "Integrated Situational Awareness",
+          "Space-Based Monitoring Systems",
+          "Global Early Warning Infrastructure",
+          "Resilient Critical Networks"
+        ],
+        [
+          "Directed-Energy Defense",
+          "Hypersonic Interception",
+          "Electronic Warfare Resilience",
+          "Autonomous Missile Defense",
+          "Planetary Defense Systems"
+        ]
+      ],
+      "base_description": "Layered missile defense, drones and secure comms.",
+      "path_descriptions": [
+        [
+          "Security systems that act without constant supervision.",
+          "A real-time picture of the whole battlespace.",
+          "Detection of launches anywhere in the world.",
+          "Unmanned platforms for constant observation.",
+          "Supplies moved by autonomous vehicles."
+        ],
+        [
+          "Command networks connecting every unit.",
+          "Defense coordinated across land, sea, air and space.",
+          "Sensors and AI that identify threats early.",
+          "Several overlapping layers of protection.",
+          "Defenses built into infrastructure."
+        ],
+        [
+          "Protecting networks and data from attack.",
+          "IT systems that keep working under attack.",
+          "Automatic spotting of security incidents.",
+          "Armor that weighs little and protects well.",
+          "Networks of smart sensors."
+        ],
+        [
+          "Medical care on and near the front line.",
+          "Shared awareness across all units.",
+          "Observation of Earth from orbit.",
+          "Global network for spotting launches.",
+          "Critical networks that survive attacks."
+        ],
+        [
+          "Lasers and microwaves for intercepting threats.",
+          "Countering the fastest missiles.",
+          "Staying connected under jamming and spoofing.",
+          "Automated interception at machine speed.",
+          "Protection against asteroids and space threats."
+        ]
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "Environmental Technologies",
+      "emoji": "🌱",
+      "base": "Modern Environmental Protection",
+      "paths": [
+        [
+          "Environmental Cleanup and Monitoring",
+          "Integrated Ecosystem Management",
+          "Large-Scale Environmental Restoration",
+          "Advanced Filters",
+          "Smart Water Purification Systems"
+        ],
+        [
+          "Global Water Resource Recovery Systems",
+          "Biological Purification",
+          "Microplastic Removal",
+          "Precision Climate Monitoring",
+          "Global Climate Models"
+        ],
+        [
+          "Integrated Environmental Management Systems",
+          "Direct CO₂ Capture",
+          "Industrial CO₂ Utilization",
+          "Precision Agriculture",
+          "Autonomous Farms"
+        ],
+        [
+          "Self-Sufficient Food Systems",
+          "Vertical Farming",
+          "Biodiversity Monitoring",
+          "Ecosystem Restoration",
+          "Smart Natural Resource Management"
+        ],
+        [
+          "Wildfire Prediction and Suppression",
+          "Soil Regeneration",
+          "Ocean Cleanup Systems",
+          "Carbon-Negative Industry",
+          "Climate Restoration"
+        ]
+      ],
+      "base_description": "Recycling, clean water and basic emission controls.",
+      "path_descriptions": [
+        [
+          "Cleaning pollution and tracking the environment.",
+          "Managing ecosystems as connected wholes.",
+          "Restoring damaged land and water at scale.",
+          "Better filtration for air and water.",
+          "Treatment plants guided by AI."
+        ],
+        [
+          "Recovering and reusing water worldwide.",
+          "Using living organisms to clean pollution.",
+          "Removing tiny plastics from water and soil.",
+          "Tracking climate with finer detail.",
+          "Accurate simulations of Earth's climate."
+        ],
+        [
+          "Managing resources and emissions as a single system.",
+          "Capturing carbon dioxide from the air.",
+          "Turning captured CO₂ into products.",
+          "Farming guided by data and sensors.",
+          "Farms operated by machines."
+        ],
+        [
+          "Food systems that sustain themselves.",
+          "Growing crops in stacked indoor layers.",
+          "Tracking species and habitats.",
+          "Rebuilding damaged ecosystems.",
+          "Managing natural resources with AI."
+        ],
+        [
+          "Spotting and stopping fires early.",
+          "Restoring fertility to degraded land.",
+          "Removing waste from seas and shores.",
+          "Industries that remove more CO₂ than they emit.",
+          "Returning the climate to a stable pre-industrial state."
+        ]
+      ]
+    },
+    {
+      "id": "xr",
+      "name": "AR, VR and Neural Interfaces",
+      "emoji": "🥽",
+      "base": "Early AR / VR",
+      "paths": [
+        [
+          "Spatial Interfaces and Realistic Worlds",
+          "Neural Interfaces",
+          "Integrated Mixed Reality Environments",
+          "Lightweight AR Glasses",
+          "Spatial Interfaces"
+        ],
+        [
+          "Holographic Displays",
+          "Spatial Work Environments",
+          "Realistic VR Environments",
+          "Photorealistic Digital Worlds",
+          "Persistent Virtual Environments"
+        ],
+        [
+          "Full Digital Social Ecosystems",
+          "Advanced Haptic Gloves",
+          "Full Haptic Systems",
+          "Non-Invasive Brain–Computer Interfaces",
+          "Precise Neural Signal Reading"
+        ],
+        [
+          "Advanced Human–Computer Communication",
+          "Digital Spatial Assistants",
+          "City Digital Twins",
+          "Whole-Region Digital Twins",
+          "Physical–Digital World Integration"
+        ],
+        [
+          "Eye-Tracking Interfaces",
+          "Spatial Audio Worlds",
+          "Full-Body Tracking",
+          "Synthetic Sensory Feedback",
+          "Shared Persistent Realities"
+        ]
+      ],
+      "base_description": "Headsets and glasses with basic mixed reality.",
+      "path_descriptions": [
+        [
+          "Interfaces that use space instead of screens.",
+          "Direct brain-to-computer links.",
+          "Digital content blended seamlessly with reality.",
+          "Glasses light enough to wear all day.",
+          "Interaction anywhere in three dimensions."
+        ],
+        [
+          "Displays showing 3D images in open air.",
+          "Offices and workspaces built in 3D.",
+          "Virtual worlds that feel real.",
+          "Digital worlds hard to tell from reality.",
+          "Virtual spaces that persist over time."
+        ],
+        [
+          "Entire social worlds living in digital space.",
+          "Gloves that let you feel virtual objects.",
+          "Haptic systems for the whole body.",
+          "Brain-computer links without surgery.",
+          "Reading nerve signals accurately."
+        ],
+        [
+          "Natural, effortless ways to interact with machines.",
+          "Assistants that understand physical space.",
+          "Virtual copies of whole cities.",
+          "Virtual copies of entire regions.",
+          "Seamless blending of physical and digital life."
+        ],
+        [
+          "Controlling devices by gaze.",
+          "Sound that places you inside the scene.",
+          "Capturing every movement for virtual presence.",
+          "Touch, temperature and smell in virtual worlds.",
+          "Worlds many people inhabit at once."
+        ]
+      ]
+    },
+    {
+      "id": "geo",
+      "name": "Geoengineering and Planetary Systems",
+      "emoji": "🌍",
+      "base": "Early Climate Intervention",
+      "base_description": "Pilot projects testing small-scale climate interventions.",
+      "paths": [
+        [
+          "Stratospheric Aerosol Research",
+          "Marine Cloud Brightening",
+          "Space-Based Sunshades",
+          "Orbital Mirror Arrays",
+          "Adjustable Planetary Albedo"
+        ],
+        [
+          "Enhanced Rock Weathering",
+          "Ocean Alkalinity Enhancement",
+          "Gigaton-Scale Carbon Removal",
+          "Carbon Mineralization Networks",
+          "Atmospheric Carbon Balancing"
+        ],
+        [
+          "Cloud Seeding Optimization",
+          "Regional Weather Modeling",
+          "Weather Modification Systems",
+          "Hurricane Mitigation",
+          "Global Weather Management"
+        ],
+        [
+          "Glacier Preservation",
+          "Permafrost Stabilization",
+          "Coastal Megastructures",
+          "Planetary Hydrology Control",
+          "Biosphere Engineering"
+        ]
+      ],
+      "path_descriptions": [
+        [
+          "Studying how reflective particles could cool the planet.",
+          "Spraying sea mist to make clouds more reflective.",
+          "Large shades in space to reduce sunlight.",
+          "Huge mirrors that adjust sunlight on Earth.",
+          "Dialing Earth's reflectivity up or down."
+        ],
+        [
+          "Spreading minerals that soak up CO₂ naturally.",
+          "Boosting the ocean's ability to absorb carbon.",
+          "Removing billions of tons of CO₂ per year.",
+          "Turning CO₂ into stable rock at scale.",
+          "Keeping atmospheric carbon at a chosen level."
+        ],
+        [
+          "Improving rainfall from clouds more reliably.",
+          "Detailed forecasting of regional weather.",
+          "Tools to influence local weather.",
+          "Weakening storms before landfall.",
+          "Weather managed across the globe."
+        ],
+        [
+          "Protecting ice sheets from melting.",
+          "Keeping frozen ground from thawing.",
+          "Giant barriers and structures guarding coastlines.",
+          "Directing water flow at planetary scale.",
+          "Designing the biosphere for stability."
+        ]
+      ]
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean and Deep-Sea Technologies",
+      "emoji": "🌊",
+      "base": "Modern Ocean Engineering",
+      "base_description": "Offshore platforms, subsea robots and shipping tech.",
+      "paths": [
+        [
+          "Autonomous Underwater Vehicles",
+          "Deep-Sea Mapping",
+          "Seabed Resource Extraction",
+          "Undersea Habitats",
+          "Deep-Sea Cities"
+        ],
+        [
+          "Offshore Wind Platforms",
+          "Wave Energy Converters",
+          "Ocean Thermal Energy",
+          "Floating Power Hubs",
+          "Ocean Energy Grids"
+        ],
+        [
+          "Sustainable Aquaculture",
+          "Marine Biotechnology",
+          "Algae Biofuel Farms",
+          "Ocean Farming Systems",
+          "Open-Ocean Food Production"
+        ],
+        [
+          "Subsea Cable Networks",
+          "Acoustic Underwater Networks",
+          "Undersea Data Centers",
+          "Autonomous Ocean Observation",
+          "Global Ocean Intelligence"
+        ]
+      ],
+      "path_descriptions": [
+        [
+          "Robotic subs that work without human crews.",
+          "High-resolution maps of the ocean floor.",
+          "Mining the seabed carefully for metals and minerals.",
+          "Living and working spaces on the sea floor.",
+          "Permanent communities deep underwater."
+        ],
+        [
+          "Wind turbines on floating platforms far offshore.",
+          "Devices that turn waves into electricity.",
+          "Using ocean temperature gradients to generate power.",
+          "Platforms that combine several energy sources.",
+          "Linked ocean power across regions."
+        ],
+        [
+          "Fish and seafood farmed with minimal impact.",
+          "Using marine life to make medicine and materials.",
+          "Farms growing algae for fuel.",
+          "Integrated farms for fish, kelp and shellfish.",
+          "Large-scale food production at sea."
+        ],
+        [
+          "Long-distance cables carrying world traffic.",
+          "Networks sending data through water with sound.",
+          "Servers cooled by the sea floor.",
+          "Sensors and drones watching the oceans.",
+          "AI that understands the state of the seas."
+        ]
+      ]
+    },
+    {
+      "id": "longevity",
+      "name": "Longevity and Human Enhancement",
+      "emoji": "⏳",
+      "base": "Early Longevity Science",
+      "base_description": "Targeted therapies that slow certain aspects of aging.",
+      "paths": [
+        [
+          "Senolytic Therapies",
+          "Epigenetic Reprogramming",
+          "Telomere Maintenance",
+          "Cellular Rejuvenation",
+          "Systemic Age Reversal"
+        ],
+        [
+          "Advanced Prosthetics",
+          "Neural-Controlled Limbs",
+          "Sensory Augmentation",
+          "Cognitive Enhancement",
+          "Human Performance Upgrades"
+        ],
+        [
+          "Biological Age Clocks",
+          "Personalized Longevity Protocols",
+          "Continuous Biomarker Tracking",
+          "Digital Twin Physiology",
+          "Predictive Aging Models"
+        ],
+        [
+          "Organ Preservation",
+          "Organ Cryopreservation",
+          "Suspended Animation",
+          "Full-Body Tissue Renewal",
+          "Whole-Body Revival"
+        ]
+      ],
+      "path_descriptions": [
+        [
+          "Clearing worn-out cells that drive aging.",
+          "Resetting how cells read their genes.",
+          "Protecting chromosome ends from wearing down.",
+          "Restoring older cells to youthful function.",
+          "Reversing age-related decline across the body."
+        ],
+        [
+          "Lifelike artificial limbs with strong function.",
+          "Limbs moved directly by thought.",
+          "Adding senses beyond natural human range.",
+          "Boosting memory, focus and learning.",
+          "Raising physical and mental capacity beyond today's limits."
+        ],
+        [
+          "Tests measuring true biological age.",
+          "Plans for diet, sleep and therapy tailored to you.",
+          "Always-on tracking of key health markers.",
+          "A virtual model of your body's physiology.",
+          "Forecasting how each person will age."
+        ],
+        [
+          "Keeping organs viable longer outside the body.",
+          "Freezing and thawing whole organs safely.",
+          "Pausing the body's processes and restarting them.",
+          "Replacing tissues throughout the body.",
+          "Bringing a preserved person back to health."
+        ]
+      ]
+    }
+  ],
+  "level_labels": [
+    "",
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V",
+    "VI",
+    "VII",
+    "VIII",
+    "IX",
+    "X",
+    "XI"
+  ],
+  "months_by_level": [
+    8,
+    12,
+    24,
+    42,
+    72,
+    120,
+    140,
+    170,
+    200,
+    240,
+    280,
+    330
+  ],
+  "project_cost_fraction_by_level": [
+    0.0025,
+    0.004,
+    0.008,
+    0.014,
+    0.022,
+    0.035,
+    0.05,
+    0.07,
+    0.095,
+    0.125,
+    0.16,
+    0.2
+  ],
+  "minimum_company_value_billion_usd_by_level": [
+    0.2,
+    0.6,
+    2.5,
+    10,
+    35,
+    100,
+    250,
+    700,
+    1800,
+    5000,
+    14000,
+    40000
+  ],
+  "valuation_boost_by_level": [
+    0.0012,
+    0.002,
+    0.0035,
+    0.0055,
+    0.008,
+    0.011,
+    0.014,
+    0.018,
+    0.023,
+    0.029,
+    0.036,
+    0.05
+  ],
+  "industry_affinity": {
+    "ai": {
+      "ai": 5,
+      "compute": 3,
+      "robot": 2,
+      "quantum": 1,
+      "xr": 1
+    },
+    "semi": {
+      "compute": 5,
+      "nano": 3,
+      "materials": 3,
+      "quantum": 2,
+      "telecom": 1
+    },
+    "health": {
+      "med": 5,
+      "bio": 5,
+      "nano": 2,
+      "longevity": 4
+    },
+    "auto": {
+      "transport": 5,
+      "energy": 3,
+      "materials": 2,
+      "robot": 2,
+      "ai": 1
+    },
+    "energy": {
+      "energy": 6,
+      "materials": 3,
+      "environment": 3,
+      "ocean": 2,
+      "geo": 2
+    },
+    "tech": {
+      "ai": 3,
+      "compute": 3,
+      "telecom": 3,
+      "xr": 2,
+      "quantum": 1,
+      "robot": 1
+    },
+    "space": {
+      "space": 6,
+      "materials": 2,
+      "defense": 2,
+      "energy": 1,
+      "geo": 1
+    },
+    "ind": {
+      "industry": 5,
+      "robot": 4,
+      "materials": 3,
+      "nano": 1,
+      "ocean": 1
+    },
+    "cyber": {
+      "defense": 4,
+      "telecom": 2,
+      "ai": 2
+    },
+    "game": {
+      "xr": 5,
+      "ai": 2,
+      "compute": 2
+    },
+    "plane": {
+      "space": 4,
+      "transport": 4,
+      "materials": 3,
+      "defense": 2
+    },
+    "food": {
+      "environment": 4,
+      "bio": 3,
+      "industry": 2,
+      "robot": 1,
+      "ocean": 3,
+      "geo": 1
+    },
+    "fin": {
+      "ai": 3,
+      "quantum": 2,
+      "telecom": 2,
+      "compute": 2
+    },
+    "media": {
+      "xr": 4,
+      "telecom": 3,
+      "ai": 2
+    },
+    "retail": {
+      "robot": 2,
+      "transport": 2,
+      "industry": 2,
+      "ai": 2,
+      "telecom": 1,
+      "environment": 1
+    },
+    "air": {
+      "transport": 4,
+      "space": 2,
+      "energy": 2,
+      "materials": 1,
+      "ocean": 1
+    },
+    "quantum": {
+      "quantum": 6,
+      "compute": 3
+    },
+    "def": {
+      "defense": 6,
+      "space": 2,
+      "ai": 1,
+      "ocean": 1
+    }
+  },
+  "capstone_names_by_category": {
+    "ai": "Superintelligence",
+    "robot": "Machine Self-Replication",
+    "compute": "Computronium",
+    "quantum": "Full Error Correction",
+    "energy": "Stellar Energy",
+    "bio": "Life Design",
+    "med": "End of Disease",
+    "transport": "Interplanetary Network",
+    "space": "Interstellar Ships",
+    "materials": "Programmable Matter",
+    "telecom": "Interplanetary Internet",
+    "nano": "Molecular Assemblers",
+    "industry": "Atomic Factory",
+    "defense": "Global Shield",
+    "environment": "Terraforming",
+    "xr": "Full Neural Immersion",
+    "geo": "Planetary Climate Control",
+    "ocean": "Ocean Civilization",
+    "longevity": "Biological Immortality"
+  },
+  "cross_dependencies": [
+    {
+      "technology_id": "energy_p3_s3",
+      "requires_technology_id": "materials_base"
+    },
+    {
+      "technology_id": "energy_p3_s3",
+      "requires_technology_id": "compute_p2_s2"
+    },
+    {
+      "technology_id": "energy_p3_s4",
+      "requires_technology_id": "energy_p3_s3"
+    },
+    {
+      "technology_id": "energy_p3_s4",
+      "requires_technology_id": "materials_p2_s3"
+    },
+    {
+      "technology_id": "space_p2_s3",
+      "requires_technology_id": "energy_p3_s2"
+    },
+    {
+      "technology_id": "space_p2_s3",
+      "requires_technology_id": "materials_p4_s2"
+    },
+    {
+      "technology_id": "space_p4_s5",
+      "requires_technology_id": "robot_p4_s5"
+    },
+    {
+      "technology_id": "space_p4_s5",
+      "requires_technology_id": "energy_p3_s4"
+    },
+    {
+      "technology_id": "med_p4_s3",
+      "requires_technology_id": "bio_p1_s4"
+    },
+    {
+      "technology_id": "med_p4_s3",
+      "requires_technology_id": "nano_p2_s3"
+    },
+    {
+      "technology_id": "quantum_p4_s5",
+      "requires_technology_id": "telecom_p4_s2"
+    },
+    {
+      "technology_id": "quantum_p4_s5",
+      "requires_technology_id": "compute_p3_s4"
+    },
+    {
+      "technology_id": "industry_p1_s4",
+      "requires_technology_id": "robot_p2_s4"
+    },
+    {
+      "technology_id": "industry_p1_s4",
+      "requires_technology_id": "ai_p2_s3"
+    },
+    {
+      "technology_id": "environment_p4_s5",
+      "requires_technology_id": "bio_p3_s3"
+    },
+    {
+      "technology_id": "environment_p4_s5",
+      "requires_technology_id": "ai_p4_s2"
+    },
+    {
+      "technology_id": "defense_p4_s5",
+      "requires_technology_id": "telecom_p1_s4"
+    },
+    {
+      "technology_id": "defense_p4_s5",
+      "requires_technology_id": "ai_p4_s2"
+    },
+    {
+      "technology_id": "xr_p3_s5",
+      "requires_technology_id": "med_p4_s2"
+    },
+    {
+      "technology_id": "xr_p3_s5",
+      "requires_technology_id": "telecom_p1_s3"
+    },
+    {
+      "technology_id": "nano_p1_s4",
+      "requires_technology_id": "materials_p1_s4"
+    },
+    {
+      "technology_id": "nano_p1_s4",
+      "requires_technology_id": "compute_p1_s4"
+    },
+    {
+      "technology_id": "transport_p4_s5",
+      "requires_technology_id": "robot_p3_s3"
+    },
+    {
+      "technology_id": "transport_p4_s5",
+      "requires_technology_id": "telecom_p1_s4"
+    },
+    {
+      "technology_id": "ai_p4_s5",
+      "requires_technology_id": "compute_p3_s3"
+    },
+    {
+      "technology_id": "ai_p4_s5",
+      "requires_technology_id": "quantum_p3_s4"
+    },
+    {
+      "technology_id": "bio_p4_s5",
+      "requires_technology_id": "ai_p4_s3"
+    },
+    {
+      "technology_id": "bio_p4_s5",
+      "requires_technology_id": "nano_p1_s3"
+    },
+    {
+      "technology_id": "ai_p5_s3",
+      "requires_technology_id": "compute_p2_s2"
+    },
+    {
+      "technology_id": "ai_p5_s5",
+      "requires_technology_id": "quantum_p3_s4"
+    },
+    {
+      "technology_id": "robot_p5_s3",
+      "requires_technology_id": "materials_p2_s3"
+    },
+    {
+      "technology_id": "robot_p5_s5",
+      "requires_technology_id": "ai_p4_s2"
+    },
+    {
+      "technology_id": "compute_p5_s3",
+      "requires_technology_id": "materials_p1_s3"
+    },
+    {
+      "technology_id": "compute_p5_s5",
+      "requires_technology_id": "nano_p1_s3"
+    },
+    {
+      "technology_id": "quantum_p5_s3",
+      "requires_technology_id": "materials_p1_s2"
+    },
+    {
+      "technology_id": "quantum_p5_s5",
+      "requires_technology_id": "telecom_p3_s4"
+    },
+    {
+      "technology_id": "energy_p5_s3",
+      "requires_technology_id": "space_p1_s3"
+    },
+    {
+      "technology_id": "energy_p5_s5",
+      "requires_technology_id": "compute_p3_s3"
+    },
+    {
+      "technology_id": "bio_p5_s3",
+      "requires_technology_id": "compute_p1_s2"
+    },
+    {
+      "technology_id": "bio_p5_s5",
+      "requires_technology_id": "nano_p2_s3"
+    },
+    {
+      "technology_id": "med_p5_s3",
+      "requires_technology_id": "bio_p2_s3"
+    },
+    {
+      "technology_id": "med_p5_s5",
+      "requires_technology_id": "ai_p3_s3"
+    },
+    {
+      "technology_id": "transport_p5_s3",
+      "requires_technology_id": "energy_p1_s3"
+    },
+    {
+      "technology_id": "transport_p5_s5",
+      "requires_technology_id": "materials_p3_s3"
+    },
+    {
+      "technology_id": "space_p5_s3",
+      "requires_technology_id": "robot_p4_s3"
+    },
+    {
+      "technology_id": "space_p5_s5",
+      "requires_technology_id": "materials_p3_s3"
+    },
+    {
+      "technology_id": "materials_p5_s3",
+      "requires_technology_id": "bio_p3_s2"
+    },
+    {
+      "technology_id": "materials_p5_s5",
+      "requires_technology_id": "nano_p3_s3"
+    },
+    {
+      "technology_id": "telecom_p5_s3",
+      "requires_technology_id": "space_p1_s2"
+    },
+    {
+      "technology_id": "telecom_p5_s5",
+      "requires_technology_id": "quantum_p2_s3"
+    },
+    {
+      "technology_id": "nano_p5_s3",
+      "requires_technology_id": "materials_p2_s2"
+    },
+    {
+      "technology_id": "nano_p5_s5",
+      "requires_technology_id": "compute_p2_s3"
+    },
+    {
+      "technology_id": "industry_p5_s3",
+      "requires_technology_id": "ai_p3_s2"
+    },
+    {
+      "technology_id": "industry_p5_s5",
+      "requires_technology_id": "robot_p3_s3"
+    },
+    {
+      "technology_id": "defense_p5_s3",
+      "requires_technology_id": "energy_p4_s2"
+    },
+    {
+      "technology_id": "defense_p5_s5",
+      "requires_technology_id": "space_p2_s3"
+    },
+    {
+      "technology_id": "environment_p5_s3",
+      "requires_technology_id": "bio_p4_s2"
+    },
+    {
+      "technology_id": "environment_p5_s5",
+      "requires_technology_id": "energy_p1_s3"
+    },
+    {
+      "technology_id": "xr_p5_s3",
+      "requires_technology_id": "telecom_p1_s2"
+    },
+    {
+      "technology_id": "xr_p5_s5",
+      "requires_technology_id": "med_p4_s2"
+    },
+    {
+      "technology_id": "geo_base",
+      "requires_technology_id": "environment_base"
+    },
+    {
+      "technology_id": "geo_p1_s3",
+      "requires_technology_id": "space_p1_s3"
+    },
+    {
+      "technology_id": "geo_p2_s3",
+      "requires_technology_id": "environment_p3_s2"
+    },
+    {
+      "technology_id": "geo_p3_s3",
+      "requires_technology_id": "ai_p4_s2"
+    },
+    {
+      "technology_id": "geo_p4_s3",
+      "requires_technology_id": "materials_p3_s3"
+    },
+    {
+      "technology_id": "geo_p1_s5",
+      "requires_technology_id": "energy_p3_s3"
+    },
+    {
+      "technology_id": "geo_p3_s5",
+      "requires_technology_id": "compute_p3_s3"
+    },
+    {
+      "technology_id": "ocean_base",
+      "requires_technology_id": "transport_base"
+    },
+    {
+      "technology_id": "ocean_p1_s3",
+      "requires_technology_id": "robot_p4_s2"
+    },
+    {
+      "technology_id": "ocean_p2_s3",
+      "requires_technology_id": "energy_p1_s2"
+    },
+    {
+      "technology_id": "ocean_p3_s3",
+      "requires_technology_id": "bio_p3_s2"
+    },
+    {
+      "technology_id": "ocean_p4_s3",
+      "requires_technology_id": "telecom_p1_s3"
+    },
+    {
+      "technology_id": "ocean_p1_s5",
+      "requires_technology_id": "materials_p3_s3"
+    },
+    {
+      "technology_id": "ocean_p4_s5",
+      "requires_technology_id": "ai_p4_s2"
+    },
+    {
+      "technology_id": "longevity_base",
+      "requires_technology_id": "med_base"
+    },
+    {
+      "technology_id": "longevity_p1_s3",
+      "requires_technology_id": "bio_p2_s3"
+    },
+    {
+      "technology_id": "longevity_p2_s3",
+      "requires_technology_id": "robot_p2_s3"
+    },
+    {
+      "technology_id": "longevity_p3_s3",
+      "requires_technology_id": "ai_p3_s2"
+    },
+    {
+      "technology_id": "longevity_p4_s3",
+      "requires_technology_id": "med_p4_s2"
+    },
+    {
+      "technology_id": "longevity_p1_s5",
+      "requires_technology_id": "nano_p3_s3"
+    },
+    {
+      "technology_id": "longevity_p4_s5",
+      "requires_technology_id": "bio_p3_s3"
+    }
+  ],
+  "notes": [
+    "Each category has one base node and four to five research paths (the original 16 categories have a fifth path added in this version; the 3 new categories have four).",
+    "The game generates levels VI–XI from each path's fifth node.",
+    "Cross-dependencies are additional prerequisites beyond the path's direct predecessor.",
+    "New nodes only depend on original nodes, so the dependency graph stays acyclic.",
+    "Descriptions are in base_description, path_descriptions (parallel to paths) and capstone_descriptions_by_category."
+  ],
+  "capstone_descriptions_by_category": {
+    "ai": "Intelligence far beyond human level across every domain.",
+    "robot": "Machines that build copies of themselves from raw materials.",
+    "compute": "Matter organized as the most efficient computer physics allows.",
+    "quantum": "Quantum machines with essentially unlimited reliable computation.",
+    "energy": "Harnessing the output of entire stars.",
+    "bio": "Creating new forms of life to order.",
+    "med": "Medicine capable of curing virtually every disease.",
+    "transport": "Transit that links worlds across the solar system.",
+    "space": "Ships that carry people to other star systems.",
+    "materials": "Matter that can take any form or function on command.",
+    "telecom": "A seamless network spanning the planets.",
+    "nano": "Machines that can assemble anything atom by atom.",
+    "industry": "Factories building with atoms as raw material.",
+    "defense": "A shield protecting the entire planet.",
+    "environment": "Reshaping other worlds to support life.",
+    "xr": "Experiences indistinguishable from reality, fed directly to the brain.",
+    "geo": "Deliberate control of Earth's climate and weather.",
+    "ocean": "Thriving permanent human presence across the oceans.",
+    "longevity": "Indefinite healthy lifespan with fully repairable bodies."
+  }
+}

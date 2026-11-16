@@ -1,0 +1,191 @@
+{
+  "source": "event function ev(), health-event system and event-log categorization in the supplied index.html",
+  "global_market_events": [
+    {
+      "name_pl": "Kryzys finansowy – panika na rynkach",
+      "name_en": "Financial crisis – markets panic",
+      "market_effect": -0.07
+    },
+    {
+      "name_pl": "Hossa po obniżce stóp",
+      "name_en": "Bull run after rate cut",
+      "market_effect": 0.05
+    },
+    {
+      "name_pl": "Wojna handlowa – cła uderzają w giełdy",
+      "name_en": "Trade war – tariffs hit markets",
+      "market_effect": -0.04
+    },
+    {
+      "name_pl": "Boom na AI – optymizm inwestorów",
+      "name_en": "AI boom – investors cheer",
+      "market_effect": 0.04
+    },
+    {
+      "name_pl": "Inflacja zaskakuje analityków",
+      "name_en": "Inflation surprises analysts",
+      "market_effect": -0.03
+    },
+    {
+      "name_pl": "Szok naftowy – ceny ropy skaczą",
+      "name_en": "Oil shock – crude prices surge",
+      "market_effect": -0.05
+    },
+    {
+      "name_pl": "Rekordowy pakiet stymulacyjny rządów",
+      "name_en": "Record government stimulus package",
+      "market_effect": 0.06
+    },
+    {
+      "name_pl": "Lokalna epidemia zrywa łańcuchy dostaw",
+      "name_en": "Local outbreak disrupts supply chains",
+      "market_effect": -0.04
+    },
+    {
+      "name_pl": "Klęska żywiołowa uderza w łańcuchy dostaw",
+      "name_en": "Natural disaster hits supply chains",
+      "market_effect": -0.04
+    },
+    {
+      "name_pl": "Przełom w rozmowach pokojowych",
+      "name_en": "Breakthrough in peace talks",
+      "market_effect": 0.05
+    },
+    {
+      "name_pl": "Dolar gwałtownie słabnie",
+      "name_en": "US dollar weakens sharply",
+      "market_effect": 0.03
+    }
+  ],
+  "industry_events": [
+    {
+      "name_pl": "Nowe regulacje uderzają w branżę",
+      "name_en": "New regulations hit the sector",
+      "industry_effect": -0.09
+    },
+    {
+      "name_pl": "Rekordowy popyt w branży",
+      "name_en": "Record demand in the sector",
+      "industry_effect": 0.1
+    },
+    {
+      "name_pl": "Strajki i problemy z dostawami w branży",
+      "name_en": "Strikes and supply problems in the sector",
+      "industry_effect": -0.07
+    },
+    {
+      "name_pl": "Boom inwestycyjny w branży",
+      "name_en": "Investment boom in the sector",
+      "industry_effect": 0.08
+    },
+    {
+      "name_pl": "Cyberatak na dostawców uderza w branżę",
+      "name_en": "Cyberattack on suppliers hits the sector",
+      "industry_effect": -0.06
+    },
+    {
+      "name_pl": "Ulgi podatkowe wspierają branżę",
+      "name_en": "Tax breaks support the sector",
+      "industry_effect": 0.07
+    },
+    {
+      "name_pl": "Nowy standard branżowy wchodzi w życie",
+      "name_en": "A new industry standard is adopted",
+      "industry_effect": 0.07
+    },
+    {
+      "name_pl": "Fala bankructw dostawców w branży",
+      "name_en": "Wave of supplier bankruptcies hits the sector",
+      "industry_effect": -0.08
+    },
+    {
+      "name_pl": "Rząd dopłaca do rozwoju branży",
+      "name_en": "Government subsidies fuel the sector",
+      "industry_effect": 0.09
+    }
+  ],
+  "health_crises": {
+    "epidemic": {
+      "first_occurrence_days_after_start_min": 2520,
+      "first_occurrence_days_after_start_max": 5040,
+      "duration_days_min": 252,
+      "duration_days_max": 504,
+      "affected_regions_min": 1,
+      "affected_regions_max": 5,
+      "strength": 1.0
+    },
+    "pandemic": {
+      "first_occurrence_days_after_start_min": 10080,
+      "first_occurrence_days_after_start_max": 17640,
+      "duration_days_min": 756,
+      "duration_days_max": 1260,
+      "affected_regions": "all",
+      "strength": 1.05
+    },
+    "health_effect_by_sector_tag": {
+      "ecom": 0.095,
+      "ai": 0.075,
+      "health": 0.085,
+      "pharma": 0.065,
+      "phone": 0.055,
+      "cloud": 0.045,
+      "soft": 0.025,
+      "telco": 0.025,
+      "gpu": 0.04,
+      "chipdes": 0.02,
+      "retail": -0.065,
+      "airl": -0.105,
+      "jet": -0.09,
+      "plane": -0.055,
+      "trav": -0.085,
+      "ride": -0.035,
+      "soda": -0.025,
+      "food": -0.018,
+      "sport": -0.012
+    },
+    "regional_population_risk": {
+      "NA": 0.9,
+      "SA": 0.9,
+      "EU": 0.85,
+      "ME": 0.9,
+      "AF": 1.08,
+      "IN": 1.5,
+      "EA": 1.45,
+      "AS": 1.08
+    }
+  },
+  "other_simulation_systems": [
+    {
+      "id": "local_wars",
+      "description": "The source contains a local-war system and logs war/ceasefire/facility-loss events; this JSON extraction does not invent a full event catalogue where the source defines behavior procedurally."
+    },
+    {
+      "id": "world_war_iii",
+      "description": "The source includes a World War III system and event-log category."
+    },
+    {
+      "id": "sanctions",
+      "description": "The source includes sanctions and recovery/collapse-related event handling."
+    },
+    {
+      "id": "supplier_disruptions",
+      "description": "The source includes supplier failures, production halts, customer losses and related causal-chain events."
+    },
+    {
+      "id": "bankruptcies",
+      "description": "The source records bankruptcies and related company outcomes."
+    },
+    {
+      "id": "mergers_and_acquisitions",
+      "description": "The source records acquisitions, mergers, counter-bids and takeovers."
+    },
+    {
+      "id": "ipos",
+      "description": "The source records IPO-related events."
+    }
+  ],
+  "event_probability_notes": {
+    "global_market_event_roll": "The ev() function enters the global event branch when its random roll is below 0.03.",
+    "industry_event_roll": "The ev() function enters the industry event branch when its random roll is at least 0.03 and below 0.08."
+  }
+}
